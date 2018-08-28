@@ -222,3 +222,235 @@ http://www.athenstech.edu/
 <Response [504]>
 (504, [], 'http://www.athenstech.edu/', 'Error')
 
+http://www.btc.edu/
+<Response [502]>
+(502, [], 'http://www.btc.edu/', 'Error')
+
+http://www.byui.edu
+<Response [504]>
+(504, [], 'http://www.byui.edu', 'Error')
+
+http://www.castleton.edu
+<Response [200]>
+(0, [], 'http://www.castleton.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.castleton.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
+
+http://www.cegepoutaouais.qc.ca
+<Response [403]>
+(403, [], 'http://www.cegepoutaouais.qc.ca', 'Error')
+
+http://www.centralgatech.edu/
+<Response [504]>
+(504, [], 'http://www.centralgatech.edu/', 'Error')
+
+http://www.chesapeake.edu
+<Response [200]>
+(0, [], 'http://www.chesapeake.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.chesapeake.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
+
+http://www.cihe.edu.hk/
+<Response [500]>
+(500, [], 'http://www.cihe.edu.hk/', 'Error')
+
+http://www.cilip.org.uk/
+<Response [403]>
+(403, [], 'http://www.cilip.org.uk/', 'Error')
+
+http://www.coastalkzn.co.za/portfolio.html
+<Response [404]>
+(404, [], 'http://www.coastalkzn.co.za/portfolio.html', 'Error')
+
+http://www.coastalpines.edu
+<Response [504]>
+(504, [], 'http://www.coastalpines.edu', 'Error')
+
+http://www.cochranschoolofnursing.us
+<Response [403]>
+(403, [], 'http://www.cochranschoolofnursing.us', 'Error')
+
+http://www.cochranschoolofnursing.us/AboutUs.aspx
+<Response [403]>
+(403, [], 'http://www.cochranschoolofnursing.us/AboutUs.aspx', 'Error')
+
+http://www.coe.edu
+<Response [200]>
+(0, [], 'http://www.coe.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.coe.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
+
+http://www.coloradomesa.edu
+<Response [200]>
+(0, [], 'http://www.coloradomesa.edu', ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.coloradomesa.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x108a89be0>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+http://www.cumberland.edu
+<Response [500]>
+(500, [], 'http://www.cumberland.edu', 'Error')
+
+http://www.delval.edu
+<Response [200]>
+(0, [], 'http://www.delval.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.delval.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
+
+http://www.denmarktech.edu/mission-statement/
+<Response [404]>
+(404, [], 'http://www.denmarktech.edu/mission-statement/', 'Error')
+
+http://www.designcollege.com.au
+<Response [200]>
+(0, [], 'http://www.designcollege.com.au', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.designcollege.com.au', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108a96a90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.eaglegatecollege.edu
+<Response [200]>
+(0, [], 'http://www.eaglegatecollege.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.eaglegatecollege.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
+
+http://www.eastcentral.edu/
+<Response [200]>
+(0, [], 'http://www.eastcentral.edu/', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.eastcentral.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
+
+http://www.eslccc.com/about.html
+<Response [404]>
+(404, [], 'http://www.eslccc.com/about.html', 'Error')
+
+http://www.facebook.com/hkuscomplit/
+<Response [403]>
+(403, [], 'http://www.facebook.com/hkuscomplit/', 'Error')
+
+http://www.fas.nus.edu.sg/chs/eng/grad/degree_programmes_MA_double.html
+<Response [404]>
+(404, [], 'http://www.fas.nus.edu.sg/chs/eng/grad/degree_programmes_MA_double.html', 'Error')
+
+http://www.fas.nus.edu.sg/swk/courses/graduate_diploma/about
+<Response [500]>
+(500, [], 'http://www.fas.nus.edu.sg/swk/courses/graduate_diploma/about', 'Error')
+
+http://www.fas.nus.edu.sg/swk/courses/graduate_master/about_master_of_social_work_by_coursework
+<Response [500]>
+(500, [], 'http://www.fas.nus.edu.sg/swk/courses/graduate_master/about_master_of_social_work_by_coursework', 'Error')
+
+http://www.fas.nus.edu.sg/swk/courses/graduate_master/about_master_of_social_work_by_research
+<Response [500]>
+(500, [], 'http://www.fas.nus.edu.sg/swk/courses/graduate_master/about_master_of_social_work_by_research', 'Error')
+
+http://www.fas.nus.edu.sg/swk/courses/graduate_phd/about
+<Response [500]>
+(500, [], 'http://www.fas.nus.edu.sg/swk/courses/graduate_phd/about', 'Error')
+
+http://www.fas.nus.edu.sg/swk/courses/undergraduates/about_the_programme
+<Response [500]>
+(500, [], 'http://www.fas.nus.edu.sg/swk/courses/undergraduates/about_the_programme', 'Error')
+
+http://www.finlandia.edu
+<Response [200]>
+(0, [], 'http://www.finlandia.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.finlandia.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
+
+http://www.finlandia.edu/about/
+<Response [200]>
+(0, [], 'http://www.finlandia.edu/about/', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.finlandia.edu', port=443): Max retries exceeded with url: /about/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
+
+http://www.fitchburgstate.edu
+<Response [200]>
+(0, [], 'http://www.fitchburgstate.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.fitchburgstate.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
+
+http://www.fletcher.edu
+<Response [504]>
+(504, [], 'http://www.fletcher.edu', 'Error')
+
+http://www.fullcoll.edu
+<Response [504]>
+(504, [], 'http://www.fullcoll.edu', 'Error')
+
+http://www.ggc.edu/about-ggc/GGC
+<Response [404]>
+(404, [], 'http://www.ggc.edu/about-ggc/GGC', 'Error')
+
+http://www.gibbsmelville.edu
+<Response [200]>
+(0, [], 'http://www.gibbsmelville.edu', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.gibbsmelville.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108aac400>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.gocolumbia.edu/
+<Response [200]>
+(0, [], 'http://www.gocolumbia.edu/', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.gocolumbia.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
+
+http://www.gordonstate.edu/
+<Response [504]>
+(504, [], 'http://www.gordonstate.edu/', 'Error')
+
+http://www.hkucssa.com
+<Response [500]>
+(500, [], 'http://www.hkucssa.com', 'Error')
+
+http://www.holmescc.edu/
+<Response [504]>
+(504, [], 'http://www.holmescc.edu/', 'Error')
+
+http://www.immgsm.ac.za
+<Response [200]>
+(0, [], 'http://www.immgsm.ac.za', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.immgsm.ac.za', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
+
+http://www.isa-cuhk.com
+<Response [403]>
+(403, [], 'http://www.isa-cuhk.com', 'Error')
+
+http://www.judson.edu/
+<Response [504]>
+(504, [], 'http://www.judson.edu/', 'Error')
+
+http://www.judson.edu/about-judson/
+<Response [504]>
+(504, [], 'http://www.judson.edu/about-judson/', 'Error')
+
+http://www.judson.edu/why-a-womens-college/
+<Response [504]>
+(504, [], 'http://www.judson.edu/why-a-womens-college/', 'Error')
+
+http://www.kellogg.edu
+<Response [403]>
+(403, [], 'http://www.kellogg.edu', 'Error')
+
+http://www.laniertech.edu/
+<Response [504]>
+(504, [], 'http://www.laniertech.edu/', 'Error')
+
+http://www.laredo.edu/cms/index.aspx
+<Response [504]>
+(504, [], 'http://www.laredo.edu/cms/index.aspx', 'Error')
+
+http://www.laredo.edu/cms/mission.aspx
+<Response [504]>
+(504, [], 'http://www.laredo.edu/cms/mission.aspx', 'Error')
+
+http://www.latech.edu
+<Response [200]>
+(0, [], 'http://www.latech.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.latech.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
+
+http://www.law.ac.uk
+<Response [200]>
+(0, [], 'http://www.law.ac.uk', ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))))
+
+http://www.libi.edu
+<Response [200]>
+(0, [], 'http://www.libi.edu', SSLError(MaxRetryError('HTTPSConnectionPool(host=\'www.libi.edu\', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError("hostname \'www.libi.edu\' doesn\'t match \'libi.edu\'")))')))
+
+http://www.linguisinternational.ac.nz
+<Response [503]>
+(503, [], 'http://www.linguisinternational.ac.nz', 'Error')
+
+http://www.linguisinternational.ac.nz/about-us.html
+<Response [503]>
+(503, [], 'http://www.linguisinternational.ac.nz/about-us.html', 'Error')
+
+http://www.mchenry.edu
+<Response [502]>
+(502, [], 'http://www.mchenry.edu', 'Error')
+
+http://www.mclennan.edu
+<Response [504]>
+(504, [], 'http://www.mclennan.edu', 'Error')
+
+http://www.menominee.edu/
+<Response [502]>
+(502, [], 'http://www.menominee.edu/', 'Error')
+
+http://www.menominee.edu/About_CMN.aspx?id=533
+<Response [502]>
+(502, [], 'http://www.menominee.edu/About_CMN.aspx?id=533', 'Error')
+
+http://www.mji.edu
+<Response [200]>
+(0, [], 'http://www.mji.edu', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.mji.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108a75208>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+

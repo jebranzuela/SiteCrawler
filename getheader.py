@@ -13,7 +13,7 @@ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36
 
 for link in links:
     try:
-        r = requests.head(link,headers=headers,allow_redirects=True)
+        r = requests.head(link,headers=headers,allow_redirects=True, verify=False)
         report = str(r.status_code)
 
         if r.history:
