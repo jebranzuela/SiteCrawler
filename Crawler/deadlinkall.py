@@ -1,9 +1,15 @@
-import requests
+import sys
 from datetime import datetime
+
+import requests
 from bs4 import BeautifulSoup
+
 
 start = datetime.now()
 print(start)
+
+sys.setrecursionlimit(50000000)
+print(sys.getrecursionlimit())
 
 osau_urls = []
 ext_urls = []
@@ -50,26 +56,25 @@ def scrapeSite(url):
 	diff = in_temp - in_osau
 	osau_urls = osau_urls + list(diff)
 
-	# Write all links to sites.txt
-	file = open("sites.txt", "w")
-
-	for link in osau_urls:
-		file.writelines("%s\n" % link)
-
-	file.write("==========EXTERNAL LINKS==========\n")
-
-	for link in ext_urls:
-		file.writelines("%s\n" % link)
-
-	file.close()
-
 	# Pass all new links to method
 	for url in diff:
 		scrapeSite(url)
 
-
 url = "http://localhost/osau"
 scrapeSite(url)
+
+file = open("sites.txt", "w")
+
+# Write all links to sites.txt
+for link in osau_urls:
+	file.writelines("%s\n" % link)
+
+file.write("==========EXTERNAL LINKS==========\n")
+
+for link in ext_urls:
+	file.writelines("%s\n" % link)
+
+file.close()
 
 end = datetime.now()
 print(end)

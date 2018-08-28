@@ -1,11 +1,3 @@
-http://ase.ntu.edu.sg/undergraduate-programme/bachelor-science-environmental-earth-systems-science
-<Response [500]>
-(500, [], 'http://ase.ntu.edu.sg/undergraduate-programme/bachelor-science-environmental-earth-systems-science', 'Error')
-
-http://ase.ntu.edu.sg/undergraduate-programme/double-major-environmental-earth-system-science-and-public-policy#.W1VduMap2m0
-<Response [500]>
-(500, [], 'http://ase.ntu.edu.sg/undergraduate-programme/double-major-environmental-earth-system-science-and-public-policy#.W1VduMap2m0', 'Error')
-
 http://awc.edu/welcome-to-awc/who-we-are
 <Response [404]>
 (404, [], 'http://awc.edu/welcome-to-awc/who-we-are', 'Error')
@@ -15,8 +7,8 @@ http://calumssd.org
 (502, [], 'http://calumssd.org', 'Error')
 
 http://egcc.edu/
-<Response [200]>
-(0, [], 'http://egcc.edu/', ConnectionError(MaxRetryError("HTTPConnectionPool(host='egcc.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108a752e8>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+0
+(0, [], 'http://egcc.edu/', ConnectionError(MaxRetryError("HTTPConnectionPool(host='egcc.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10c6db0f0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
 
 http://familyoffaith.edu
 <Response [403]>
@@ -34,17 +26,13 @@ http://hamiltontechcollege.edu
 <Response [403]>
 (403, [], 'http://hamiltontechcollege.edu', 'Error')
 
-http://michener.ca
-<Response [200]>
-(0, [], 'http://michener.ca', ConnectionError(MaxRetryError("HTTPConnectionPool(host='michener.ca', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1088d6e48>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+http://laney.edu/wp/
+<Response [404]>
+(404, [<Response [301]>], 'http://laney.edu/wp/', 'Error')
 
 http://northshorecollege.edu
-<Response [200]>
-(0, [], 'http://northshorecollege.edu', ConnectionError(MaxRetryError("HTTPConnectionPool(host='northshorecollege.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108a75c50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
-
-http://plattcollege.edu
-<Response [200]>
-(0, [], 'http://plattcollege.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='plattcollege.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
+0
+(0, [], 'http://northshorecollege.edu', ConnectionError(MaxRetryError("HTTPConnectionPool(host='northshorecollege.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10c811ef0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
 
 http://prairiestate.edu/
 <Response [504]>
@@ -58,85 +46,33 @@ http://researchcollege.edu
 <Response [504]>
 (504, [], 'http://researchcollege.edu', 'Error')
 
+http://teoleary.com/teaching-hku/huma7001-introduction-to-thesis-writing-critical-humanities/
+<Response [404]>
+(404, [<Response [301]>], 'http://teoleary.com/teaching-hku/huma7001-introduction-to-thesis-writing-critical-humanities/', 'Error')
+
 http://tinyurl.com/src-sutdstaff2
-<Response [200]>
-(0, [], 'http://tinyurl.com/src-sutdstaff2', ConnectionError(MaxRetryError("HTTPConnectionPool(host='sutdcentral.sutd.edu.sg', port=80): Max retries exceeded with url: /Departments/HR/Department%20Document%20Library/Forms/AllItems.aspx?RootFolder=%2FDepartments%2FHR%2FDepartment%20Document%20Library%2FSports%20and%20Recreation%20Centre&FolderCTID=0x0120009F7158EFA6C91A4E954701DD74F89C5A&View=%7BE3B76F2B-CBB6-46AF-A610-AF6AA6237C9A%7D (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108a0ca90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+0
+(0, [], 'http://tinyurl.com/src-sutdstaff2', ConnectionError(MaxRetryError("HTTPConnectionPool(host='sutdcentral.sutd.edu.sg', port=80): Max retries exceeded with url: /Departments/HR/Department%20Document%20Library/Forms/AllItems.aspx?RootFolder=%2FDepartments%2FHR%2FDepartment%20Document%20Library%2FSports%20and%20Recreation%20Centre&FolderCTID=0x0120009F7158EFA6C91A4E954701DD74F89C5A&View=%7BE3B76F2B-CBB6-46AF-A610-AF6AA6237C9A%7D (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10c8a4630>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
 
 http://tinyurl.com/src-sutdstudent
-<Response [200]>
-(0, [], 'http://tinyurl.com/src-sutdstudent', ConnectionError(MaxRetryError("HTTPConnectionPool(host='sutdcentral.sutd.edu.sg', port=80): Max retries exceeded with url: /housing/Office%20of%20Housing/Forms/AllItems.aspx?RootFolder=%2Fhousing%2FOffice%20of%20Housing%2FSports%20and%20Recreation%20Centre&FolderCTID=0x0120005EA5A776A03FA54BAAC375526724D6B8&View=%7B710018BB-AE7B-4FFE-B07D-1E6EECEB7409%7D (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108a75f98>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+0
+(0, [], 'http://tinyurl.com/src-sutdstudent', ConnectionError(MaxRetryError("HTTPConnectionPool(host='sutdcentral.sutd.edu.sg', port=80): Max retries exceeded with url: /housing/Office%20of%20Housing/Forms/AllItems.aspx?RootFolder=%2Fhousing%2FOffice%20of%20Housing%2FSports%20and%20Recreation%20Centre&FolderCTID=0x0120005EA5A776A03FA54BAAC375526724D6B8&View=%7B710018BB-AE7B-4FFE-B07D-1E6EECEB7409%7D (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10c88e320>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
 
 http://tncc.edu
-<Response [200]>
+0
 (0, [], 'http://tncc.edu', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
-
-http://web.edu.hku.hk/programme/audiology
-<Response [200]>
-(0, [], 'http://web.edu.hku.hk/programme/audiology', SSLError(MaxRetryError("HTTPSConnectionPool(host='web.edu.hku.hk', port=443): Max retries exceeded with url: /programme/audiology (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
-http://web.edu.hku.hk/programme/bedbsc_6119
-<Response [200]>
-(0, [], 'http://web.edu.hku.hk/programme/bedbsc_6119', SSLError(MaxRetryError("HTTPSConnectionPool(host='web.edu.hku.hk', port=443): Max retries exceeded with url: /programme/bedbsc_6119 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
-http://web.edu.hku.hk/programme/bedbss_6195
-<Response [200]>
-(0, [], 'http://web.edu.hku.hk/programme/bedbss_6195', SSLError(MaxRetryError("HTTPSConnectionPool(host='web.edu.hku.hk', port=443): Max retries exceeded with url: /programme/bedbss_6195 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
-http://web.edu.hku.hk/programme/bsacd/overviews
-<Response [200]>
-(0, [], 'http://web.edu.hku.hk/programme/bsacd/overviews', SSLError(MaxRetryError("HTTPSConnectionPool(host='web.edu.hku.hk', port=443): Max retries exceeded with url: /programme/bsacd/overviews (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
-http://web.edu.hku.hk/programme/bsim
-<Response [200]>
-(0, [], 'http://web.edu.hku.hk/programme/bsim', SSLError(MaxRetryError("HTTPSConnectionPool(host='web.edu.hku.hk', port=443): Max retries exceeded with url: /programme/bsim (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
-http://web.edu.hku.hk/programme/bsshs_6157
-<Response [200]>
-(0, [], 'http://web.edu.hku.hk/programme/bsshs_6157', SSLError(MaxRetryError("HTTPSConnectionPool(host='web.edu.hku.hk', port=443): Max retries exceeded with url: /programme/bsshs_6157 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
-http://web.edu.hku.hk/programme/edd/overviews
-<Response [200]>
-(0, [], 'http://web.edu.hku.hk/programme/edd/overviews', SSLError(MaxRetryError("HTTPSConnectionPool(host='web.edu.hku.hk', port=443): Max retries exceeded with url: /programme/edd/overviews (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
-http://web.edu.hku.hk/programme/matesol/overviews
-<Response [200]>
-(0, [], 'http://web.edu.hku.hk/programme/matesol/overviews', SSLError(MaxRetryError("HTTPSConnectionPool(host='web.edu.hku.hk', port=443): Max retries exceeded with url: /programme/matesol/overviews (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
-http://web.edu.hku.hk/programme/med
-<Response [200]>
-(0, [], 'http://web.edu.hku.hk/programme/med', SSLError(MaxRetryError("HTTPSConnectionPool(host='web.edu.hku.hk', port=443): Max retries exceeded with url: /programme/med (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
-http://web.edu.hku.hk/programme/mite
-<Response [200]>
-(0, [], 'http://web.edu.hku.hk/programme/mite', SSLError(MaxRetryError("HTTPSConnectionPool(host='web.edu.hku.hk', port=443): Max retries exceeded with url: /programme/mite (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
-http://web.edu.hku.hk/programme/mite/
-<Response [200]>
-(0, [], 'http://web.edu.hku.hk/programme/mite/', SSLError(MaxRetryError("HTTPSConnectionPool(host='web.edu.hku.hk', port=443): Max retries exceeded with url: /programme/mite/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
-http://web.edu.hku.hk/programme/mlim
-<Response [200]>
-(0, [], 'http://web.edu.hku.hk/programme/mlim', SSLError(MaxRetryError("HTTPSConnectionPool(host='web.edu.hku.hk', port=443): Max retries exceeded with url: /programme/mlim (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
-http://web.edu.hku.hk/programme/mlim/
-<Response [200]>
-(0, [], 'http://web.edu.hku.hk/programme/mlim/', SSLError(MaxRetryError("HTTPSConnectionPool(host='web.edu.hku.hk', port=443): Max retries exceeded with url: /programme/mlim/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
-http://web.edu.hku.hk/programme/mphil-phd/overviews
-<Response [200]>
-(0, [], 'http://web.edu.hku.hk/programme/mphil-phd/overviews', SSLError(MaxRetryError("HTTPSConnectionPool(host='web.edu.hku.hk', port=443): Max retries exceeded with url: /programme/mphil-phd/overviews (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
-http://web.edu.hku.hk/programme/pgde
-<Response [200]>
-(0, [], 'http://web.edu.hku.hk/programme/pgde', SSLError(MaxRetryError("HTTPSConnectionPool(host='web.edu.hku.hk', port=443): Max retries exceeded with url: /programme/pgde (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
-http://web.edu.hku.hk/programme/pgdetcsl
-<Response [200]>
-(0, [], 'http://web.edu.hku.hk/programme/pgdetcsl', SSLError(MaxRetryError("HTTPSConnectionPool(host='web.edu.hku.hk', port=443): Max retries exceeded with url: /programme/pgdetcsl (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
 
 http://web.hku.hk/%7Ejudoclub
 <Response [404]>
 (404, [], 'http://web.hku.hk/%7Ejudoclub', 'Error')
+
+http://www.aaps.ca
+<Response [403]>
+(403, [<Response [301]>], 'http://www.aaps.ca', 'Error')
+
+http://www.aboutads.info/choices
+<Response [502]>
+(502, [<Response [302]>], 'http://www.aboutads.info/choices', 'Error')
 
 http://www.aca.edu.sg
 <Response [404]>
@@ -182,45 +118,77 @@ http://www.aca.edu.sg/courses/Diploma-of-Project-Management-22
 <Response [404]>
 (404, [], 'http://www.aca.edu.sg/courses/Diploma-of-Project-Management-22', 'Error')
 
+http://www.aila.org.au/
+<Response [404]>
+(404, [<Response [302]>, <Response [302]>, <Response [302]>, <Response [302]>, <Response [302]>, <Response [302]>, <Response [302]>, <Response [302]>, <Response [302]>, <Response [302]>, <Response [302]>, <Response [302]>, <Response [302]>], 'http://www.aila.org.au/', 'Error')
+
+http://www.aipm.gov.au/about-the-aipm/
+<Response [404]>
+(404, [<Response [301]>], 'http://www.aipm.gov.au/about-the-aipm/', 'Error')
+
+http://www.allencc.edu/
+<Response [500]>
+(500, [<Response [301]>], 'http://www.allencc.edu/', 'Error')
+
 http://www.angelina.edu/
 <Response [504]>
 (504, [], 'http://www.angelina.edu/', 'Error')
 
-http://www.arc.losrios.edu
-<Response [200]>
-(0, [], 'http://www.arc.losrios.edu', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.arc.losrios.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1088d6c88>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+http://www.arch.nus.edu.sg/programme/architecture/ba-arch/aki_handbk_1819.pdf
+<Response [500]>
+(500, [<Response [301]>], 'http://www.arch.nus.edu.sg/programme/architecture/ba-arch/aki_handbk_1819.pdf', 'Error')
 
-http://www.arc.losrios.edu/About_ARC.htm
-<Response [200]>
-(0, [], 'http://www.arc.losrios.edu/About_ARC.htm', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.arc.losrios.edu', port=80): Max retries exceeded with url: /About_ARC.htm (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108a0cfd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+http://www.arch.nus.edu.sg/programme/architecture/ba-arch/con1718.pdf
+<Response [500]>
+(500, [<Response [301]>], 'http://www.arch.nus.edu.sg/programme/architecture/ba-arch/con1718.pdf', 'Error')
 
-http://www.arts.cuhk.edu.hk/~fadept/?page_id=30
-<Response [200]>
-(0, [], 'http://www.arts.cuhk.edu.hk/~fadept/?page_id=30', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.arts.cuhk.edu.hk', port=80): Max retries exceeded with url: /~fadept/?page_id=30 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108a892b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+http://www.arch.nus.edu.sg/programme/architecture/m-arch/m-arch-info.pdf
+<Response [500]>
+(500, [<Response [301]>], 'http://www.arch.nus.edu.sg/programme/architecture/m-arch/m-arch-info.pdf', 'Error')
 
-http://www.arts.cuhk.edu.hk/~fadept/?page_id=32
-<Response [200]>
-(0, [], 'http://www.arts.cuhk.edu.hk/~fadept/?page_id=32', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.arts.cuhk.edu.hk', port=80): Max retries exceeded with url: /~fadept/?page_id=32 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108a96780>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+http://www.arch.nus.edu.sg/programme/architecture/ma-arch.html#
+<Response [500]>
+(500, [<Response [301]>], 'http://www.arch.nus.edu.sg/programme/architecture/ma-arch.html#', 'Error')
 
-http://www.arts.cuhk.edu.hk/~fadept/?page_id=34
-<Response [200]>
-(0, [], 'http://www.arts.cuhk.edu.hk/~fadept/?page_id=34', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.arts.cuhk.edu.hk', port=80): Max retries exceeded with url: /~fadept/?page_id=34 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108a767b8>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+http://www.arch.nus.edu.sg/programme/architecture/march-dts.pdf
+<Response [500]>
+(500, [<Response [301]>], 'http://www.arch.nus.edu.sg/programme/architecture/march-dts.pdf', 'Error')
 
-http://www.arts.cuhk.edu.hk/~music/en/postgrad_research.php
-<Response [200]>
-(0, [], 'http://www.arts.cuhk.edu.hk/~music/en/postgrad_research.php', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.arts.cuhk.edu.hk', port=80): Max retries exceeded with url: /~music/en/postgrad_research.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108a76e48>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+http://www.arch.nus.edu.sg/programme/architecture/march-ud.pdf
+<Response [500]>
+(500, [<Response [301]>], 'http://www.arch.nus.edu.sg/programme/architecture/march-ud.pdf', 'Error')
 
-http://www.arts.cuhk.edu.hk/~music/en/postgrad_taught.php
-<Response [200]>
-(0, [], 'http://www.arts.cuhk.edu.hk/~music/en/postgrad_taught.php', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.arts.cuhk.edu.hk', port=80): Max retries exceeded with url: /~music/en/postgrad_taught.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108a76d30>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+http://www.arch.nus.edu.sg/programme/architecture/phd-arch.html
+<Response [500]>
+(500, [<Response [301]>], 'http://www.arch.nus.edu.sg/programme/architecture/phd-arch.html', 'Error')
 
-http://www.arts.cuhk.edu.hk/~music/en/undergraduate_overview.php
-<Response [200]>
-(0, [], 'http://www.arts.cuhk.edu.hk/~music/en/undergraduate_overview.php', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.arts.cuhk.edu.hk', port=80): Max retries exceeded with url: /~music/en/undergraduate_overview.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108a76eb8>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+http://www.arch.nus.edu.sg/programme/landscape-architecture/about-mla.html
+<Response [500]>
+(500, [<Response [301]>], 'http://www.arch.nus.edu.sg/programme/landscape-architecture/about-mla.html', 'Error')
+
+http://www.arch.nus.edu.sg/programme/urban-design/2-year-part-time.html
+<Response [500]>
+(500, [<Response [301]>], 'http://www.arch.nus.edu.sg/programme/urban-design/2-year-part-time.html', 'Error')
 
 http://www.athenstech.edu/
 <Response [504]>
 (504, [], 'http://www.athenstech.edu/', 'Error')
+
+http://www.bishopg.ac.uk/about/visionmission/
+<Response [404]>
+(404, [<Response [301]>], 'http://www.bishopg.ac.uk/about/visionmission/', 'Error')
+
+http://www.bloomfield.edu
+<Response [503]>
+(503, [<Response [301]>], 'http://www.bloomfield.edu', 'Error')
+
+http://www.bmcc.edu
+<Response [504]>
+(504, [], 'http://www.bmcc.edu', 'Error')
+
+http://www.bmcc.edu/about-bmcc
+<Response [504]>
+(504, [], 'http://www.bmcc.edu/about-bmcc', 'Error')
 
 http://www.btc.edu/
 <Response [502]>
@@ -230,9 +198,9 @@ http://www.byui.edu
 <Response [504]>
 (504, [], 'http://www.byui.edu', 'Error')
 
-http://www.castleton.edu
-<Response [200]>
-(0, [], 'http://www.castleton.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.castleton.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
+http://www.carlowcollege.ie/About-the-College/Welcome
+<Response [404]>
+(404, [<Response [301]>], 'http://www.carlowcollege.ie/About-the-College/Welcome', 'Error')
 
 http://www.cegepoutaouais.qc.ca
 <Response [403]>
@@ -242,10 +210,6 @@ http://www.centralgatech.edu/
 <Response [504]>
 (504, [], 'http://www.centralgatech.edu/', 'Error')
 
-http://www.chesapeake.edu
-<Response [200]>
-(0, [], 'http://www.chesapeake.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.chesapeake.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
 http://www.cihe.edu.hk/
 <Response [500]>
 (500, [], 'http://www.cihe.edu.hk/', 'Error')
@@ -253,6 +217,10 @@ http://www.cihe.edu.hk/
 http://www.cilip.org.uk/
 <Response [403]>
 (403, [], 'http://www.cilip.org.uk/', 'Error')
+
+http://www.cityu.edu.hk
+<Response [500]>
+(500, [<Response [301]>], 'http://www.cityu.edu.hk', 'Error')
 
 http://www.coastalkzn.co.za/portfolio.html
 <Response [404]>
@@ -270,37 +238,13 @@ http://www.cochranschoolofnursing.us/AboutUs.aspx
 <Response [403]>
 (403, [], 'http://www.cochranschoolofnursing.us/AboutUs.aspx', 'Error')
 
-http://www.coe.edu
-<Response [200]>
-(0, [], 'http://www.coe.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.coe.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
-http://www.coloradomesa.edu
-<Response [200]>
-(0, [], 'http://www.coloradomesa.edu', ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.coloradomesa.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x108a89be0>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
-
-http://www.cumberland.edu
-<Response [500]>
-(500, [], 'http://www.cumberland.edu', 'Error')
-
-http://www.delval.edu
-<Response [200]>
-(0, [], 'http://www.delval.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.delval.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
 http://www.denmarktech.edu/mission-statement/
 <Response [404]>
 (404, [], 'http://www.denmarktech.edu/mission-statement/', 'Error')
 
 http://www.designcollege.com.au
-<Response [200]>
-(0, [], 'http://www.designcollege.com.au', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.designcollege.com.au', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108a96a90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
-
-http://www.eaglegatecollege.edu
-<Response [200]>
-(0, [], 'http://www.eaglegatecollege.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.eaglegatecollege.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
-http://www.eastcentral.edu/
-<Response [200]>
-(0, [], 'http://www.eastcentral.edu/', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.eastcentral.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
+0
+(0, [], 'http://www.designcollege.com.au', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.designcollege.com.au', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10c8cb0f0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
 
 http://www.eslccc.com/about.html
 <Response [404]>
@@ -334,18 +278,6 @@ http://www.fas.nus.edu.sg/swk/courses/undergraduates/about_the_programme
 <Response [500]>
 (500, [], 'http://www.fas.nus.edu.sg/swk/courses/undergraduates/about_the_programme', 'Error')
 
-http://www.finlandia.edu
-<Response [200]>
-(0, [], 'http://www.finlandia.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.finlandia.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
-http://www.finlandia.edu/about/
-<Response [200]>
-(0, [], 'http://www.finlandia.edu/about/', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.finlandia.edu', port=443): Max retries exceeded with url: /about/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
-http://www.fitchburgstate.edu
-<Response [200]>
-(0, [], 'http://www.fitchburgstate.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.fitchburgstate.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
 http://www.fletcher.edu
 <Response [504]>
 (504, [], 'http://www.fletcher.edu', 'Error')
@@ -359,48 +291,44 @@ http://www.ggc.edu/about-ggc/GGC
 (404, [], 'http://www.ggc.edu/about-ggc/GGC', 'Error')
 
 http://www.gibbsmelville.edu
-<Response [200]>
-(0, [], 'http://www.gibbsmelville.edu', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.gibbsmelville.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108aac400>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
-
-http://www.gocolumbia.edu/
-<Response [200]>
-(0, [], 'http://www.gocolumbia.edu/', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.gocolumbia.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
+0
+(0, [], 'http://www.gibbsmelville.edu', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.gibbsmelville.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10c8b3e10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
 
 http://www.gordonstate.edu/
 <Response [504]>
 (504, [], 'http://www.gordonstate.edu/', 'Error')
 
-http://www.hkucssa.com
-<Response [500]>
-(500, [], 'http://www.hkucssa.com', 'Error')
+http://www.gradsch.hku.hk/gradsch/current-students/coursework-information/coursework-enrolment/general-coursework-requirement#
+<Response [404]>
+(404, [<Response [302]>], 'http://www.gradsch.hku.hk/gradsch/current-students/coursework-information/coursework-enrolment/general-coursework-requirement#', 'Error')
 
 http://www.holmescc.edu/
 <Response [504]>
 (504, [], 'http://www.holmescc.edu/', 'Error')
 
-http://www.immgsm.ac.za
-<Response [200]>
-(0, [], 'http://www.immgsm.ac.za', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.immgsm.ac.za', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
+http://www.iibit.edu.au
+<Response [403]>
+(403, [<Response [301]>], 'http://www.iibit.edu.au', 'Error')
+
+http://www.insead.edu/home/
+<Response [503]>
+(503, [<Response [301]>], 'http://www.insead.edu/home/', 'Error')
 
 http://www.isa-cuhk.com
 <Response [403]>
 (403, [], 'http://www.isa-cuhk.com', 'Error')
 
-http://www.judson.edu/
-<Response [504]>
-(504, [], 'http://www.judson.edu/', 'Error')
-
-http://www.judson.edu/about-judson/
-<Response [504]>
-(504, [], 'http://www.judson.edu/about-judson/', 'Error')
-
-http://www.judson.edu/why-a-womens-college/
-<Response [504]>
-(504, [], 'http://www.judson.edu/why-a-womens-college/', 'Error')
-
 http://www.kellogg.edu
 <Response [403]>
 (403, [], 'http://www.kellogg.edu', 'Error')
+
+http://www.lakelandcc.edu
+<Response [504]>
+(504, [], 'http://www.lakelandcc.edu', 'Error')
+
+http://www.lakelandcc.edu/web/about/lakeland
+<Response [502]>
+(502, [], 'http://www.lakelandcc.edu/web/about/lakeland', 'Error')
 
 http://www.laniertech.edu/
 <Response [504]>
@@ -414,17 +342,13 @@ http://www.laredo.edu/cms/mission.aspx
 <Response [504]>
 (504, [], 'http://www.laredo.edu/cms/mission.aspx', 'Error')
 
-http://www.latech.edu
-<Response [200]>
-(0, [], 'http://www.latech.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.latech.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)')))")))
-
 http://www.law.ac.uk
-<Response [200]>
+0
 (0, [], 'http://www.law.ac.uk', ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))))
 
-http://www.libi.edu
-<Response [200]>
-(0, [], 'http://www.libi.edu', SSLError(MaxRetryError('HTTPSConnectionPool(host=\'www.libi.edu\', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError("hostname \'www.libi.edu\' doesn\'t match \'libi.edu\'")))')))
+http://www.law.hku.hk/postgrad/
+<Response [404]>
+(404, [<Response [302]>, <Response [301]>], 'http://www.law.hku.hk/postgrad/', 'Error')
 
 http://www.linguisinternational.ac.nz
 <Response [503]>
@@ -451,6 +375,86 @@ http://www.menominee.edu/About_CMN.aspx?id=533
 (502, [], 'http://www.menominee.edu/About_CMN.aspx?id=533', 'Error')
 
 http://www.mji.edu
-<Response [200]>
-(0, [], 'http://www.mji.edu', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.mji.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108a75208>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+0
+(0, [], 'http://www.mji.edu', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.mji.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10c8d3d30>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.ncat.edu
+<Response [504]>
+(504, [], 'http://www.ncat.edu', 'Error')
+
+http://www.nd.edu.au
+0
+(0, [], 'http://www.nd.edu.au', ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))))
+
+http://www.njc.edu/
+<Response [504]>
+(504, [], 'http://www.njc.edu/', 'Error')
+
+http://www.njc.edu/Programs-and-Classes
+<Response [504]>
+(504, [], 'http://www.njc.edu/Programs-and-Classes', 'Error')
+
+http://www.nmcc.edu/
+0
+(0, [], 'http://www.nmcc.edu/', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.nmcc.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10c8e8a90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.northshore.edu
+<Response [405]>
+(405, [], 'http://www.northshore.edu', 'Error')
+
+http://www.nunez.edu/
+0
+(0, [], 'http://www.nunez.edu/', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.nunez.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10c8ebcf8>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.nwmissouri.edu
+<Response [404]>
+(404, [], 'http://www.nwmissouri.edu', 'Error')
+
+http://www.nwti.edu
+<Response [404]>
+(404, [], 'http://www.nwti.edu', 'Error')
+
+http://www.nwti.edu/diploma-programs-1.html
+<Response [404]>
+(404, [], 'http://www.nwti.edu/diploma-programs-1.html', 'Error')
+
+http://www.oases.edu.au
+0
+(0, [], 'http://www.oases.edu.au', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.oases.edu.au', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10c8eb438>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.occc.edu
+<Response [504]>
+(504, [], 'http://www.occc.edu', 'Error')
+
+http://www.ogeecheetech.edu/
+<Response [504]>
+(504, [], 'http://www.ogeecheetech.edu/', 'Error')
+
+http://www.ohiodominican.edu
+<Response [404]>
+(404, [], 'http://www.ohiodominican.edu', 'Error')
+
+http://www.ourschoolandus.com
+<Response [401]>
+(401, [], 'http://www.ourschoolandus.com', 'Error')
+
+http://www.paloverde.edu
+<Response [504]>
+(504, [], 'http://www.paloverde.edu', 'Error')
+
+http://www.pharmacy.cuhk.edu.hk/1/education/tpg/pmq/
+<Response [404]>
+(404, [], 'http://www.pharmacy.cuhk.edu.hk/1/education/tpg/pmq/', 'Error')
+
+http://www.piedmontu.edu/
+<Response [404]>
+(404, [], 'http://www.piedmontu.edu/', 'Error')
+
+http://www.potomacstatecollege.edu/
+0
+(0, [], 'http://www.potomacstatecollege.edu/', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.potomacstatecollege.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10c8c0978>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+http://www.potomacstatecollege.edu/about/
+0
+(0, [], 'http://www.potomacstatecollege.edu/about/', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.potomacstatecollege.edu', port=80): Max retries exceeded with url: /about/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10c8cbac8>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
 
