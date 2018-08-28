@@ -1,0 +1,1112 @@
+http://45rotaracthkusu.wixsite.com/hkurotaract
+<Response [200]>
+(200, [], 'http://45rotaracthkusu.wixsite.com/hkurotaract', 'No error. No redirect.')
+
+http://aais.edu.sg/
+<Response [200]>
+(200, [], 'http://aais.edu.sg/', 'No error. No redirect.')
+
+http://ab.edu
+<Response [200]>
+(200, [], 'http://ab.edu', 'No error. No redirect.')
+
+http://ab.edu/about-abu/
+<Response [200]>
+(200, [], 'http://ab.edu/about-abu/', 'No error. No redirect.')
+
+http://abacusinstitute.ac.nz
+<Response [200]>
+(200, [], 'http://abacusinstitute.ac.nz', 'No error. No redirect.')
+
+http://abacusinstitute.ac.nz/about-us/
+<Response [200]>
+(200, [], 'http://abacusinstitute.ac.nz/about-us/', 'No error. No redirect.')
+
+http://about.mcm.edu/
+<Response [200]>
+(200, [], 'http://about.mcm.edu/', 'No error. No redirect.')
+
+http://abs.bschool.cuhk.edu.hk/about
+<Response [200]>
+(200, [], 'http://abs.bschool.cuhk.edu.hk/about', 'No error. No redirect.')
+
+http://academicdepartments.musc.edu/musc/
+<Response [200]>
+(200, [], 'http://academicdepartments.musc.edu/musc/', 'No error. No redirect.')
+
+http://acc.edu.sg/en/index.php/advanced-diploma-in-counselling-and-psychology/
+<Response [200]>
+(200, [], 'http://acc.edu.sg/en/index.php/advanced-diploma-in-counselling-and-psychology/', 'No error. No redirect.')
+
+http://acc.edu.sg/en/index.php/higher-diploma-in-applied-psychology/
+<Response [200]>
+(200, [], 'http://acc.edu.sg/en/index.php/higher-diploma-in-applied-psychology/', 'No error. No redirect.')
+
+http://acc.edu.sg/en/index.php/higher-diploma-in-counselling-psychology/
+<Response [200]>
+(200, [], 'http://acc.edu.sg/en/index.php/higher-diploma-in-counselling-psychology/', 'No error. No redirect.')
+
+http://acc.edu.sg/en/index.php/specialist-certificate-in-children-and-youth-counselling-and-management/
+<Response [200]>
+(200, [], 'http://acc.edu.sg/en/index.php/specialist-certificate-in-children-and-youth-counselling-and-management/', 'No error. No redirect.')
+
+http://acc.edu.sg/en/index.php/specialist-certificate-in-consumer-psychology/
+<Response [200]>
+(200, [], 'http://acc.edu.sg/en/index.php/specialist-certificate-in-consumer-psychology/', 'No error. No redirect.')
+
+http://acc.edu.sg/en/index.php/specialist-certificate-in-counselling-addiction-gambling/
+<Response [200]>
+(200, [], 'http://acc.edu.sg/en/index.php/specialist-certificate-in-counselling-addiction-gambling/', 'No error. No redirect.')
+
+http://acc.edu.sg/en/index.php/specialist-certificate-in-practical-counselling/
+<Response [200]>
+(200, [], 'http://acc.edu.sg/en/index.php/specialist-certificate-in-practical-counselling/', 'No error. No redirect.')
+
+http://acc.edu.sg/en/index.php/specialist-certificate-in-relationship-and-marital-counselling/
+<Response [200]>
+(200, [], 'http://acc.edu.sg/en/index.php/specialist-certificate-in-relationship-and-marital-counselling/', 'No error. No redirect.')
+
+http://acc.edu.sg/en/index.php/specialist-certificate-in-work-place-counselling-and-conflict-management/
+<Response [200]>
+(200, [], 'http://acc.edu.sg/en/index.php/specialist-certificate-in-work-place-counselling-and-conflict-management/', 'No error. No redirect.')
+
+http://acc.edu.sg/en/index.php/specialist-diploma-in-applied-psychology/
+<Response [200]>
+(200, [], 'http://acc.edu.sg/en/index.php/specialist-diploma-in-applied-psychology/', 'No error. No redirect.')
+
+http://acc.edu.sg/en/index.php/specialist-diploma-in-children-and-youth-counselling-and-management/
+<Response [200]>
+(200, [], 'http://acc.edu.sg/en/index.php/specialist-diploma-in-children-and-youth-counselling-and-management/', 'No error. No redirect.')
+
+http://acc.edu.sg/en/index.php/specialist-diploma-in-counselling-addiction-gambling/
+<Response [200]>
+(200, [], 'http://acc.edu.sg/en/index.php/specialist-diploma-in-counselling-addiction-gambling/', 'No error. No redirect.')
+
+http://acc.edu.sg/en/index.php/specialist-diploma-in-counselling-psychology/
+<Response [200]>
+(200, [], 'http://acc.edu.sg/en/index.php/specialist-diploma-in-counselling-psychology/', 'No error. No redirect.')
+
+http://acc.edu.sg/en/index.php/specialist-diploma-in-relationship-and-marital-counselling/
+<Response [200]>
+(200, [], 'http://acc.edu.sg/en/index.php/specialist-diploma-in-relationship-and-marital-counselling/', 'No error. No redirect.')
+
+http://acc.edu.sg/en/index.php/specialist-diploma-in-teaching-and-supporting-children-with-special-needs/
+<Response [200]>
+(200, [], 'http://acc.edu.sg/en/index.php/specialist-diploma-in-teaching-and-supporting-children-with-special-needs/', 'No error. No redirect.')
+
+http://acc.edu.sg/en/index.php/specialist-diploma-in-workplace-counselling/
+<Response [200]>
+(200, [], 'http://acc.edu.sg/en/index.php/specialist-diploma-in-workplace-counselling/', 'No error. No redirect.')
+
+http://accu.edu.au
+<Response [200]>
+(200, [], 'http://accu.edu.au', 'No error. No redirect.')
+
+http://accu.edu.au/about-acc/2470-2/
+<Response [200]>
+(200, [], 'http://accu.edu.au/about-acc/2470-2/', 'No error. No redirect.')
+
+http://admin.crc-sher.qc.ca
+<Response [200]>
+(200, [], 'http://admin.crc-sher.qc.ca', 'No error. No redirect.')
+
+http://admin.crc-sher.qc.ca/campuses/champlain-lennoxville/
+<Response [200]>
+(200, [], 'http://admin.crc-sher.qc.ca/campuses/champlain-lennoxville/', 'No error. No redirect.')
+
+http://admissions.wfu.edu
+<Response [200]>
+(200, [<Response [301]>], 'http://admissions.wfu.edu', 'No error. Redirect to https://admissions.wfu.edu/')
+
+http://adrian.edu
+<Response [200]>
+(200, [], 'http://adrian.edu', 'No error. No redirect.')
+
+http://adrian.edu/about-us/our-story/
+<Response [200]>
+(200, [], 'http://adrian.edu/about-us/our-story/', 'No error. No redirect.')
+
+http://aic-arts.edu/why-aic/
+<Response [200]>
+(200, [], 'http://aic-arts.edu/why-aic/', 'No error. No redirect.')
+
+http://aitt.vic.edu.au
+<Response [200]>
+(200, [], 'http://aitt.vic.edu.au', 'No error. No redirect.')
+
+http://alameda.peralta.edu/
+<Response [200]>
+(200, [], 'http://alameda.peralta.edu/', 'No error. No redirect.')
+
+http://alameda.peralta.edu/about-us/
+<Response [200]>
+(200, [], 'http://alameda.peralta.edu/about-us/', 'No error. No redirect.')
+
+http://alfredadler.edu/
+<Response [200]>
+(200, [], 'http://alfredadler.edu/', 'No error. No redirect.')
+
+http://allegheny.edu
+<Response [200]>
+(200, [<Response [301]>], 'http://allegheny.edu', 'No error. Redirect to https://allegheny.edu/')
+
+http://alvincollege.edu/
+<Response [200]>
+(200, [], 'http://alvincollege.edu/', 'No error. No redirect.')
+
+http://alvincollege.edu/About
+<Response [200]>
+(200, [], 'http://alvincollege.edu/About', 'No error. No redirect.')
+
+http://anc.vic.edu.au/test/index.php?option=com_content&task=view&id=23&Itemid=46
+<Response [200]>
+(200, [], 'http://anc.vic.edu.au/test/index.php?option=com_content&task=view&id=23&Itemid=46', 'No error. No redirect.')
+
+http://apicollege.edu.au
+<Response [200]>
+(200, [], 'http://apicollege.edu.au', 'No error. No redirect.')
+
+http://apicollege.edu.au/about-us/welcome/
+<Response [200]>
+(200, [], 'http://apicollege.edu.au/about-us/welcome/', 'No error. No redirect.')
+
+http://arizonachristian.edu/
+<Response [200]>
+(200, [<Response [301]>], 'http://arizonachristian.edu/', 'No error. Redirect to https://arizonachristian.edu/')
+
+http://arts.cuhk.edu.hk/~ant/en/ma_programme.php
+<Response [200]>
+(200, [], 'http://arts.cuhk.edu.hk/~ant/en/ma_programme.php', 'No error. No redirect.')
+
+http://arts.cuhk.edu.hk/~ant/en/mphil_programme.php
+<Response [200]>
+(200, [], 'http://arts.cuhk.edu.hk/~ant/en/mphil_programme.php', 'No error. No redirect.')
+
+http://arts.cuhk.edu.hk/~ant/en/phd_programme.php
+<Response [200]>
+(200, [], 'http://arts.cuhk.edu.hk/~ant/en/phd_programme.php', 'No error. No redirect.')
+
+http://arts.cuhk.edu.hk/~ant/en/undergraduate.php
+<Response [200]>
+(200, [], 'http://arts.cuhk.edu.hk/~ant/en/undergraduate.php', 'No error. No redirect.')
+
+http://arts.hku.hk/
+<Response [200]>
+(200, [], 'http://arts.hku.hk/', 'No error. No redirect.')
+
+http://arts.hku.hk/current-students/undergraduate/BALLB
+<Response [200]>
+(200, [], 'http://arts.hku.hk/current-students/undergraduate/BALLB', 'No error. No redirect.')
+
+http://arts.hku.hk/prospective-students/undergraduate/6054-bachelor-of-arts
+<Response [200]>
+(200, [], 'http://arts.hku.hk/prospective-students/undergraduate/6054-bachelor-of-arts', 'No error. No redirect.')
+
+http://arts.hku.hk/prospective-students/undergraduate/ba-bed-langed--chin
+<Response [200]>
+(200, [], 'http://arts.hku.hk/prospective-students/undergraduate/ba-bed-langed--chin', 'No error. No redirect.')
+
+http://arts.hku.hk/prospective-students/undergraduate/ba-bed-langed--eng
+<Response [200]>
+(200, [], 'http://arts.hku.hk/prospective-students/undergraduate/ba-bed-langed--eng', 'No error. No redirect.')
+
+http://arts.hku.hk/prospective-students/undergraduate/ba-literary-studies--llb-
+<Response [200]>
+(200, [], 'http://arts.hku.hk/prospective-students/undergraduate/ba-literary-studies--llb-', 'No error. No redirect.')
+
+http://asburyseminary.edu
+<Response [200]>
+(200, [<Response [301]>], 'http://asburyseminary.edu', 'No error. Redirect to https://asburyseminary.edu/')
+
+http://asm.edu.sg
+<Response [200]>
+(200, [], 'http://asm.edu.sg', 'No error. No redirect.')
+
+http://assiniboine.net
+<Response [200]>
+(200, [], 'http://assiniboine.net', 'No error. No redirect.')
+
+http://astheology.ns.ca
+<Response [200]>
+(200, [<Response [301]>], 'http://astheology.ns.ca', 'No error. Redirect to http://www.astheology.ns.ca/home/welcome.html')
+
+http://atsinstitute.edu/wp_chicago/
+<Response [200]>
+(200, [], 'http://atsinstitute.edu/wp_chicago/', 'No error. No redirect.')
+
+http://atsinstitute.edu/wp_chicago/?page_id=14
+<Response [200]>
+(200, [], 'http://atsinstitute.edu/wp_chicago/?page_id=14', 'No error. No redirect.')
+
+http://austingrad.edu/
+<Response [200]>
+(200, [], 'http://austingrad.edu/', 'No error. No redirect.')
+
+http://austingrad.edu/about-us/mission/
+<Response [200]>
+(200, [], 'http://austingrad.edu/about-us/mission/', 'No error. No redirect.')
+
+http://awc.edu
+<Response [200]>
+(200, [<Response [301]>], 'http://awc.edu', 'No error. Redirect to https://awc.edu/')
+
+http://awi.ac.nz/about-us/
+<Response [200]>
+(200, [<Response [301]>], 'http://awi.ac.nz/about-us/', 'No error. Redirect to http://www.awi.ac.nz/about-us/')
+
+http://baptistcollege.edu/about/page.asp?content=ab-miss_doc
+<Response [200]>
+(200, [], 'http://baptistcollege.edu/about/page.asp?content=ab-miss_doc', 'No error. No redirect.')
+
+http://baraboo.uwc.edu
+<Response [200]>
+(200, [], 'http://baraboo.uwc.edu', 'No error. No redirect.')
+
+http://baraboo.uwc.edu/about
+<Response [200]>
+(200, [], 'http://baraboo.uwc.edu/about', 'No error. No redirect.')
+
+http://barron.uwc.edu
+<Response [200]>
+(200, [], 'http://barron.uwc.edu', 'No error. No redirect.')
+
+http://barron.uwc.edu/about/about
+<Response [200]>
+(200, [], 'http://barron.uwc.edu/about/about', 'No error. No redirect.')
+
+http://bart.ca
+<Response [200]>
+(200, [], 'http://bart.ca', 'No error. No redirect.')
+
+http://bart.ca/presentation-du-college/#le-college-bart-cest
+<Response [200]>
+(200, [], 'http://bart.ca/presentation-du-college/#le-college-bart-cest', 'No error. No redirect.')
+
+http://bba.nus.edu/academic-programmes/bba-accountancy-programme/introduction
+<Response [200]>
+(200, [], 'http://bba.nus.edu/academic-programmes/bba-accountancy-programme/introduction', 'No error. No redirect.')
+
+http://bba.nus.edu/academic-programmes/bba-programme/introduction
+<Response [200]>
+(200, [], 'http://bba.nus.edu/academic-programmes/bba-programme/introduction', 'No error. No redirect.')
+
+http://bba.nus.edu/academic-programmes/dcdp/cdp/mpp
+<Response [200]>
+(200, [], 'http://bba.nus.edu/academic-programmes/dcdp/cdp/mpp', 'No error. No redirect.')
+
+http://beacon.edu.sg
+<Response [200]>
+(200, [<Response [301]>], 'http://beacon.edu.sg', 'No error. Redirect to http://www.beacon.edu.sg/')
+
+http://belmontabbeycollege.edu
+<Response [200]>
+(200, [], 'http://belmontabbeycollege.edu', 'No error. No redirect.')
+
+http://belmontabbeycollege.edu/about/
+<Response [200]>
+(200, [], 'http://belmontabbeycollege.edu/about/', 'No error. No redirect.')
+
+http://berkeleycollege.edu
+<Response [200]>
+(200, [<Response [302]>], 'http://berkeleycollege.edu', 'No error. Redirect to https://berkeleycollege.edu/')
+
+http://berkeleycollege.edu/about_berkeley.htm
+<Response [200]>
+(200, [<Response [302]>], 'http://berkeleycollege.edu/about_berkeley.htm', 'No error. Redirect to https://berkeleycollege.edu/about_berkeley.htm')
+
+http://beta.newhope.edu/
+<Response [200]>
+(200, [], 'http://beta.newhope.edu/', 'No error. No redirect.')
+
+http://bethany.sk.ca
+<Response [200]>
+(200, [], 'http://bethany.sk.ca', 'No error. No redirect.')
+
+http://bethany.sk.ca/?page_id=175
+<Response [200]>
+(200, [], 'http://bethany.sk.ca/?page_id=175', 'No error. No redirect.')
+
+http://bfcc.edu
+<Response [200]>
+(200, [], 'http://bfcc.edu', 'No error. No redirect.')
+
+http://bfcc.edu/blackfeet-community-college/#mission
+<Response [200]>
+(200, [], 'http://bfcc.edu/blackfeet-community-college/#mission', 'No error. No redirect.')
+
+http://bgst.edu.sg
+<Response [200]>
+(200, [], 'http://bgst.edu.sg', 'No error. No redirect.')
+
+http://bluecliffcollege.edu
+<Response [200]>
+(200, [], 'http://bluecliffcollege.edu', 'No error. No redirect.')
+
+http://bluecliffcollege.edu/
+<Response [200]>
+(200, [], 'http://bluecliffcollege.edu/', 'No error. No redirect.')
+
+http://brescia.uwo.ca
+<Response [200]>
+(200, [], 'http://brescia.uwo.ca', 'No error. No redirect.')
+
+http://brescia.uwo.ca/about/
+<Response [200]>
+(200, [], 'http://brescia.uwo.ca/about/', 'No error. No redirect.')
+
+http://brightoncollege.com
+<Response [200]>
+(200, [<Response [301]>], 'http://brightoncollege.com', 'No error. Redirect to https://brightoncollege.com/')
+
+http://brooklinecollege.edu/
+<Response [200]>
+(200, [<Response [301]>], 'http://brooklinecollege.edu/', 'No error. Redirect to https://brooklinecollege.edu/')
+
+http://broward.edu
+<Response [200]>
+(200, [<Response [302]>], 'http://broward.edu', 'No error. Redirect to http://www.broward.edu/Pages/home.aspx')
+
+http://bst.qld.edu.au
+<Response [200]>
+(200, [], 'http://bst.qld.edu.au', 'No error. No redirect.')
+
+http://caes.hku.hk/
+<Response [200]>
+(200, [<Response [302]>], 'http://caes.hku.hk/', 'No error. Redirect to https://caes.hku.hk/')
+
+http://cambriancollege.ca
+<Response [200]>
+(200, [<Response [301]>], 'http://cambriancollege.ca', 'No error. Redirect to https://cambriancollege.ca/')
+
+http://cambridgecollege.com.au
+<Response [200]>
+(200, [<Response [301]>], 'http://cambridgecollege.com.au', 'No error. Redirect to https://cambridgecollege.com.au/')
+
+http://camelotint.co.za
+<Response [200]>
+(200, [], 'http://camelotint.co.za', 'No error. No redirect.')
+
+http://camelotint.co.za/camelot-international/
+<Response [200]>
+(200, [], 'http://camelotint.co.za/camelot-international/', 'No error. No redirect.')
+
+http://camosun.ca
+<Response [200]>
+(200, [], 'http://camosun.ca', 'No error. No redirect.')
+
+http://camosun.ca/about/
+<Response [200]>
+(200, [], 'http://camosun.ca/about/', 'No error. No redirect.')
+
+http://campioncollege.ca
+<Response [200]>
+(200, [], 'http://campioncollege.ca', 'No error. No redirect.')
+
+http://canadiancollege.com
+<Response [200]>
+(200, [], 'http://canadiancollege.com', 'No error. No redirect.')
+
+http://catawba.edu
+<Response [200]>
+(200, [<Response [301]>], 'http://catawba.edu', 'No error. Redirect to https://catawba.edu/')
+
+http://ccbc.edu/
+<Response [200]>
+(200, [], 'http://ccbc.edu/', 'No error. No redirect.')
+
+http://ccbc.edu/About
+<Response [200]>
+(200, [], 'http://ccbc.edu/About', 'No error. No redirect.')
+
+http://ccnb.ca
+<Response [200]>
+(200, [<Response [301]>, <Response [302]>], 'http://ccnb.ca', 'No error. Redirect to https://ccnb.ca/accueil.aspx')
+
+http://ccv.edu
+<Response [200]>
+(200, [<Response [301]>], 'http://ccv.edu', 'No error. Redirect to https://ccv.edu/')
+
+http://cdsp.edu/
+<Response [200]>
+(200, [<Response [301]>], 'http://cdsp.edu/', 'No error. Redirect to https://cdsp.edu/')
+
+http://cee.nus.edu.sg/programmes/BEng_Civil.html
+<Response [200]>
+(200, [], 'http://cee.nus.edu.sg/programmes/BEng_Civil.html', 'No error. No redirect.')
+
+http://cee.nus.edu.sg/programmes/BEng_Env.html
+<Response [200]>
+(200, [], 'http://cee.nus.edu.sg/programmes/BEng_Env.html', 'No error. No redirect.')
+
+http://cee.nus.edu.sg/programmes/MSc_ce.html
+<Response [200]>
+(200, [], 'http://cee.nus.edu.sg/programmes/MSc_ce.html', 'No error. No redirect.')
+
+http://cee.nus.edu.sg/programmes/MSc_Env.html
+<Response [200]>
+(200, [], 'http://cee.nus.edu.sg/programmes/MSc_Env.html', 'No error. No redirect.')
+
+http://cee.nus.edu.sg/programmes/MSc_ge.html
+<Response [200]>
+(200, [], 'http://cee.nus.edu.sg/programmes/MSc_ge.html', 'No error. No redirect.')
+
+http://cee.nus.edu.sg/programmes/MSc_hewrm.html
+<Response [200]>
+(200, [], 'http://cee.nus.edu.sg/programmes/MSc_hewrm.html', 'No error. No redirect.')
+
+http://cee.nus.edu.sg/programmes/MSc_ot.html
+<Response [200]>
+(200, [], 'http://cee.nus.edu.sg/programmes/MSc_ot.html', 'No error. No redirect.')
+
+http://cee.nus.edu.sg/programmes/ResearchProgramme.html
+<Response [200]>
+(200, [], 'http://cee.nus.edu.sg/programmes/ResearchProgramme.html', 'No error. No redirect.')
+
+http://cegepsherbrooke.qc.ca
+<Response [200]>
+(200, [<Response [302]>], 'http://cegepsherbrooke.qc.ca', 'No error. Redirect to https://www.cegepsherbrooke.qc.ca/')
+
+http://centuracollege.edu/college-campus/virginia/campus-locations/chesapeake-va.html
+<Response [200]>
+(200, [], 'http://centuracollege.edu/college-campus/virginia/campus-locations/chesapeake-va.html', 'No error. No redirect.')
+
+http://centuracollege.edu/index.html
+<Response [200]>
+(200, [], 'http://centuracollege.edu/index.html', 'No error. No redirect.')
+
+http://cfcc.edu
+<Response [200]>
+(200, [], 'http://cfcc.edu', 'No error. No redirect.')
+
+http://cfcc.edu/about/
+<Response [200]>
+(200, [], 'http://cfcc.edu/about/', 'No error. No redirect.')
+
+http://cibu.edu
+<Response [200]>
+(200, [], 'http://cibu.edu', 'No error. No redirect.')
+
+http://cice.ie
+<Response [200]>
+(200, [], 'http://cice.ie', 'No error. No redirect.')
+
+http://citymetropolitan.edu.sg/
+<Response [200]>
+(200, [], 'http://citymetropolitan.edu.sg/', 'No error. No redirect.')
+
+http://cll.qc.ca
+<Response [200]>
+(200, [], 'http://cll.qc.ca', 'No error. No redirect.')
+
+http://clst.fed.cuhk.edu.hk/prog/mcle/en/
+<Response [200]>
+(200, [], 'http://clst.fed.cuhk.edu.hk/prog/mcle/en/', 'No error. No redirect.')
+
+http://clst.fed.cuhk.edu.hk/prog/melt/
+<Response [200]>
+(200, [], 'http://clst.fed.cuhk.edu.hk/prog/melt/', 'No error. No redirect.')
+
+http://clst.fed.cuhk.edu.hk/prog/mme/
+<Response [200]>
+(200, [], 'http://clst.fed.cuhk.edu.hk/prog/mme/', 'No error. No redirect.')
+
+http://cns.mect.cuhk.edu.hk/features.php
+<Response [200]>
+(200, [], 'http://cns.mect.cuhk.edu.hk/features.php', 'No error. No redirect.')
+
+http://cnu.edu
+<Response [200]>
+(200, [], 'http://cnu.edu', 'No error. No redirect.')
+
+http://coe.ntu.edu.sg/Programmes/ProspectiveStudents_old/PS_Undergrad/PS_Programmes/Pages/DDEngEcon.aspx
+<Response [200]>
+(200, [], 'http://coe.ntu.edu.sg/Programmes/ProspectiveStudents_old/PS_Undergrad/PS_Programmes/Pages/DDEngEcon.aspx', 'No error. No redirect.')
+
+http://cohass.ntu.edu.sg/Programmes/Undergraduate/Double%20Major/Courses/Pages/Economics-and-Media-Analytics.aspx
+<Response [200]>
+(200, [], 'http://cohass.ntu.edu.sg/Programmes/Undergraduate/Double%20Major/Courses/Pages/Economics-and-Media-Analytics.aspx', 'No error. No redirect.')
+
+http://cohass.ntu.edu.sg/Programmes/Undergraduate/Double%20Major/Courses/Pages/Economics-and-Psychology.aspx
+<Response [200]>
+(200, [], 'http://cohass.ntu.edu.sg/Programmes/Undergraduate/Double%20Major/Courses/Pages/Economics-and-Psychology.aspx', 'No error. No redirect.')
+
+http://cohass.ntu.edu.sg/Programmes/Undergraduate/Double%20Major/Courses/Pages/Economics-and-Public-Policy-and-Global-Affairs.aspx
+<Response [200]>
+(200, [], 'http://cohass.ntu.edu.sg/Programmes/Undergraduate/Double%20Major/Courses/Pages/Economics-and-Public-Policy-and-Global-Affairs.aspx', 'No error. No redirect.')
+
+http://cohass.ntu.edu.sg/Programmes/Undergraduate/Double%20Major/Courses/Pages/English-Literature-and-Art-History.aspx
+<Response [200]>
+(200, [], 'http://cohass.ntu.edu.sg/Programmes/Undergraduate/Double%20Major/Courses/Pages/English-Literature-and-Art-History.aspx', 'No error. No redirect.')
+
+http://cohass.ntu.edu.sg/Programmes/Undergraduate/Double%20Major/Courses/Pages/Psychology-and-Linguistics-and-Multilingual-Studies.aspx
+<Response [200]>
+(200, [], 'http://cohass.ntu.edu.sg/Programmes/Undergraduate/Double%20Major/Courses/Pages/Psychology-and-Linguistics-and-Multilingual-Studies.aspx', 'No error. No redirect.')
+
+http://cohass.ntu.edu.sg/Programmes/Undergraduate/Double%20Major/Courses/Pages/Psychology-and-Media-Analytics.aspx
+<Response [200]>
+(200, [], 'http://cohass.ntu.edu.sg/Programmes/Undergraduate/Double%20Major/Courses/Pages/Psychology-and-Media-Analytics.aspx', 'No error. No redirect.')
+
+http://colby-sawyer.edu
+<Response [200]>
+(200, [], 'http://colby-sawyer.edu', 'No error. No redirect.')
+
+http://colby-sawyer.edu/about
+<Response [200]>
+(200, [], 'http://colby-sawyer.edu/about', 'No error. No redirect.')
+
+http://college.centennial.qc.ca
+<Response [200]>
+(200, [], 'http://college.centennial.qc.ca', 'No error. No redirect.')
+
+http://college.centennial.qc.ca/what-we-do/
+<Response [200]>
+(200, [], 'http://college.centennial.qc.ca/what-we-do/', 'No error. No redirect.')
+
+http://collegemarsan.qc.ca
+<Response [200]>
+(200, [], 'http://collegemarsan.qc.ca', 'No error. No redirect.')
+
+http://collegemarsan.qc.ca/back-to-school/
+<Response [200]>
+(200, [], 'http://collegemarsan.qc.ca/back-to-school/', 'No error. No redirect.')
+
+http://collegeofsanmateo.edu/aboutcsm/
+<Response [200]>
+(200, [], 'http://collegeofsanmateo.edu/aboutcsm/', 'No error. No redirect.')
+
+http://collegesalette.com
+<Response [200]>
+(200, [], 'http://collegesalette.com', 'No error. No redirect.')
+
+http://collegial.sainteanne.ca
+<Response [200]>
+(200, [], 'http://collegial.sainteanne.ca', 'No error. No redirect.')
+
+http://coloradomtn.edu
+<Response [200]>
+(200, [<Response [301]>], 'http://coloradomtn.edu', 'No error. Redirect to https://coloradomtn.edu/')
+
+http://columbiasc.edu/
+<Response [200]>
+(200, [<Response [301]>], 'http://columbiasc.edu/', 'No error. Redirect to https://www.columbiasc.edu/')
+
+http://commonwealth.edu
+<Response [200]>
+(200, [], 'http://commonwealth.edu', 'No error. No redirect.')
+
+http://commonwealth.edu/about/
+<Response [200]>
+(200, [], 'http://commonwealth.edu/about/', 'No error. No redirect.')
+
+http://connorsstate.edu/
+<Response [200]>
+(200, [], 'http://connorsstate.edu/', 'No error. No redirect.')
+
+http://connorsstate.edu/strategic-plan/
+<Response [200]>
+(200, [], 'http://connorsstate.edu/strategic-plan/', 'No error. No redirect.')
+
+http://conservatoire.gouv.qc.ca/english/article/welcome
+<Response [200]>
+(200, [], 'http://conservatoire.gouv.qc.ca/english/article/welcome', 'No error. No redirect.')
+
+http://cooper.edu/welcome
+<Response [200]>
+(200, [], 'http://cooper.edu/welcome', 'No error. No redirect.')
+
+http://counsellingstudiesnenw.org.au/about-us
+<Response [200]>
+(200, [<Response [301]>], 'http://counsellingstudiesnenw.org.au/about-us', 'No error. Redirect to http://counsellingstudiesnenw.org.au/about-us/')
+
+http://counsellingstudiesnenw.org.au/about-us/
+<Response [200]>
+(200, [], 'http://counsellingstudiesnenw.org.au/about-us/', 'No error. No redirect.')
+
+http://cravencc.edu/
+<Response [200]>
+(200, [], 'http://cravencc.edu/', 'No error. No redirect.')
+
+http://cravencc.edu/academics/
+<Response [200]>
+(200, [], 'http://cravencc.edu/academics/', 'No error. No redirect.')
+
+http://ctu.edu
+<Response [200]>
+(200, [<Response [301]>], 'http://ctu.edu', 'No error. Redirect to https://ctu.edu/')
+
+http://cula.edu
+<Response [200]>
+(200, [], 'http://cula.edu', 'No error. No redirect.')
+
+http://cula.edu/about/
+<Response [200]>
+(200, [], 'http://cula.edu/about/', 'No error. No redirect.')
+
+http://curtin.edu.sg
+<Response [200]>
+(200, [<Response [301]>, <Response [301]>, <Response [301]>, <Response [301]>, <Response [301]>], 'http://curtin.edu.sg', 'No error. Redirect to https://curtin.edu.sg/')
+
+http://d.umn.edu/about-umd
+<Response [200]>
+(200, [], 'http://d.umn.edu/about-umd', 'No error. No redirect.')
+
+http://dc3.edu/
+<Response [200]>
+(200, [], 'http://dc3.edu/', 'No error. No redirect.')
+
+http://dc3.edu/about/history/
+<Response [200]>
+(200, [], 'http://dc3.edu/about/history/', 'No error. No redirect.')
+
+http://dellarte.com
+<Response [200]>
+(200, [], 'http://dellarte.com', 'No error. No redirect.')
+
+http://dellarte.com/about-dellarte-international/
+<Response [200]>
+(200, [], 'http://dellarte.com/about-dellarte-international/', 'No error. No redirect.')
+
+http://deltacollege.com
+<Response [200]>
+(200, [<Response [301]>], 'http://deltacollege.com', 'No error. Redirect to https://deltacollege.com/')
+
+http://deltatech.edu
+<Response [200]>
+(200, [], 'http://deltatech.edu', 'No error. No redirect.')
+
+http://deltatech.edu/about-us/
+<Response [200]>
+(200, [], 'http://deltatech.edu/about-us/', 'No error. No redirect.')
+
+http://dentsoc.wixsite.com/dentsoc-hkusu
+<Response [200]>
+(200, [], 'http://dentsoc.wixsite.com/dentsoc-hkusu', 'No error. No redirect.')
+
+http://denverseminary.edu
+<Response [200]>
+(200, [<Response [301]>], 'http://denverseminary.edu', 'No error. Redirect to https://denverseminary.edu/')
+
+http://designcenter.co.za
+<Response [200]>
+(200, [], 'http://designcenter.co.za', 'No error. No redirect.')
+
+http://designcenter.co.za/about/
+<Response [200]>
+(200, [], 'http://designcenter.co.za/about/', 'No error. No redirect.')
+
+http://did.nus.edu.sg/postgraduate.html
+<Response [200]>
+(200, [], 'http://did.nus.edu.sg/postgraduate.html', 'No error. No redirect.')
+
+http://did.nus.edu.sg/undergraduate.html
+<Response [200]>
+(200, [], 'http://did.nus.edu.sg/undergraduate.html', 'No error. No redirect.')
+
+http://discover.alpenacc.edu/
+<Response [200]>
+(200, [], 'http://discover.alpenacc.edu/', 'No error. No redirect.')
+
+http://discover.alpenacc.edu/about/about_acc/index.php
+<Response [200]>
+(200, [], 'http://discover.alpenacc.edu/about/about_acc/index.php', 'No error. No redirect.')
+
+http://drexel.edu
+<Response [200]>
+(200, [], 'http://drexel.edu', 'No error. No redirect.')
+
+http://drexel.edu/about/glance/
+<Response [200]>
+(200, [], 'http://drexel.edu/about/glance/', 'No error. No redirect.')
+
+http://dwci.edu/
+<Response [200]>
+(200, [<Response [301]>], 'http://dwci.edu/', 'No error. Redirect to https://www.dwci.edu/')
+
+http://earlham.edu
+<Response [200]>
+(200, [], 'http://earlham.edu', 'No error. No redirect.')
+
+http://ece.nus.edu.sg/drupal/?q=node/11
+<Response [200]>
+(200, [], 'http://ece.nus.edu.sg/drupal/?q=node/11', 'No error. No redirect.')
+
+http://ece.nus.edu.sg/drupal/?q=node/20
+<Response [200]>
+(200, [], 'http://ece.nus.edu.sg/drupal/?q=node/20', 'No error. No redirect.')
+
+http://ece.nus.edu.sg/drupal/?q=node/8
+<Response [200]>
+(200, [], 'http://ece.nus.edu.sg/drupal/?q=node/8', 'No error. No redirect.')
+
+http://ecoledestenographie.ca
+<Response [200]>
+(200, [<Response [301]>], 'http://ecoledestenographie.ca', 'No error. Redirect to https://ecoledestenographie.ca/')
+
+http://ecolenationaledecirque.ca/en
+<Response [200]>
+(200, [], 'http://ecolenationaledecirque.ca/en', 'No error. No redirect.')
+
+http://ecolenationaledecirque.ca/en/school/discover-school
+<Response [200]>
+(200, [], 'http://ecolenationaledecirque.ca/en/school/discover-school', 'No error. No redirect.')
+
+http://ee.edu.au
+<Response [200]>
+(200, [<Response [301]>], 'http://ee.edu.au', 'No error. Redirect to http://www.ee.edu.au/')
+
+http://elgin.edu
+<Response [200]>
+(200, [<Response [303]>], 'http://elgin.edu', 'No error. Redirect to https://elgin.edu/')
+
+http://envstudies.nus.edu.sg
+<Response [200]>
+(200, [], 'http://envstudies.nus.edu.sg', 'No error. No redirect.')
+
+http://erci.edu.sg
+<Response [200]>
+(200, [], 'http://erci.edu.sg', 'No error. No redirect.')
+
+http://es.vccs.edu
+<Response [200]>
+(200, [<Response [302]>], 'http://es.vccs.edu', 'No error. Redirect to https://es.vccs.edu/')
+
+http://exco.cusu.hk
+<Response [200]>
+(200, [], 'http://exco.cusu.hk', 'No error. No redirect.')
+
+http://facdent.hku.hk/learning/research-postgraduate-programmes.html
+<Response [200]>
+(200, [], 'http://facdent.hku.hk/learning/research-postgraduate-programmes.html', 'No error. No redirect.')
+
+http://facdent.hku.hk/learning/undergraduate-programme.html
+<Response [200]>
+(200, [], 'http://facdent.hku.hk/learning/undergraduate-programme.html', 'No error. No redirect.')
+
+http://falsebaycollege.co.za
+<Response [200]>
+(200, [], 'http://falsebaycollege.co.za', 'No error. No redirect.')
+
+http://fdl.uwc.edu
+<Response [200]>
+(200, [], 'http://fdl.uwc.edu', 'No error. No redirect.')
+
+http://fdl.uwc.edu/about/deans-message
+<Response [200]>
+(200, [], 'http://fdl.uwc.edu/about/deans-message', 'No error. No redirect.')
+
+http://fdltcc.edu/
+<Response [200]>
+(200, [<Response [301]>], 'http://fdltcc.edu/', 'No error. Redirect to https://fdltcc.edu/')
+
+http://federation.edu.au
+<Response [200]>
+(200, [], 'http://federation.edu.au', 'No error. No redirect.')
+
+http://fidm.edu
+<Response [200]>
+(200, [], 'http://fidm.edu', 'No error. No redirect.')
+
+http://fidm.edu/en/about/
+<Response [200]>
+(200, [], 'http://fidm.edu/en/about/', 'No error. No redirect.')
+
+http://fintech.se.cuhk.edu.hk
+<Response [200]>
+(200, [], 'http://fintech.se.cuhk.edu.hk', 'No error. No redirect.')
+
+http://fmba.sem.tsinghua.edu.cn
+<Response [200]>
+(200, [], 'http://fmba.sem.tsinghua.edu.cn', 'No error. No redirect.')
+
+http://fnuniv.ca
+<Response [200]>
+(200, [], 'http://fnuniv.ca', 'No error. No redirect.')
+
+http://fountainheadcollege.edu
+<Response [200]>
+(200, [<Response [301]>], 'http://fountainheadcollege.edu', 'No error. Redirect to https://www.fountainheadcollege.edu/')
+
+http://franklincollege.edu
+<Response [200]>
+(200, [], 'http://franklincollege.edu', 'No error. No redirect.')
+
+http://franklincollege.edu/about-fc/
+<Response [200]>
+(200, [], 'http://franklincollege.edu/about-fc/', 'No error. No redirect.')
+
+http://fuller.edu
+<Response [200]>
+(200, [<Response [301]>], 'http://fuller.edu', 'No error. Redirect to https://www.fuller.edu/')
+
+http://funeraleducation.org
+<Response [200]>
+(200, [<Response [301]>], 'http://funeraleducation.org', 'No error. Redirect to https://funeraleducation.org/')
+
+http://futureworks.ac.uk
+<Response [200]>
+(200, [<Response [301]>], 'http://futureworks.ac.uk', 'No error. Redirect to https://futureworks.ac.uk/')
+
+http://futureworks.ac.uk/about/
+<Response [200]>
+(200, [<Response [301]>], 'http://futureworks.ac.uk/about/', 'No error. Redirect to https://futureworks.ac.uk/about/')
+
+http://gardner-webb.edu
+<Response [200]>
+(200, [<Response [301]>], 'http://gardner-webb.edu', 'No error. Redirect to https://gardner-webb.edu/')
+
+http://glef.econ.cuhk.edu.hk/introduction/about-glef/
+<Response [200]>
+(200, [], 'http://glef.econ.cuhk.edu.hk/introduction/about-glef/', 'No error. No redirect.')
+
+http://global.com.cuhk.edu.hk
+<Response [200]>
+(200, [], 'http://global.com.cuhk.edu.hk', 'No error. No redirect.')
+
+http://go.hssu.edu/?CFID=5952855&CFTOKEN=70876311
+<Response [200]>
+(200, [], 'http://go.hssu.edu/?CFID=5952855&CFTOKEN=70876311', 'No error. No redirect.')
+
+http://go.osuit.edu/about
+<Response [200]>
+(200, [], 'http://go.osuit.edu/about', 'No error. No redirect.')
+
+http://go.spcollege.edu/about/
+<Response [200]>
+(200, [], 'http://go.spcollege.edu/about/', 'No error. No redirect.')
+
+http://gobbc.edu/about-us/
+<Response [200]>
+(200, [], 'http://gobbc.edu/about-us/', 'No error. No redirect.')
+
+http://golfcollege.edu
+<Response [200]>
+(200, [], 'http://golfcollege.edu', 'No error. No redirect.')
+
+http://golfcollege.edu/academics/curriculum/
+<Response [200]>
+(200, [], 'http://golfcollege.edu/academics/curriculum/', 'No error. No redirect.')
+
+http://greatbay.edu/
+<Response [200]>
+(200, [], 'http://greatbay.edu/', 'No error. No redirect.')
+
+http://greatbay.edu/about/mission-vision-core-values
+<Response [200]>
+(200, [], 'http://greatbay.edu/about/mission-vision-core-values', 'No error. No redirect.')
+
+http://grnwoods.wixsite.com/grnwoods
+<Response [200]>
+(200, [], 'http://grnwoods.wixsite.com/grnwoods', 'No error. No redirect.')
+
+http://gsauk.org
+<Response [200]>
+(200, [], 'http://gsauk.org', 'No error. No redirect.')
+
+http://guptoncollege.edu
+<Response [200]>
+(200, [], 'http://guptoncollege.edu', 'No error. No redirect.')
+
+http://guptoncollege.edu/about/missionobjectives/
+<Response [200]>
+(200, [], 'http://guptoncollege.edu/about/missionobjectives/', 'No error. No redirect.')
+
+http://gutenberg.edu/welcome/
+<Response [200]>
+(200, [], 'http://gutenberg.edu/welcome/', 'No error. No redirect.')
+
+http://harrisburgu.edu
+<Response [200]>
+(200, [], 'http://harrisburgu.edu', 'No error. No redirect.')
+
+http://hawaii.hawaii.edu/
+<Response [200]>
+(200, [], 'http://hawaii.hawaii.edu/', 'No error. No redirect.')
+
+http://hawaii.hawaii.edu/about
+<Response [200]>
+(200, [], 'http://hawaii.hawaii.edu/about', 'No error. No redirect.')
+
+http://hccc.edu/
+<Response [200]>
+(200, [], 'http://hccc.edu/', 'No error. No redirect.')
+
+http://hccc.edu/explore/
+<Response [200]>
+(200, [], 'http://hccc.edu/explore/', 'No error. No redirect.')
+
+http://healthtech.ntu.edu.sg/mainprogramme/Joint-PhD-Programme/Pages/Home.aspx
+<Response [200]>
+(200, [], 'http://healthtech.ntu.edu.sg/mainprogramme/Joint-PhD-Programme/Pages/Home.aspx', 'No error. No redirect.')
+
+http://hebroncollege.co.za
+<Response [200]>
+(200, [<Response [301]>], 'http://hebroncollege.co.za', 'No error. Redirect to http://www.hebroncollege.co.za/')
+
+http://hibbing.edu
+<Response [200]>
+(200, [], 'http://hibbing.edu', 'No error. No redirect.')
+
+http://hibbing.edu/about/
+<Response [200]>
+(200, [], 'http://hibbing.edu/about/', 'No error. No redirect.')
+
+http://hiberniacollege.com
+<Response [200]>
+(200, [<Response [301]>], 'http://hiberniacollege.com', 'No error. Redirect to https://hiberniacollege.com/')
+
+http://hkukatso.tumblr.com
+<Response [200]>
+(200, [], 'http://hkukatso.tumblr.com', 'No error. No redirect.')
+
+http://hkusussg.wixsite.com/social-service-group
+<Response [200]>
+(200, [], 'http://hkusussg.wixsite.com/social-service-group', 'No error. No redirect.')
+
+http://home.dartmouth.edu
+<Response [200]>
+(200, [<Response [301]>], 'http://home.dartmouth.edu', 'No error. Redirect to https://home.dartmouth.edu/')
+
+http://home.fredonia.edu
+<Response [200]>
+(200, [], 'http://home.fredonia.edu', 'No error. No redirect.')
+
+http://housatonic.edu/
+<Response [200]>
+(200, [], 'http://housatonic.edu/', 'No error. No redirect.')
+
+http://housatonic.edu/about-us
+<Response [200]>
+(200, [], 'http://housatonic.edu/about-us', 'No error. No redirect.')
+
+http://hr.leeds.ac.uk/info/60/strategy_values_and_standards/229/the_university_strategy_values_and_standards
+<Response [200]>
+(200, [], 'http://hr.leeds.ac.uk/info/60/strategy_values_and_standards/229/the_university_strategy_values_and_standards', 'No error. No redirect.')
+
+http://htu.edu
+<Response [200]>
+(200, [], 'http://htu.edu', 'No error. No redirect.')
+
+http://humber.ca
+<Response [200]>
+(200, [], 'http://humber.ca', 'No error. No redirect.')
+
+http://ibibs.edu.au/about-ibibs
+<Response [200]>
+(200, [], 'http://ibibs.edu.au/about-ibibs', 'No error. No redirect.')
+
+http://icahn.mssm.edu
+<Response [200]>
+(200, [<Response [301]>], 'http://icahn.mssm.edu', 'No error. Redirect to https://icahn.mssm.edu/')
+
+http://icc.edu
+<Response [200]>
+(200, [<Response [301]>], 'http://icc.edu', 'No error. Redirect to https://icc.edu/')
+
+http://idti.edu
+<Response [200]>
+(200, [<Response [301]>], 'http://idti.edu', 'No error. Redirect to https://www.idti.edu/')
+
+http://igs.ntu.edu.sg/edb-ipp/Pages/Home.aspx
+<Response [200]>
+(200, [], 'http://igs.ntu.edu.sg/edb-ipp/Pages/Home.aspx', 'No error. No redirect.')
+
+http://igs.ntu.edu.sg/Scholarships/Pages/Joint-PhD-Programme.aspx?print=1
+<Response [200]>
+(200, [], 'http://igs.ntu.edu.sg/Scholarships/Pages/Joint-PhD-Programme.aspx?print=1', 'No error. No redirect.')
+
+http://illinois.edu
+<Response [200]>
+(200, [<Response [301]>], 'http://illinois.edu', 'No error. Redirect to https://illinois.edu/')
+
+http://illinois.edu/about/index.html
+<Response [200]>
+(200, [<Response [301]>], 'http://illinois.edu/about/index.html', 'No error. Redirect to https://illinois.edu/about/index.html')
+
+http://imaginaryfs.sg/ifs-diploma-program-in-digital-design-illustration/
+<Response [200]>
+(200, [], 'http://imaginaryfs.sg/ifs-diploma-program-in-digital-design-illustration/', 'No error. No redirect.')
+
+http://independentcolleges.ie/
+<Response [200]>
+(200, [<Response [301]>], 'http://independentcolleges.ie/', 'No error. Redirect to https://independentcolleges.ie/')
+
+http://ingwecollege.edu.za
+<Response [200]>
+(200, [], 'http://ingwecollege.edu.za', 'No error. No redirect.')
+
+http://ingwecollege.edu.za/courses-we-offer/
+<Response [200]>
+(200, [], 'http://ingwecollege.edu.za/courses-we-offer/', 'No error. No redirect.')
+
+http://iota.edu.au
+<Response [200]>
+(200, [], 'http://iota.edu.au', 'No error. No redirect.')
+
+http://iota.edu.au/about-us/
+<Response [200]>
+(200, [], 'http://iota.edu.au/about-us/', 'No error. No redirect.')
+
+http://jabsom.hawaii.edu/
+<Response [200]>
+(200, [], 'http://jabsom.hawaii.edu/', 'No error. No redirect.')
+
+http://jabsom.hawaii.edu/about-us/deans-message/
+<Response [200]>
+(200, [], 'http://jabsom.hawaii.edu/about-us/deans-message/', 'No error. No redirect.')
+
+http://jalc.edu/
+<Response [200]>
+(200, [], 'http://jalc.edu/', 'No error. No redirect.')
+
+http://jewell.edu
+<Response [200]>
+(200, [<Response [301]>], 'http://jewell.edu', 'No error. Redirect to https://jewell.edu/')
+
+http://kauai.hawaii.edu
+<Response [200]>
+(200, [], 'http://kauai.hawaii.edu', 'No error. No redirect.')
+
+http://kauai.hawaii.edu/about-kauai-cc
+<Response [200]>
+(200, [], 'http://kauai.hawaii.edu/about-kauai-cc', 'No error. No redirect.')
+
+http://kcai.edu
+<Response [200]>
+(200, [<Response [301]>], 'http://kcai.edu', 'No error. Redirect to https://kcai.edu/')
+
+http://kdstudio.com
+<Response [200]>
+(200, [], 'http://kdstudio.com', 'No error. No redirect.')
+
+http://kdstudio.com/about-kd/
+<Response [200]>
+(200, [], 'http://kdstudio.com/about-kd/', 'No error. No redirect.')
+
+http://kent.edu.au
+<Response [200]>
+(200, [], 'http://kent.edu.au', 'No error. No redirect.')
+
+http://kent.edu.au/kent3/about-us/
+<Response [200]>
+(200, [], 'http://kent.edu.au/kent3/about-us/', 'No error. No redirect.')
+
+http://kenvale.edu.au
+<Response [200]>
+(200, [], 'http://kenvale.edu.au', 'No error. No redirect.')
+
+http://kenvale.edu.au/about-us/
+<Response [200]>
+(200, [], 'http://kenvale.edu.au/about-us/', 'No error. No redirect.')
+
+http://koi.edu.au/wp/
+<Response [200]>
+(200, [], 'http://koi.edu.au/wp/', 'No error. No redirect.')
+
+http://koi.edu.au/wp/about-us/about-koi/
+<Response [200]>
+(200, [], 'http://koi.edu.au/wp/about-us/about-koi/', 'No error. No redirect.')
+
+http://kolieh.com/en/about-us/
+<Response [200]>
+(200, [], 'http://kolieh.com/en/about-us/', 'No error. No redirect.')
+
