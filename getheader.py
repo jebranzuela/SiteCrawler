@@ -14,7 +14,7 @@ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36
 
 # Issue a header request and check if it is success or not
 # Write the result in the corresponding text file
-for link in links:
+for link in links[2774:]:
     try:
         r = requests.head(link,headers=headers,allow_redirects=True, verify=False)
         report = str(r.status_code)

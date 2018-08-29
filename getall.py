@@ -6,7 +6,7 @@ start = datetime.now()
 print(start)
 
 # Get all external links from a text file
-with open('external.txt', 'r') as f:
+with open('links_with_error.txt', 'r') as f:
     links = [line.strip() for line in f]
 
 result = []
@@ -31,7 +31,7 @@ for link in links:
         elif r.status_code >= 200 and r.status_code <= 310:
             result = (r.status_code, r.history, link, 'No error. No redirect.')
 
-            print(link, file=open("external_success.txt_2", "a"))
+            print(link, file=open("external_success_2.txt", "a"))
             print(r, file=open("external_success_2.txt", "a"))
             print(str(result) + '\n', file=open("external_success_2.txt", "a"))
 
