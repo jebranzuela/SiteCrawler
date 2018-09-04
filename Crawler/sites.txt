@@ -1,0 +1,287 @@
+http://localhost/osau/experience/explore
+http://localhost/osau/schools/find
+http://localhost/osau/about/aup
+http://localhost/osau/about/tos
+http://localhost/osau/about
+http://localhost/osau/contact_us
+http://localhost/osau/
+http://localhost/osau/questions
+http://localhost/osau/experience/trends?q=localstudents
+http://localhost/osau/experience/explore/14/education-system-united-states
+http://localhost/osau/experience/explore/13/application-guidetime-line-and-checklist-for-undergraduate-admission-in-the-united-states-local-students
+http://localhost/osau/experience/trends?q=Educationsystem
+http://localhost/osau/experience/trends?q=SingaporeUniversityOfTechnologyAndDesign
+http://localhost/osau/experience/trends?q=Accomodation
+http://localhost/osau/experience/trends?q=UnitedStates
+http://localhost/osau/experience/trends?q=Undergraduate
+http://localhost/osau/account/4
+http://localhost/osau/experience/trends?q=Applicationguide
+http://localhost/osau/experience/explore/11/programs-highlight-singapore-university-of-technology-and-design
+http://localhost/osau/experience/explore/9/the-many-hostels-of-singapore-university-of-technology-and-design
+http://localhost/osau/experience/explore/12/campus-tour-singapore-university-of-design-and-technology
+http://localhost/osau/experience/trends?q=campusguide
+http://localhost/osau/experience/explore/10/food-guide-singapore-university-of-technology-and-design
+http://localhost/osau/experience/trends?q=FoodGuide
+http://localhost/osau/schools/find/1/university-of-auckland/money
+http://localhost/osau/schools/find/1/university-of-auckland/courses
+http://localhost/osau/schools/find/10/unitec-new-zealand/reviews
+http://localhost/osau/schools/find/217/university-of-hong-kong/reviews
+http://localhost/osau/schools/find/21/regent-international-education-group/questions
+http://localhost/osau/schools/find/2/university-of-otago/about
+http://localhost/osau/schools/find/2/university-of-otago/questions
+http://localhost/osau/schools/find/21/regent-international-education-group/money
+http://localhost/osau/schools/find/10/unitec-new-zealand/money
+http://localhost/osau/schools/find/2/university-of-otago/reviews
+http://localhost/osau/schools/find/10/unitec-new-zealand/courses
+http://localhost/osau/schools/find/51/stellaris-pte-ltd/questions
+http://localhost/osau/schools/find/1/university-of-auckland/about
+http://localhost/osau/schools/find/2/university-of-otago/money
+http://localhost/osau/schools/find/51/stellaris-pte-ltd/reviews
+http://localhost/osau/schools/find/218/chinese-university-of-hong-kong/reviews
+http://localhost/osau/schools/find/21/regent-international-education-group/about
+http://localhost/osau/schools/find/51/stellaris-pte-ltd/about
+http://localhost/osau/schools/find/10/unitec-new-zealand/about
+http://localhost/osau/schools/find/2/university-of-otago/courses
+http://localhost/osau/schools/find/1/university-of-auckland/questions
+http://localhost/osau/schools/find/10/unitec-new-zealand/questions
+http://localhost/osau/schools/find/55/nanyang-technological-university/reviews
+http://localhost/osau/schools/find/51/stellaris-pte-ltd/money
+http://localhost/osau/schools/find/51/stellaris-pte-ltd/courses
+http://localhost/osau/schools/find/1/university-of-auckland/reviews
+http://localhost/osau/schools/find/21/regent-international-education-group/courses
+http://localhost/osau/schools/find/21/regent-international-education-group/reviews
+http://localhost/osau/schools/find/1/university-of-auckland/money/others
+http://localhost/osau/schools/find/1/university-of-auckland/societies-and-clubs
+http://localhost/osau/schools/find/1/university-of-auckland/money/total_living_cost
+http://localhost/osau/schools/find/1/university-of-auckland/money/accommodation
+http://localhost/osau/schools/find/1/university-of-auckland/money/entertainment
+http://localhost/osau/schools/find/1/university-of-auckland/money/food
+http://localhost/osau/schools/find/1/university-of-auckland/money/transpo
+http://localhost/osau/account/35
+http://localhost/osau/account/40
+http://localhost/osau/account/37
+http://localhost/osau/account/follow_people
+http://localhost/osau/account/41
+http://localhost/osau/schools/find/1290/university-of-alabama
+http://localhost/osau/schools/find/3/university-of-canterbury
+http://localhost/osau/account/34
+http://localhost/osau/account/39
+http://localhost/osau/account/38
+http://localhost/osau/account/33
+http://localhost/osau/account/42
+http://localhost/osau/schools/find/2/university-of-otago
+http://localhost/osau/account/36
+http://localhost/osau/schools/find/150/hyper-island-institute-of-higher-education
+http://localhost/osau/schools/find/4714/drew-university
+http://localhost/osau/schools/find/1290/university-of-alabama/reviews
+http://localhost/osau/schools/find/1290/university-of-alabama/questions
+http://localhost/osau/schools/find/1290/university-of-alabama/societies-and-clubs
+http://localhost/osau/schools/find/5713/indian-river-state-college
+http://localhost/osau/schools/find/1290/university-of-alabama/courses
+http://localhost/osau/schools/find/1290/university-of-alabama/money
+http://localhost/osau/schools/find/1290/university-of-alabama/about
+http://localhost/osau/schools/find/55/nanyang-technological-university
+http://localhost/osau/schools/find/150/hyper-island-institute-of-higher-education/societies-and-clubs
+http://localhost/osau/schools/find/150/hyper-island-institute-of-higher-education/courses
+http://localhost/osau/schools/find/150/hyper-island-institute-of-higher-education/questions
+http://localhost/osau/schools/find/150/hyper-island-institute-of-higher-education/about
+http://localhost/osau/schools/find/150/hyper-island-institute-of-higher-education/money
+http://localhost/osau/schools/find/54/national-university-of-singapore
+http://localhost/osau/schools/find/150/hyper-island-institute-of-higher-education/reviews
+http://localhost/osau/schools/find/5423/adventist-university-of-health-sciences
+http://localhost/osau/schools/find/55/nanyang-technological-university/about
+http://localhost/osau/schools/find/55/nanyang-technological-university/money
+http://localhost/osau/schools/find/1256/university-of-oregon
+http://localhost/osau/schools/find/55/nanyang-technological-university/societies-and-clubs
+http://localhost/osau/schools/find/56/singapore-management-university
+http://localhost/osau/account/19
+http://localhost/osau/schools/find/55/nanyang-technological-university/courses
+http://localhost/osau/schools/find/55/nanyang-technological-university/questions
+http://localhost/osau/account/27
+http://localhost/osau/schools/find/4759/university-of-southern-maine
+http://localhost/osau/schools/find/4759/university-of-southern-maine/reviews
+http://localhost/osau/schools/find/4759/university-of-southern-maine/courses
+http://localhost/osau/schools/find/4759/university-of-southern-maine/about
+http://localhost/osau/schools/find/4759/university-of-southern-maine/questions
+http://localhost/osau/schools/find/4759/university-of-southern-maine/societies-and-clubs
+http://localhost/osau/schools/find/4759/university-of-southern-maine/money
+http://localhost/osau/schools/find/4668/rush-university
+http://localhost/osau/schools/find/7500/maynooth-university-national-university-of-ireland
+http://localhost/osau/schools/find/895/bimm-tech-music-school
+http://localhost/osau/schools/find/7500/maynooth-university-national-university-of-ireland/reviews
+http://localhost/osau/schools/find/7500/maynooth-university-national-university-of-ireland/questions
+http://localhost/osau/schools/find/7500/maynooth-university-national-university-of-ireland/societies-and-clubs
+http://localhost/osau/schools/find/7500/maynooth-university-national-university-of-ireland/money
+http://localhost/osau/schools/find/7500/maynooth-university-national-university-of-ireland/about
+http://localhost/osau/schools/find/887/kaplan-uk
+http://localhost/osau/schools/find/7500/maynooth-university-national-university-of-ireland/courses
+http://localhost/osau/schools/find/4912/eckerd-college
+http://localhost/osau/schools/find/895/bimm-tech-music-school/questions
+http://localhost/osau/schools/find/895/bimm-tech-music-school/about
+http://localhost/osau/schools/find/895/bimm-tech-music-school/courses
+http://localhost/osau/schools/find/710/university-of-cambridge
+http://localhost/osau/schools/find/5072/fashion-institute-of-technology-suny
+http://localhost/osau/schools/find/895/bimm-tech-music-school/money
+http://localhost/osau/schools/find/895/bimm-tech-music-school/societies-and-clubs
+http://localhost/osau/schools/find/895/bimm-tech-music-school/reviews
+http://localhost/osau/schools/find/6775/munson-williams-proctor-arts-institute
+http://localhost/osau/schools/find/895/bimm-tech-music-school/about?campus=list
+http://localhost/osau/schools/find/6775/munson-williams-proctor-arts-institute/money
+http://localhost/osau/schools/find/6775/munson-williams-proctor-arts-institute/courses
+http://localhost/osau/schools/find/6775/munson-williams-proctor-arts-institute/societies-and-clubs
+http://localhost/osau/schools/find/6824/vandercook-college-of-music
+http://localhost/osau/schools/find/6775/munson-williams-proctor-arts-institute/reviews
+http://localhost/osau/schools/find/6775/munson-williams-proctor-arts-institute/about
+http://localhost/osau/schools/find/6775/munson-williams-proctor-arts-institute/questions
+http://localhost/osau/schools/find/6775/munson-williams-proctor-arts-institute/money/accommodation
+http://localhost/osau/schools/find/6775/munson-williams-proctor-arts-institute/money/total_living_cost
+http://localhost/osau/schools/find/6775/munson-williams-proctor-arts-institute/money/transpo
+http://localhost/osau/schools/find/6775/munson-williams-proctor-arts-institute/money/food
+http://localhost/osau/schools/find/6775/munson-williams-proctor-arts-institute/money/others
+http://localhost/osau/schools/find/6775/munson-williams-proctor-arts-institute/money/entertainment
+http://localhost/osau/schools/find/5803/sessions-college-for-professional-design
+http://localhost/osau/schools/find/5803/sessions-college-for-professional-design/courses
+http://localhost/osau/schools/find/5803/sessions-college-for-professional-design/societies-and-clubs
+http://localhost/osau/schools/find/5803/sessions-college-for-professional-design/questions
+http://localhost/osau/schools/find/5803/sessions-college-for-professional-design/about
+http://localhost/osau/schools/find/5803/sessions-college-for-professional-design/reviews
+http://localhost/osau/schools/find/1046/sae-qantm-creative-media-institute
+http://localhost/osau/schools/find/5803/sessions-college-for-professional-design/money
+http://localhost/osau/schools/find/850/courtauld-institute-of-art
+http://localhost/osau/schools/find/850/courtauld-institute-of-art/questions
+http://localhost/osau/schools/find/850/courtauld-institute-of-art/societies-and-clubs
+http://localhost/osau/schools/find/5076/art-institute-of-chicago
+http://localhost/osau/schools/find/850/courtauld-institute-of-art/about
+http://localhost/osau/schools/find/850/courtauld-institute-of-art/courses
+http://localhost/osau/schools/find/850/courtauld-institute-of-art/reviews
+http://localhost/osau/schools/find/850/courtauld-institute-of-art/money
+http://localhost/osau/schools/find/6531/american-academy-of-dramatic-arts
+http://localhost/osau/schools/find/6531/american-academy-of-dramatic-arts/about
+http://localhost/osau/schools/find/6531/american-academy-of-dramatic-arts/courses
+http://localhost/osau/schools/find/6531/american-academy-of-dramatic-arts/money
+http://localhost/osau/schools/find/92/chatsworth-mediart-academy
+http://localhost/osau/schools/find/6531/american-academy-of-dramatic-arts/societies-and-clubs
+http://localhost/osau/schools/find/6531/american-academy-of-dramatic-arts/reviews
+http://localhost/osau/schools/find/6531/american-academy-of-dramatic-arts/questions
+http://localhost/osau/schools/find/6843/laguna-college-of-art-design
+http://localhost/osau/schools/find/6843/laguna-college-of-art-design/reviews
+http://localhost/osau/schools/find/6843/laguna-college-of-art-design/courses
+http://localhost/osau/schools/find/7521/dublin-institute-of-design
+http://localhost/osau/schools/find/6843/laguna-college-of-art-design/societies-and-clubs
+http://localhost/osau/schools/find/6843/laguna-college-of-art-design/money
+http://localhost/osau/schools/find/6843/laguna-college-of-art-design/about
+http://localhost/osau/schools/find/6843/laguna-college-of-art-design/questions
+http://localhost/osau/schools/find/7521/dublin-institute-of-design/about
+http://localhost/osau/schools/find/7521/dublin-institute-of-design/questions
+http://localhost/osau/schools/find/7521/dublin-institute-of-design/money
+http://localhost/osau/schools/find/7521/dublin-institute-of-design/reviews
+http://localhost/osau/schools/find/7521/dublin-institute-of-design/societies-and-clubs
+http://localhost/osau/schools/find/7521/dublin-institute-of-design/courses
+http://localhost/osau/schools/find/941/city-and-guilds-of-london-art-school
+http://localhost/osau/schools/find/914/academy-of-contemporary-music
+http://localhost/osau/schools/find/914/academy-of-contemporary-music/societies-and-clubs
+http://localhost/osau/schools/find/914/academy-of-contemporary-music/about
+http://localhost/osau/schools/find/914/academy-of-contemporary-music/money
+http://localhost/osau/schools/find/914/academy-of-contemporary-music/courses
+http://localhost/osau/schools/find/914/academy-of-contemporary-music/reviews
+http://localhost/osau/schools/find/914/academy-of-contemporary-music/questions
+http://localhost/osau/schools/find/6521/vermont-college-of-fine-arts
+http://localhost/osau/schools/find/6521/vermont-college-of-fine-arts/courses
+http://localhost/osau/schools/find/6521/vermont-college-of-fine-arts/money
+http://localhost/osau/schools/find/291/stellenbosch-academy-of-design-and-photography
+http://localhost/osau/schools/find/6521/vermont-college-of-fine-arts/societies-and-clubs
+http://localhost/osau/schools/find/6521/vermont-college-of-fine-arts/questions
+http://localhost/osau/schools/find/6521/vermont-college-of-fine-arts/reviews
+http://localhost/osau/schools/find/6521/vermont-college-of-fine-arts/about
+==========EXTERNAL LINKS==========
+https://en.wikipedia.org/wiki/Education_in_the_United_States,http://localhost/osau/experience/explore/14/education-system-united-states
+https://www.facebook.com/sharer/sharer.php?u=http://localhost/osau/story/14&t=Education System: United States,http://localhost/osau/experience/explore/14/education-system-united-states
+https://twitter.com/share?url=http://localhost/osau/story/14&via=ourschoolandus.com&text=Education System: United States,http://localhost/osau/experience/explore/14/education-system-united-states
+https://plus.google.com/share?url=http://localhost/osau/story/14,http://localhost/osau/experience/explore/14/education-system-united-states
+https://en.wikipedia.org/wiki/CSS_Profile,http://localhost/osau/experience/explore/13/application-guidetime-line-and-checklist-for-undergraduate-admission-in-the-united-states-local-students
+https://en.wikipedia.org/wiki/FAFSA,http://localhost/osau/experience/explore/13/application-guidetime-line-and-checklist-for-undergraduate-admission-in-the-united-states-local-students
+https://www.facebook.com/sharer/sharer.php?u=http://localhost/osau/story/13&t=Application Guide:Time line and checklist for undergraduate admission in the United States (local students),http://localhost/osau/experience/explore/13/application-guidetime-line-and-checklist-for-undergraduate-admission-in-the-united-states-local-students
+https://twitter.com/share?url=http://localhost/osau/story/13&via=ourschoolandus.com&text=Application Guide:Time line and checklist for undergraduate admission in the United States (local students),http://localhost/osau/experience/explore/13/application-guidetime-line-and-checklist-for-undergraduate-admission-in-the-united-states-local-students
+https://plus.google.com/share?url=http://localhost/osau/story/13,http://localhost/osau/experience/explore/13/application-guidetime-line-and-checklist-for-undergraduate-admission-in-the-united-states-local-students
+https://hass.sutd.edu.sg/education/undergraduate/ug-course-schedule/,http://localhost/osau/experience/explore/11/programs-highlight-singapore-university-of-technology-and-design
+https://www.facebook.com/sharer/sharer.php?u=http://localhost/osau/story/11&t=Programs Highlight: Singapore University of Technology and Design,http://localhost/osau/experience/explore/11/programs-highlight-singapore-university-of-technology-and-design
+https://twitter.com/share?url=http://localhost/osau/story/11&via=ourschoolandus.com&text=Programs Highlight: Singapore University of Technology and Design,http://localhost/osau/experience/explore/11/programs-highlight-singapore-university-of-technology-and-design
+https://plus.google.com/share?url=http://localhost/osau/story/11,http://localhost/osau/experience/explore/11/programs-highlight-singapore-university-of-technology-and-design
+http://tinyurl.com/src-sutdstudent,http://localhost/osau/experience/explore/9/the-many-hostels-of-singapore-university-of-technology-and-design
+http://tinyurl.com/src-sutdstaff2,http://localhost/osau/experience/explore/9/the-many-hostels-of-singapore-university-of-technology-and-design
+https://www.facebook.com/sharer/sharer.php?u=http://localhost/osau/story/9&t=The many hostels of Singapore University of Technology and Design,http://localhost/osau/experience/explore/9/the-many-hostels-of-singapore-university-of-technology-and-design
+https://twitter.com/share?url=http://localhost/osau/story/9&via=ourschoolandus.com&text=The many hostels of Singapore University of Technology and Design,http://localhost/osau/experience/explore/9/the-many-hostels-of-singapore-university-of-technology-and-design
+https://plus.google.com/share?url=http://localhost/osau/story/9,http://localhost/osau/experience/explore/9/the-many-hostels-of-singapore-university-of-technology-and-design
+https://www.ourschoolandus.com/experience/explore/10/food-guide-singapore-university-of-technology-and-design,http://localhost/osau/experience/explore/12/campus-tour-singapore-university-of-design-and-technology
+https://www.ourschoolandus.com/experience/explore/9/the-many-hostels-of-singapore-university-of-technology-and-design,http://localhost/osau/experience/explore/12/campus-tour-singapore-university-of-design-and-technology
+https://www.facebook.com/sharer/sharer.php?u=http://localhost/osau/story/12&t=Campus tour: Singapore University of Design and Technology,http://localhost/osau/experience/explore/12/campus-tour-singapore-university-of-design-and-technology
+https://twitter.com/share?url=http://localhost/osau/story/12&via=ourschoolandus.com&text=Campus tour: Singapore University of Design and Technology,http://localhost/osau/experience/explore/12/campus-tour-singapore-university-of-design-and-technology
+https://plus.google.com/share?url=http://localhost/osau/story/12,http://localhost/osau/experience/explore/12/campus-tour-singapore-university-of-design-and-technology
+https://www.facebook.com/sharer/sharer.php?u=http://localhost/osau/story/10&t=Food Guide: Singapore University of Technology and Design,http://localhost/osau/experience/explore/10/food-guide-singapore-university-of-technology-and-design
+https://twitter.com/share?url=http://localhost/osau/story/10&via=ourschoolandus.com&text=Food Guide: Singapore University of Technology and Design,http://localhost/osau/experience/explore/10/food-guide-singapore-university-of-technology-and-design
+https://plus.google.com/share?url=http://localhost/osau/story/10,http://localhost/osau/experience/explore/10/food-guide-singapore-university-of-technology-and-design
+https://www.facebook.com/sharer/sharer.php?u=http://localhost/osau/school/1/social&t=University of Auckland,http://localhost/osau/schools/find/1/university-of-auckland/money
+https://twitter.com/share?url=http://localhost/osau/school/1/social&via=ourschoolandus.com&text=University of Auckland,http://localhost/osau/schools/find/1/university-of-auckland/money
+https://plus.google.com/share?url=http://localhost/osau/school/1/social,http://localhost/osau/schools/find/1/university-of-auckland/money
+https://www.auckland.ac.nz/en.html,http://localhost/osau/schools/find/1/university-of-auckland/money
+https://www.facebook.com/sharer/sharer.php?u=http://localhost/osau/school/1290/social&t=University of Alabama,http://localhost/osau/schools/find/1290/university-of-alabama
+https://twitter.com/share?url=http://localhost/osau/school/1290/social&via=ourschoolandus.com&text=University of Alabama,http://localhost/osau/schools/find/1290/university-of-alabama
+https://plus.google.com/share?url=http://localhost/osau/school/1290/social,http://localhost/osau/schools/find/1290/university-of-alabama
+https://www.ua.edu,http://localhost/osau/schools/find/1290/university-of-alabama
+https://www.facebook.com/sharer/sharer.php?u=http://localhost/osau/school/150/social&t=Hyper Island Institute Of Higher Education,http://localhost/osau/schools/find/150/hyper-island-institute-of-higher-education
+https://twitter.com/share?url=http://localhost/osau/school/150/social&via=ourschoolandus.com&text=Hyper Island Institute Of Higher Education,http://localhost/osau/schools/find/150/hyper-island-institute-of-higher-education
+https://plus.google.com/share?url=http://localhost/osau/school/150/social,http://localhost/osau/schools/find/150/hyper-island-institute-of-higher-education
+http://www.hyperisland.com/singapore,http://localhost/osau/schools/find/150/hyper-island-institute-of-higher-education
+https://www.facebook.com/sharer/sharer.php?u=http://localhost/osau/school/55/social&t=Nanyang Technological University,http://localhost/osau/schools/find/55/nanyang-technological-university
+https://twitter.com/share?url=http://localhost/osau/school/55/social&via=ourschoolandus.com&text=Nanyang Technological University,http://localhost/osau/schools/find/55/nanyang-technological-university
+https://plus.google.com/share?url=http://localhost/osau/school/55/social,http://localhost/osau/schools/find/55/nanyang-technological-university
+http://www.ntu.edu.sg,http://localhost/osau/schools/find/55/nanyang-technological-university
+https://en.wikipedia.org/wiki/Autonomous_university,http://localhost/osau/schools/find/55/nanyang-technological-university/about
+https://en.wikipedia.org/wiki/Nanyang_Technological_University,http://localhost/osau/schools/find/55/nanyang-technological-university/about
+https://www.facebook.com/sharer/sharer.php?u=http://localhost/osau/school/4759/social&t=University of Southern Maine,http://localhost/osau/schools/find/4759/university-of-southern-maine
+https://twitter.com/share?url=http://localhost/osau/school/4759/social&via=ourschoolandus.com&text=University of Southern Maine,http://localhost/osau/schools/find/4759/university-of-southern-maine
+https://plus.google.com/share?url=http://localhost/osau/school/4759/social,http://localhost/osau/schools/find/4759/university-of-southern-maine
+https://usm.maine.edu,http://localhost/osau/schools/find/4759/university-of-southern-maine
+https://www.facebook.com/sharer/sharer.php?u=http://localhost/osau/school/7500/social&t=Maynooth University - National University of Ireland,http://localhost/osau/schools/find/7500/maynooth-university-national-university-of-ireland
+https://twitter.com/share?url=http://localhost/osau/school/7500/social&via=ourschoolandus.com&text=Maynooth University - National University of Ireland,http://localhost/osau/schools/find/7500/maynooth-university-national-university-of-ireland
+https://plus.google.com/share?url=http://localhost/osau/school/7500/social,http://localhost/osau/schools/find/7500/maynooth-university-national-university-of-ireland
+https://www.maynoothuniversity.ie,http://localhost/osau/schools/find/7500/maynooth-university-national-university-of-ireland
+https://www.facebook.com/sharer/sharer.php?u=http://localhost/osau/school/895/social&t=BIMM (Tech Music School),http://localhost/osau/schools/find/895/bimm-tech-music-school
+https://twitter.com/share?url=http://localhost/osau/school/895/social&via=ourschoolandus.com&text=BIMM (Tech Music School),http://localhost/osau/schools/find/895/bimm-tech-music-school
+https://plus.google.com/share?url=http://localhost/osau/school/895/social,http://localhost/osau/schools/find/895/bimm-tech-music-school
+http://www.bimm.co.uk,http://localhost/osau/schools/find/895/bimm-tech-music-school
+https://en.wikipedia.org/wiki/British_and_Irish_Modern_Music_Institute,http://localhost/osau/schools/find/895/bimm-tech-music-school/about
+https://www.facebook.com/sharer/sharer.php?u=http://localhost/osau/school/6775/social&t=Munson Williams Proctor Arts Institute,http://localhost/osau/schools/find/6775/munson-williams-proctor-arts-institute
+https://twitter.com/share?url=http://localhost/osau/school/6775/social&via=ourschoolandus.com&text=Munson Williams Proctor Arts Institute,http://localhost/osau/schools/find/6775/munson-williams-proctor-arts-institute
+https://plus.google.com/share?url=http://localhost/osau/school/6775/social,http://localhost/osau/schools/find/6775/munson-williams-proctor-arts-institute
+https://www.mwpai.org/,http://localhost/osau/schools/find/6775/munson-williams-proctor-arts-institute
+https://www.facebook.com/sharer/sharer.php?u=http://localhost/osau/school/5803/social&t=Sessions College for Professional Design,http://localhost/osau/schools/find/5803/sessions-college-for-professional-design
+https://twitter.com/share?url=http://localhost/osau/school/5803/social&via=ourschoolandus.com&text=Sessions College for Professional Design,http://localhost/osau/schools/find/5803/sessions-college-for-professional-design
+https://plus.google.com/share?url=http://localhost/osau/school/5803/social,http://localhost/osau/schools/find/5803/sessions-college-for-professional-design
+https://www.sessions.edu,http://localhost/osau/schools/find/5803/sessions-college-for-professional-design
+https://www.facebook.com/sharer/sharer.php?u=http://localhost/osau/school/850/social&t=Courtauld Institute of Art,http://localhost/osau/schools/find/850/courtauld-institute-of-art
+https://twitter.com/share?url=http://localhost/osau/school/850/social&via=ourschoolandus.com&text=Courtauld Institute of Art,http://localhost/osau/schools/find/850/courtauld-institute-of-art
+https://plus.google.com/share?url=http://localhost/osau/school/850/social,http://localhost/osau/schools/find/850/courtauld-institute-of-art
+https://courtauld.ac.uk,http://localhost/osau/schools/find/850/courtauld-institute-of-art
+https://www.facebook.com/sharer/sharer.php?u=http://localhost/osau/school/6531/social&t=American Academy of Dramatic Arts,http://localhost/osau/schools/find/6531/american-academy-of-dramatic-arts
+https://twitter.com/share?url=http://localhost/osau/school/6531/social&via=ourschoolandus.com&text=American Academy of Dramatic Arts,http://localhost/osau/schools/find/6531/american-academy-of-dramatic-arts
+https://plus.google.com/share?url=http://localhost/osau/school/6531/social,http://localhost/osau/schools/find/6531/american-academy-of-dramatic-arts
+https://www.aada.edu/,http://localhost/osau/schools/find/6531/american-academy-of-dramatic-arts
+https://www.aada.edu/mission-statement/,http://localhost/osau/schools/find/6531/american-academy-of-dramatic-arts/about
+https://www.facebook.com/sharer/sharer.php?u=http://localhost/osau/school/6843/social&t=Laguna College of Art & Design,http://localhost/osau/schools/find/6843/laguna-college-of-art-design
+https://twitter.com/share?url=http://localhost/osau/school/6843/social&via=ourschoolandus.com&text=Laguna College of Art & Design,http://localhost/osau/schools/find/6843/laguna-college-of-art-design
+https://plus.google.com/share?url=http://localhost/osau/school/6843/social,http://localhost/osau/schools/find/6843/laguna-college-of-art-design
+https://www.lcad.edu/,http://localhost/osau/schools/find/6843/laguna-college-of-art-design
+https://www.facebook.com/sharer/sharer.php?u=http://localhost/osau/school/7521/social&t=Dublin Institute of Design,http://localhost/osau/schools/find/7521/dublin-institute-of-design
+https://twitter.com/share?url=http://localhost/osau/school/7521/social&via=ourschoolandus.com&text=Dublin Institute of Design,http://localhost/osau/schools/find/7521/dublin-institute-of-design
+https://plus.google.com/share?url=http://localhost/osau/school/7521/social,http://localhost/osau/schools/find/7521/dublin-institute-of-design
+http://www.dublindesign.ie,http://localhost/osau/schools/find/7521/dublin-institute-of-design
+https://en.wikipedia.org/wiki/Dublin_Institute_of_Design,http://localhost/osau/schools/find/7521/dublin-institute-of-design/about
+https://www.facebook.com/sharer/sharer.php?u=http://localhost/osau/school/914/social&t=Academy of Contemporary Music,http://localhost/osau/schools/find/914/academy-of-contemporary-music
+https://twitter.com/share?url=http://localhost/osau/school/914/social&via=ourschoolandus.com&text=Academy of Contemporary Music,http://localhost/osau/schools/find/914/academy-of-contemporary-music
+https://plus.google.com/share?url=http://localhost/osau/school/914/social,http://localhost/osau/schools/find/914/academy-of-contemporary-music
+https://www.acm.ac.uk,http://localhost/osau/schools/find/914/academy-of-contemporary-music
+https://www.facebook.com/sharer/sharer.php?u=http://localhost/osau/school/6521/social&t=Vermont College of Fine Arts,http://localhost/osau/schools/find/6521/vermont-college-of-fine-arts
+https://twitter.com/share?url=http://localhost/osau/school/6521/social&via=ourschoolandus.com&text=Vermont College of Fine Arts,http://localhost/osau/schools/find/6521/vermont-college-of-fine-arts
+https://plus.google.com/share?url=http://localhost/osau/school/6521/social,http://localhost/osau/schools/find/6521/vermont-college-of-fine-arts
+http://vcfa.edu,http://localhost/osau/schools/find/6521/vermont-college-of-fine-arts

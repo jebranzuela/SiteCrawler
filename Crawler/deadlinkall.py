@@ -12,12 +12,14 @@ sys.setrecursionlimit(50000000)
 print(sys.getrecursionlimit())
 
 osau_urls = []
-ext_urls = []
+ext_urls = {}
+counter = 0
 
 def scrapeSite(url):
 	global osau_urls
 	global ext_urls
-	
+	global counter
+
 	# Request site here
 	r = requests.get(url)
 	html = r.content
@@ -43,38 +45,58 @@ def scrapeSite(url):
 		if link[0:21] == "http://localhost/osau":
 			osau_temp.append(link)
 		else:
-			ext_temp.append(link)
+			if link not in list(ext_urls.keys()):
+				ext_urls[link] = url
 
 	# Check if links are already in urls[]
-	in_ext = set(ext_urls)
-	in_temp = set(ext_temp)
-	diff = in_temp - in_ext
-	ext_urls = ext_urls + list(diff)
+	# in_ext = set(ext_urls)
+	# in_temp = set(ext_temp)
+	# diff = in_temp - in_ext
+	# ext_urls = ext_urls + list(diff)
 
 	in_osau = set(osau_urls)
 	in_temp = set(osau_temp)
 	diff = in_temp - in_osau
 	osau_urls = osau_urls + list(diff)
 
+	
+	file = open("sites.txt", "w")
+
+	# Write all links to sites.txt
+	for link in osau_urls:
+		file.writelines("%s\n" % link)
+
+	file.write("==========EXTERNAL LINKS==========\n")
+
+	for link in ext_urls:
+		file.writelines("%s,%s\n" % (link, ext_urls[link]))
+
+	file.close()
+
 	# Pass all new links to method
 	for url in diff:
 		scrapeSite(url)
 
+		# if counter == 10:
+		# 	return 0
+		# else:
+	# 	counter += 1
+			
 url = "http://localhost/osau"
 scrapeSite(url)
 
-file = open("sites.txt", "w")
+# file = open("sites.txt", "w")
 
-# Write all links to sites.txt
-for link in osau_urls:
-	file.writelines("%s\n" % link)
+# # Write all links to sites.txt
+# for link in osau_urls:
+# 	file.writelines("%s\n" % link)
 
-file.write("==========EXTERNAL LINKS==========\n")
+# file.write("==========EXTERNAL LINKS==========\n")
 
-for link in ext_urls:
-	file.writelines("%s\n" % link)
+# for link in ext_urls:
+# 	file.writelines("%s\n" % link)
 
-file.close()
+#file.close()
 
 end = datetime.now()
 print(end)

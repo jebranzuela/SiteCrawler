@@ -1,0 +1,760 @@
+http://awc.edu/welcome-to-awc/who-we-are
+<Response [404]>
+(404, [], 'http://awc.edu/welcome-to-awc/who-we-are', 'Error')
+
+http://egcc.edu/
+0
+(0, [], 'http://egcc.edu/', ConnectionError(MaxRetryError("HTTPConnectionPool(host='egcc.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104dfbeb8>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://geog.hku.hk/postgrad/matpp/05a.html
+<Response [403]>
+(403, [], 'http://geog.hku.hk/postgrad/matpp/05a.html', 'Error')
+
+http://hamiltontechcollege.edu
+<Response [403]>
+(403, [], 'http://hamiltontechcollege.edu', 'Error')
+
+http://laney.edu/wp/
+<Response [404]>
+(404, [<Response [301]>], 'http://laney.edu/wp/', 'Error')
+
+http://prairiestate.edu/
+<Response [504]>
+(504, [], 'http://prairiestate.edu/', 'Error')
+
+http://ranken.edu
+<Response [503]>
+(503, [], 'http://ranken.edu', 'Error')
+
+http://researchcollege.edu
+<Response [504]>
+(504, [], 'http://researchcollege.edu', 'Error')
+
+http://teoleary.com/teaching-hku/huma7001-introduction-to-thesis-writing-critical-humanities/
+<Response [404]>
+(404, [<Response [301]>], 'http://teoleary.com/teaching-hku/huma7001-introduction-to-thesis-writing-critical-humanities/', 'Error')
+
+http://tinyurl.com/src-sutdstaff2
+0
+(0, [], 'http://tinyurl.com/src-sutdstaff2', ConnectionError(MaxRetryError("HTTPConnectionPool(host='sutdcentral.sutd.edu.sg', port=80): Max retries exceeded with url: /Departments/HR/Department%20Document%20Library/Forms/AllItems.aspx?RootFolder=%2FDepartments%2FHR%2FDepartment%20Document%20Library%2FSports%20and%20Recreation%20Centre&FolderCTID=0x0120009F7158EFA6C91A4E954701DD74F89C5A&View=%7BE3B76F2B-CBB6-46AF-A610-AF6AA6237C9A%7D (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104e94208>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://tinyurl.com/src-sutdstudent
+0
+(0, [], 'http://tinyurl.com/src-sutdstudent', ConnectionError(MaxRetryError("HTTPConnectionPool(host='sutdcentral.sutd.edu.sg', port=80): Max retries exceeded with url: /housing/Office%20of%20Housing/Forms/AllItems.aspx?RootFolder=%2Fhousing%2FOffice%20of%20Housing%2FSports%20and%20Recreation%20Centre&FolderCTID=0x0120005EA5A776A03FA54BAAC375526724D6B8&View=%7B710018BB-AE7B-4FFE-B07D-1E6EECEB7409%7D (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104e90438>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://tncc.edu
+0
+(0, [], 'http://tncc.edu', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+http://web.hku.hk/%7Ejudoclub
+<Response [404]>
+(404, [], 'http://web.hku.hk/%7Ejudoclub', 'Error')
+
+http://www.aipm.gov.au/about-the-aipm/
+<Response [404]>
+(404, [<Response [301]>], 'http://www.aipm.gov.au/about-the-aipm/', 'Error')
+
+http://www.angelina.edu/
+<Response [504]>
+(504, [], 'http://www.angelina.edu/', 'Error')
+
+http://www.arch.nus.edu.sg/programme/architecture/ba-arch/aki_handbk_1819.pdf
+<Response [500]>
+(500, [<Response [301]>], 'http://www.arch.nus.edu.sg/programme/architecture/ba-arch/aki_handbk_1819.pdf', 'Error')
+
+http://www.arch.nus.edu.sg/programme/architecture/ba-arch/con1718.pdf
+<Response [500]>
+(500, [<Response [301]>], 'http://www.arch.nus.edu.sg/programme/architecture/ba-arch/con1718.pdf', 'Error')
+
+http://www.arch.nus.edu.sg/programme/architecture/m-arch/m-arch-info.pdf
+<Response [500]>
+(500, [<Response [301]>], 'http://www.arch.nus.edu.sg/programme/architecture/m-arch/m-arch-info.pdf', 'Error')
+
+http://www.arch.nus.edu.sg/programme/architecture/ma-arch.html#
+<Response [500]>
+(500, [<Response [301]>], 'http://www.arch.nus.edu.sg/programme/architecture/ma-arch.html#', 'Error')
+
+http://www.arch.nus.edu.sg/programme/architecture/march-dts.pdf
+<Response [500]>
+(500, [<Response [301]>], 'http://www.arch.nus.edu.sg/programme/architecture/march-dts.pdf', 'Error')
+
+http://www.arch.nus.edu.sg/programme/architecture/march-ud.pdf
+<Response [500]>
+(500, [<Response [301]>], 'http://www.arch.nus.edu.sg/programme/architecture/march-ud.pdf', 'Error')
+
+http://www.arch.nus.edu.sg/programme/architecture/phd-arch.html
+<Response [500]>
+(500, [<Response [301]>], 'http://www.arch.nus.edu.sg/programme/architecture/phd-arch.html', 'Error')
+
+http://www.arch.nus.edu.sg/programme/landscape-architecture/about-mla.html
+<Response [500]>
+(500, [<Response [301]>], 'http://www.arch.nus.edu.sg/programme/landscape-architecture/about-mla.html', 'Error')
+
+http://www.arch.nus.edu.sg/programme/urban-design/2-year-part-time.html
+<Response [500]>
+(500, [<Response [301]>], 'http://www.arch.nus.edu.sg/programme/urban-design/2-year-part-time.html', 'Error')
+
+http://www.athenstech.edu/
+<Response [504]>
+(504, [], 'http://www.athenstech.edu/', 'Error')
+
+http://www.bishopg.ac.uk/about/visionmission/
+<Response [404]>
+(404, [<Response [301]>], 'http://www.bishopg.ac.uk/about/visionmission/', 'Error')
+
+http://www.btc.edu/
+<Response [502]>
+(502, [], 'http://www.btc.edu/', 'Error')
+
+http://www.carlowcollege.ie/About-the-College/Welcome
+<Response [404]>
+(404, [<Response [301]>], 'http://www.carlowcollege.ie/About-the-College/Welcome', 'Error')
+
+http://www.cegepoutaouais.qc.ca
+<Response [403]>
+(403, [], 'http://www.cegepoutaouais.qc.ca', 'Error')
+
+http://www.centralgatech.edu/
+<Response [504]>
+(504, [], 'http://www.centralgatech.edu/', 'Error')
+
+http://www.coastalkzn.co.za/portfolio.html
+<Response [404]>
+(404, [], 'http://www.coastalkzn.co.za/portfolio.html', 'Error')
+
+http://www.coastalpines.edu
+<Response [504]>
+(504, [], 'http://www.coastalpines.edu', 'Error')
+
+http://www.cochranschoolofnursing.us
+<Response [403]>
+(403, [], 'http://www.cochranschoolofnursing.us', 'Error')
+
+http://www.cochranschoolofnursing.us/AboutUs.aspx
+<Response [403]>
+(403, [], 'http://www.cochranschoolofnursing.us/AboutUs.aspx', 'Error')
+
+http://www.denmarktech.edu/mission-statement/
+<Response [404]>
+(404, [], 'http://www.denmarktech.edu/mission-statement/', 'Error')
+
+http://www.designcollege.com.au
+0
+(0, [], 'http://www.designcollege.com.au', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.designcollege.com.au', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104e90898>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.eslccc.com/about.html
+<Response [404]>
+(404, [], 'http://www.eslccc.com/about.html', 'Error')
+
+http://www.facebook.com/hkuscomplit/
+<Response [403]>
+(403, [], 'http://www.facebook.com/hkuscomplit/', 'Error')
+
+http://www.fas.nus.edu.sg/chs/eng/grad/degree_programmes_MA_double.html
+<Response [404]>
+(404, [], 'http://www.fas.nus.edu.sg/chs/eng/grad/degree_programmes_MA_double.html', 'Error')
+
+http://www.fletcher.edu
+<Response [504]>
+(504, [], 'http://www.fletcher.edu', 'Error')
+
+http://www.fullcoll.edu
+<Response [504]>
+(504, [], 'http://www.fullcoll.edu', 'Error')
+
+http://www.ggc.edu/about-ggc/GGC
+<Response [404]>
+(404, [], 'http://www.ggc.edu/about-ggc/GGC', 'Error')
+
+http://www.gibbsmelville.edu
+0
+(0, [], 'http://www.gibbsmelville.edu', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.gibbsmelville.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104e90ef0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.gordonstate.edu/
+<Response [504]>
+(504, [], 'http://www.gordonstate.edu/', 'Error')
+
+http://www.gradsch.hku.hk/gradsch/current-students/coursework-information/coursework-enrolment/general-coursework-requirement#
+<Response [404]>
+(404, [<Response [302]>], 'http://www.gradsch.hku.hk/gradsch/current-students/coursework-information/coursework-enrolment/general-coursework-requirement#', 'Error')
+
+http://www.holmescc.edu/
+<Response [504]>
+(504, [], 'http://www.holmescc.edu/', 'Error')
+
+http://www.isa-cuhk.com
+<Response [403]>
+(403, [], 'http://www.isa-cuhk.com', 'Error')
+
+http://www.kellogg.edu
+<Response [403]>
+(403, [], 'http://www.kellogg.edu', 'Error')
+
+http://www.laniertech.edu/
+<Response [504]>
+(504, [], 'http://www.laniertech.edu/', 'Error')
+
+http://www.laredo.edu/cms/index.aspx
+<Response [504]>
+(504, [], 'http://www.laredo.edu/cms/index.aspx', 'Error')
+
+http://www.laredo.edu/cms/mission.aspx
+<Response [504]>
+(504, [], 'http://www.laredo.edu/cms/mission.aspx', 'Error')
+
+http://www.law.hku.hk/postgrad/
+<Response [404]>
+(404, [<Response [302]>, <Response [301]>], 'http://www.law.hku.hk/postgrad/', 'Error')
+
+http://www.linguisinternational.ac.nz
+<Response [503]>
+(503, [], 'http://www.linguisinternational.ac.nz', 'Error')
+
+http://www.linguisinternational.ac.nz/about-us.html
+<Response [503]>
+(503, [], 'http://www.linguisinternational.ac.nz/about-us.html', 'Error')
+
+http://www.mchenry.edu
+<Response [502]>
+(502, [], 'http://www.mchenry.edu', 'Error')
+
+http://www.mclennan.edu
+<Response [504]>
+(504, [], 'http://www.mclennan.edu', 'Error')
+
+http://www.mji.edu
+0
+(0, [], 'http://www.mji.edu', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.mji.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104eacd68>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.ncat.edu
+<Response [504]>
+(504, [], 'http://www.ncat.edu', 'Error')
+
+http://www.nmcc.edu/
+0
+(0, [], 'http://www.nmcc.edu/', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.nmcc.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104e1e710>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.oases.edu.au
+0
+(0, [], 'http://www.oases.edu.au', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.oases.edu.au', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104e1e438>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.occc.edu
+<Response [504]>
+(504, [], 'http://www.occc.edu', 'Error')
+
+http://www.ogeecheetech.edu/
+<Response [504]>
+(504, [], 'http://www.ogeecheetech.edu/', 'Error')
+
+http://www.ourschoolandus.com
+<Response [401]>
+(401, [], 'http://www.ourschoolandus.com', 'Error')
+
+http://www.paloverde.edu
+<Response [504]>
+(504, [], 'http://www.paloverde.edu', 'Error')
+
+http://www.pharmacy.cuhk.edu.hk/1/education/tpg/pmq/
+<Response [404]>
+(404, [], 'http://www.pharmacy.cuhk.edu.hk/1/education/tpg/pmq/', 'Error')
+
+http://www.proskills.edu
+<Response [403]>
+(403, [], 'http://www.proskills.edu', 'Error')
+
+http://www.retailacademy.com.sg
+0
+(0, [], 'http://www.retailacademy.com.sg', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.retailacademy.com.sg', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104eacb38>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.ridgewater.edu/Pages/default.aspx
+<Response [404]>
+(404, [], 'http://www.ridgewater.edu/Pages/default.aspx', 'Error')
+
+http://www.saa.edu
+<Response [503]>
+(503, [], 'http://www.saa.edu', 'Error')
+
+http://www.scf.edu
+<Response [504]>
+(504, [], 'http://www.scf.edu', 'Error')
+
+http://www.sdcity.edu
+0
+(0, [], 'http://www.sdcity.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.sdcity.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+http://www.shannoncollege.com/about/
+<Response [404]>
+(404, [<Response [301]>], 'http://www.shannoncollege.com/about/', 'Error')
+
+http://www.southhills.edu
+<Response [504]>
+(504, [], 'http://www.southhills.edu', 'Error')
+
+http://www.southhills.edu/about/
+<Response [504]>
+(504, [], 'http://www.southhills.edu/about/', 'Error')
+
+http://www.stat.nus.edu.sg/opencms/prospectivestudents/ps_gradphd.html#top
+<Response [404]>
+(404, [<Response [302]>], 'http://www.stat.nus.edu.sg/opencms/prospectivestudents/ps_gradphd.html#top', 'Error')
+
+http://www.ubtech.edu
+<Response [504]>
+(504, [], 'http://www.ubtech.edu', 'Error')
+
+http://www.westgatech.edu
+<Response [504]>
+(504, [], 'http://www.westgatech.edu', 'Error')
+
+http://www0.hku.hk/dance/
+0
+(0, [], 'http://www0.hku.hk/dance/', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www0.hku.hk', port=80): Max retries exceeded with url: /dance/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104e1eb00>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+https://byuh.edu
+0
+(0, [], 'https://byuh.edu', ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.byuh.edu%20', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104e90518>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+https://csb.edu
+<Response [503]>
+(503, [], 'https://csb.edu', 'Error')
+
+https://hku.hk/cchkusu
+0
+(0, [], 'https://hku.hk/cchkusu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /hkusucc/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://howardcollege.edu/home/about/about-hc/
+0
+(0, [], 'https://howardcollege.edu/home/about/about-hc/', ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))))
+
+https://nfts.co.uk/who-we-are
+<Response [404]>
+(404, [], 'https://nfts.co.uk/who-we-are', 'Error')
+
+https://northgatech.edu/
+0
+(0, [], 'https://northgatech.edu/', ConnectionError(MaxRetryError("HTTPSConnectionPool(host='northgatech.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x104e90eb8>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://ourschoolandus.com/schools/find/4544/california-state-university-sacramento-sacramento-state/manage?mtab=resources
+<Response [401]>
+(401, [], 'https://ourschoolandus.com/schools/find/4544/california-state-university-sacramento-sacramento-state/manage?mtab=resources', 'Error')
+
+https://ourschoolandus.com/schools/find/772/oxford-brookes-university/about
+<Response [401]>
+(401, [], 'https://ourschoolandus.com/schools/find/772/oxford-brookes-university/about', 'Error')
+
+https://socsc.smu.edu.sg/programmes/fast-track-msc-psychology/overview
+<Response [404]>
+(404, [], 'https://socsc.smu.edu.sg/programmes/fast-track-msc-psychology/overview', 'Error')
+
+https://surry.edu
+0
+(0, [], 'https://surry.edu', ConnectionError(MaxRetryError("HTTPSConnectionPool(host='surry.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x104e907f0>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://sw.edu
+<Response [503]>
+(503, [], 'https://sw.edu', 'Error')
+
+https://sw.edu/about/
+<Response [503]>
+(503, [], 'https://sw.edu/about/', 'Error')
+
+https://www-rp-edu-sg.cwp.sg/ace/course-summary/Detail/diploma-in-applied-science-(environmental-services-and-management)
+<Response [403]>
+(403, [], 'https://www-rp-edu-sg.cwp.sg/ace/course-summary/Detail/diploma-in-applied-science-(environmental-services-and-management)', 'Error')
+
+https://www.alamancecc.edu/
+0
+(0, [], 'https://www.alamancecc.edu/', ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.alamancecc.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x104ebaf60>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://www.albanytech.edu/
+0
+(0, [], 'https://www.albanytech.edu/', ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.albanytech.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x104e90d68>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://www.auc.edu/ics/
+<Response [404]>
+(404, [<Response [301]>], 'https://www.auc.edu/ics/', 'Error')
+
+https://www.cbshouston.edu
+0
+(0, [], 'https://www.cbshouston.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.cbshouston.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1045)')))")))
+
+https://www.cegepgarneau.ca
+0
+(0, [], 'https://www.cegepgarneau.ca', ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.cegepgarneau.ca', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x104e1e898>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://www.clinton.edu
+0
+(0, [], 'https://www.clinton.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.clinton.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.clinton.edu/CampusInfo/
+0
+(0, [], 'https://www.clinton.edu/CampusInfo/', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.clinton.edu', port=443): Max retries exceeded with url: /CampusInfo/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.davistech.edu/
+0
+(0, [], 'https://www.davistech.edu/', ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.davistech.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x104e1e400>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://www.eit.ac.nz/wp-content/uploads/2010/10/EIT-Prospectus-2018-0218-LR-fv.pdf
+<Response [404]>
+(404, [], 'https://www.eit.ac.nz/wp-content/uploads/2010/10/EIT-Prospectus-2018-0218-LR-fv.pdf', 'Error')
+
+https://www.esgvrop.org
+<Response [403]>
+(403, [], 'https://www.esgvrop.org', 'Error')
+
+https://www.facebook.com/ACAHKUSU/
+0
+(0, [], 'https://www.facebook.com/ACAHKUSU/', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /ACAHKUSU/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.facebook.com/amersochku
+0
+(0, [], 'https://www.facebook.com/amersochku', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /amersochku (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.facebook.com/archeryhku
+0
+(0, [], 'https://www.facebook.com/archeryhku', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /archeryhku (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.facebook.com/artclubhkusu/
+0
+(0, [], 'https://www.facebook.com/artclubhkusu/', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /artclubhkusu/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.facebook.com/ba.bea.hkusu/
+0
+(0, [], 'https://www.facebook.com/ba.bea.hkusu/', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /ba.bea.hkusu/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.facebook.com/badmintonclubhkusu/
+0
+(0, [], 'https://www.facebook.com/badmintonclubhkusu/', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /badmintonclubhkusu/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.facebook.com/cahkusu
+0
+(0, [], 'https://www.facebook.com/cahkusu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /cahkusu (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.facebook.com/cbchkusu
+0
+(0, [], 'https://www.facebook.com/cbchkusu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /cbchkusu (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.facebook.com/ceahkusu
+0
+(0, [], 'https://www.facebook.com/ceahkusu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /ceahkusu (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.facebook.com/chineseorchestra.hkusu
+0
+(0, [], 'https://www.facebook.com/chineseorchestra.hkusu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /chineseorchestra.hkusu (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.facebook.com/dentalsocietyhkusu/
+0
+(0, [], 'https://www.facebook.com/dentalsocietyhkusu/', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/efshku/
+0
+(0, [], 'https://www.facebook.com/efshku/', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/FilmSocietyHKUSU
+0
+(0, [], 'https://www.facebook.com/FilmSocietyHKUSU', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/fineartsochku
+0
+(0, [], 'https://www.facebook.com/fineartsochku', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/footballclubhkusu
+0
+(0, [], 'https://www.facebook.com/footballclubhkusu', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/goldenzclubhkusu
+0
+(0, [], 'https://www.facebook.com/goldenzclubhkusu', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/greenwoodshkusu
+0
+(0, [], 'https://www.facebook.com/greenwoodshkusu', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/groups/46507235097/
+0
+(0, [], 'https://www.facebook.com/groups/46507235097/', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/groups/kendo.hku/about/
+0
+(0, [], 'https://www.facebook.com/groups/kendo.hku/about/', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/help/568137493302217
+0
+(0, [], 'https://www.facebook.com/help/568137493302217', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/History-Society-AAHKUSU-303984529643972/
+0
+(0, [], 'https://www.facebook.com/History-Society-AAHKUSU-303984529643972/', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/HKU.English
+0
+(0, [], 'https://www.facebook.com/HKU.English', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/HKU.Tennis
+0
+(0, [], 'https://www.facebook.com/HKU.Tennis', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/hkuarchcons/
+0
+(0, [], 'https://www.facebook.com/hkuarchcons/', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/hkubball/
+0
+(0, [], 'https://www.facebook.com/hkubball/', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/hkuclimbing
+0
+(0, [], 'https://www.facebook.com/hkuclimbing', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/hkudanso?lst=606992918%3A100002526033040%3A1530513581
+0
+(0, [], 'https://www.facebook.com/hkudanso?lst=606992918%3A100002526033040%3A1530513581', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/hkugerman
+0
+(0, [], 'https://www.facebook.com/hkugerman', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/HKUHockey
+0
+(0, [], 'https://www.facebook.com/HKUHockey', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/HKULaxClub/
+0
+(0, [], 'https://www.facebook.com/HKULaxClub/', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/hkulskh/
+0
+(0, [], 'https://www.facebook.com/hkulskh/', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/hkumagic
+0
+(0, [], 'https://www.facebook.com/hkumagic', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/HKUMUSO
+0
+(0, [], 'https://www.facebook.com/HKUMUSO', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/hkurcleehall
+0
+(0, [], 'https://www.facebook.com/hkurcleehall', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/hkurowclub
+0
+(0, [], 'https://www.facebook.com/hkurowclub', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/hkusuaclub
+0
+(0, [], 'https://www.facebook.com/hkusuaclub', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/hkusucc/
+0
+(0, [], 'https://www.facebook.com/hkusucc/', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/hkusussg/?fref=ts
+0
+(0, [], 'https://www.facebook.com/hkusussg/?fref=ts', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/hkutkd
+0
+(0, [], 'https://www.facebook.com/hkutkd', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/hornellhallhku
+0
+(0, [], 'https://www.facebook.com/hornellhallhku', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/ISACUHK/
+0
+(0, [], 'https://www.facebook.com/ISACUHK/', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/JASOHKU
+0
+(0, [], 'https://www.facebook.com/JASOHKU', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/karate.hku.9?fref=ts
+0
+(0, [], 'https://www.facebook.com/karate.hku.9?fref=ts', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/koreansocietyaahkusu
+0
+(0, [], 'https://www.facebook.com/koreansocietyaahkusu', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/ladyhotunghall/
+0
+(0, [], 'https://www.facebook.com/ladyhotunghall/', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /ladyhotunghall/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.facebook.com/lchhsa
+0
+(0, [], 'https://www.facebook.com/lchhsa', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/LeeHysanHallHKU/
+0
+(0, [], 'https://www.facebook.com/LeeHysanHallHKU/', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/lifeplanet.hk
+0
+(0, [], 'https://www.facebook.com/lifeplanet.hk', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/lingsochku
+0
+(0, [], 'https://www.facebook.com/lingsochku', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/MSAHKUSU
+0
+(0, [], 'https://www.facebook.com/MSAHKUSU', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/nasu.cuhk
+0
+(0, [], 'https://www.facebook.com/nasu.cuhk', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/NetballClubHKUSU
+0
+(0, [], 'https://www.facebook.com/NetballClubHKUSU', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/pg/French.Society.AAHKUSU/about/?ref=page_internal
+0
+(0, [], 'https://www.facebook.com/pg/French.Society.AAHKUSU/about/?ref=page_internal', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/pg/HKUASA/about/?ref=page_internal
+0
+(0, [], 'https://www.facebook.com/pg/HKUASA/about/?ref=page_internal', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/Photographic.Society.HKUSU
+0
+(0, [], 'https://www.facebook.com/Photographic.Society.HKUSU', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/RamblersHKU/
+0
+(0, [], 'https://www.facebook.com/RamblersHKU/', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /RamblersHKU/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.facebook.com/rotaract.hkusu
+0
+(0, [], 'https://www.facebook.com/rotaract.hkusu', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/socbearr/
+0
+(0, [], 'https://www.facebook.com/socbearr/', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/Softball-Club-HKUSU-240407939321449/
+0
+(0, [], 'https://www.facebook.com/Softball-Club-HKUSU-240407939321449/', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/spanishsochku/
+0
+(0, [], 'https://www.facebook.com/spanishsochku/', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/starrhallhku?fref=ts
+0
+(0, [], 'https://www.facebook.com/starrhallhku?fref=ts', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/stjohns.hk/
+0
+(0, [], 'https://www.facebook.com/stjohns.hk/', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/subuddhiststudies/
+0
+(0, [], 'https://www.facebook.com/subuddhiststudies/', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/SuenChiSunHall?fref=ts
+0
+(0, [], 'https://www.facebook.com/SuenChiSunHall?fref=ts', ConnectionError(ProtocolError('Connection aborted.', TimeoutError(60, 'Operation timed out'))))
+
+https://www.facebook.com/Table-Tennis-Club-HKUSU-371267083436/
+0
+(0, [], 'https://www.facebook.com/Table-Tennis-Club-HKUSU-371267083436/', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /Table-Tennis-Club-HKUSU-371267083436/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.facebook.com/uhall.hku
+0
+(0, [], 'https://www.facebook.com/uhall.hku', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /uhall.hku (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.facebook.com/unionchoirhkusu/
+0
+(0, [], 'https://www.facebook.com/unionchoirhkusu/', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /unionchoirhkusu/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.facebook.com/upohkusu
+0
+(0, [], 'https://www.facebook.com/upohkusu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /upohkusu (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.facebook.com/Weilunhall/?fref=ts
+0
+(0, [], 'https://www.facebook.com/Weilunhall/?fref=ts', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /Weilunhall/?fref=ts (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.facebook.com/WTA.hkusu
+0
+(0, [], 'https://www.facebook.com/WTA.hkusu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /WTA.hkusu (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.facebook.com/ylaahkusu/
+0
+(0, [], 'https://www.facebook.com/ylaahkusu/', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /ylaahkusu/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.flcc.edu
+0
+(0, [], 'https://www.flcc.edu', ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.flcc.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x104f55a20>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://www.fortis.edu/
+<Response [403]>
+(403, [], 'https://www.fortis.edu/', 'Error')
+
+https://www.globaluniversity.edu
+0
+(0, [], 'https://www.globaluniversity.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.globaluniversity.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.globaluniversity.edu/about_index.cfm
+0
+(0, [], 'https://www.globaluniversity.edu/about_index.cfm', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.globaluniversity.edu', port=443): Max retries exceeded with url: /about_index.cfm (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.jwcc.edu/
+0
+(0, [], 'https://www.jwcc.edu/', ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.jwcc.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x104f55080>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://www.manhattantech.edu
+0
+(0, [], 'https://www.manhattantech.edu', ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.manhattantech.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x104dfbfd0>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://www.ourschoolandus.com/experience/explore/10/food-guide-singapore-university-of-technology-and-design
+<Response [401]>
+(401, [], 'https://www.ourschoolandus.com/experience/explore/10/food-guide-singapore-university-of-technology-and-design', 'Error')
+
+https://www.ourschoolandus.com/experience/explore/9/the-many-hostels-of-singapore-university-of-technology-and-design
+<Response [401]>
+(401, [], 'https://www.ourschoolandus.com/experience/explore/9/the-many-hostels-of-singapore-university-of-technology-and-design', 'Error')
+
+https://www.ourschoolandus.com/schools/find/218/chinese-university-of-hong-kong/manage?mtab=courses
+<Response [401]>
+(401, [], 'https://www.ourschoolandus.com/schools/find/218/chinese-university-of-hong-kong/manage?mtab=courses', 'Error')
+
+https://www.rcleehallhku.com
+<Response [404]>
+(404, [], 'https://www.rcleehallhku.com', 'Error')
+
+https://www.rwcmd.ac.uk
+0
+(0, [], 'https://www.rwcmd.ac.uk', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.rwcmd.ac.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
+https://www.sctech.edu
+0
+(0, [], 'https://www.sctech.edu', ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.sctech.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x104e1e978>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://www.tompkinscortland.edu/college-info/about-tompkins-cortland
+<Response [404]>
+(404, [], 'https://www.tompkinscortland.edu/college-info/about-tompkins-cortland', 'Error')
+
+https://www.unca.edu
+0
+(0, [], 'https://www.unca.edu', ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.unca.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x104f467f0>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://www.usnews.com/education/best-colleges/articles/how-us-news-calculated-the-rankings
+<Response [403]>
+(403, [], 'https://www.usnews.com/education/best-colleges/articles/how-us-news-calculated-the-rankings', 'Error')
+
+https://www.usnews.com/education/best-high-schools
+<Response [403]>
+(403, [], 'https://www.usnews.com/education/best-high-schools', 'Error')
+
+https://www.waubonsee.edu
+<Response [403]>
+(403, [], 'https://www.waubonsee.edu', 'Error')
+
+https://www.wju.edu
+0
+(0, [], 'https://www.wju.edu', SSLError(MaxRetryError("HTTPSConnectionPool(host='www.wju.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1045)')))")))
+
