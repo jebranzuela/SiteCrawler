@@ -1,0 +1,184 @@
+http://familyoffaith.edu,http://localhost/osau/schools/find/7457/family-of-faith-christian-university,200
+<Response [200]>
+(200, [], 'http://familyoffaith.edu', 'http://localhost/osau/schools/find/7457/family-of-faith-christian-university', 'No error. No redirect.')
+
+http://familyoffaith.edu/about/,http://localhost/osau/schools/find/7457/family-of-faith-christian-university/about,200
+<Response [200]>
+(200, [], 'http://familyoffaith.edu/about/', 'http://localhost/osau/schools/find/7457/family-of-faith-christian-university/about', 'No error. No redirect.')
+
+http://www.aaps.ca,http://localhost/osau/schools/find/620/academy-of-applied-pharmaceutical-sciences,200
+<Response [200]>
+(200, [<Response [301]>], 'http://www.aaps.ca', 'http://localhost/osau/schools/find/620/academy-of-applied-pharmaceutical-sciences', 'No error. Redirect to https://www.aaps.ca/')
+
+http://www.allencc.edu/,http://localhost/osau/schools/find/6862/allen-community-college,200
+<Response [200]>
+(200, [<Response [301]>], 'http://www.allencc.edu/', 'http://localhost/osau/schools/find/6862/allen-community-college', 'No error. Redirect to https://www.allencc.edu/')
+
+http://www.cihe.edu.hk/,http://localhost/osau/schools/find/231/caritas-institute-of-higher-education-caritas-francis-hsu-college,200
+<Response [200]>
+(200, [], 'http://www.cihe.edu.hk/', 'http://localhost/osau/schools/find/231/caritas-institute-of-higher-education-caritas-francis-hsu-college', 'No error. No redirect.')
+
+http://www.menominee.edu/,http://localhost/osau/schools/find/6548/college-of-menominee-nation,200
+<Response [200]>
+(200, [], 'http://www.menominee.edu/', 'http://localhost/osau/schools/find/6548/college-of-menominee-nation', 'No error. No redirect.')
+
+http://www.menominee.edu/About_CMN.aspx?id=533,http://localhost/osau/schools/find/6548/college-of-menominee-nation/about,200
+<Response [200]>
+(200, [], 'http://www.menominee.edu/About_CMN.aspx?id=533', 'http://localhost/osau/schools/find/6548/college-of-menominee-nation/about', 'No error. No redirect.')
+
+http://www.nwmissouri.edu,http://localhost/osau/schools/find/4948/northwest-missouri-state-university,200
+<Response [200]>
+(200, [], 'http://www.nwmissouri.edu', 'http://localhost/osau/schools/find/4948/northwest-missouri-state-university', 'No error. No redirect.')
+
+http://www.nwti.edu,http://localhost/osau/schools/find/7409/northwest-technical-institute/reviews,200
+<Response [200]>
+(200, [], 'http://www.nwti.edu', 'http://localhost/osau/schools/find/7409/northwest-technical-institute/reviews', 'No error. No redirect.')
+
+http://www.nwti.edu/diploma-programs-1.html,http://localhost/osau/schools/find/7409/northwest-technical-institute/about,200
+<Response [200]>
+(200, [], 'http://www.nwti.edu/diploma-programs-1.html', 'http://localhost/osau/schools/find/7409/northwest-technical-institute/about', 'No error. No redirect.')
+
+http://www.ohiodominican.edu,http://localhost/osau/schools/find/5473/ohio-dominican-university,200
+<Response [200]>
+(200, [], 'http://www.ohiodominican.edu', 'http://localhost/osau/schools/find/5473/ohio-dominican-university', 'No error. No redirect.')
+
+http://www.piedmontu.edu/,http://localhost/osau/schools/find/6760/piedmont-international-university-piedmont-baptist-college-and-graduate-school,200
+<Response [200]>
+(200, [<Response [301]>], 'http://www.piedmontu.edu/', 'http://localhost/osau/schools/find/6760/piedmont-international-university-piedmont-baptist-college-and-graduate-school', 'No error. Redirect to https://www.piedmontu.edu/')
+
+http://www.rcsi.ie/about,http://localhost/osau/schools/find/7502/royal-college-of-surgeons-of-ireland/about,200
+<Response [200]>
+(200, [], 'http://www.rcsi.ie/about', 'http://localhost/osau/schools/find/7502/royal-college-of-surgeons-of-ireland/about', 'No error. No redirect.')
+
+http://www.southwest.tn.edu,http://localhost/osau/schools/find/5546/southwest-tennessee-community-college,200
+<Response [200]>
+(200, [], 'http://www.southwest.tn.edu', 'http://localhost/osau/schools/find/5546/southwest-tennessee-community-college', 'No error. No redirect.')
+
+https://johnsonu.edu/About,http://localhost/osau/schools/find/6821/johnson-university-johnson-bible-college/about,200
+<Response [200]>
+(200, [], 'https://johnsonu.edu/About', 'http://localhost/osau/schools/find/6821/johnson-university-johnson-bible-college/about', 'No error. No redirect.')
+
+https://johnsonu.edu/Home.aspx,http://localhost/osau/schools/find/6821/johnson-university-johnson-bible-college,200
+<Response [200]>
+(200, [], 'https://johnsonu.edu/Home.aspx', 'http://localhost/osau/schools/find/6821/johnson-university-johnson-bible-college', 'No error. No redirect.')
+
+https://johnwesley.edu,http://localhost/osau/schools/find/7260/john-wesley-university-laurel-university,200
+<Response [200]>
+(200, [<Response [301]>], 'https://johnwesley.edu', 'http://localhost/osau/schools/find/7260/john-wesley-university-laurel-university', 'No error. Redirect to https://www.piedmontu.edu/john-wesley-legacy')
+
+https://skylinecollege.edu/aboutskyline/,http://localhost/osau/schools/find/6132/skyline-college/about,200
+<Response [200]>
+(200, [], 'https://skylinecollege.edu/aboutskyline/', 'http://localhost/osau/schools/find/6132/skyline-college/about', 'No error. No redirect.')
+
+https://txwes.edu,http://localhost/osau/schools/find/4970/texas-wesleyan-university/reviews,200
+<Response [200]>
+(200, [], 'https://txwes.edu', 'http://localhost/osau/schools/find/4970/texas-wesleyan-university/reviews', 'No error. No redirect.')
+
+https://ws.edu/about/,http://localhost/osau/schools/find/6335/walters-statethe-great-smoky-mountains-community-college/about,200
+<Response [200]>
+(200, [], 'https://ws.edu/about/', 'http://localhost/osau/schools/find/6335/walters-statethe-great-smoky-mountains-community-college/about', 'No error. No redirect.')
+
+https://www.chicagobooth.edu,http://localhost/osau/schools/find/4842/university-of-chicago-booth-school-of-business,200
+<Response [200]>
+(200, [], 'https://www.chicagobooth.edu', 'http://localhost/osau/schools/find/4842/university-of-chicago-booth-school-of-business', 'No error. No redirect.')
+
+https://www.christendom.edu/about/,http://localhost/osau/schools/find/6292/christendom-college/about,200
+<Response [200]>
+(200, [], 'https://www.christendom.edu/about/', 'http://localhost/osau/schools/find/6292/christendom-college/about', 'No error. No redirect.')
+
+https://www.coleman.edu/,http://localhost/osau/schools/find/6689/coleman-university,200
+<Response [200]>
+(200, [<Response [301]>], 'https://www.coleman.edu/', 'http://localhost/osau/schools/find/6689/coleman-university', 'No error. Redirect to https://coleman.edu/')
+
+https://www.dawsoncollege.qc.ca,http://localhost/osau/schools/find/452/dawson-college-westmount-montreal,200
+<Response [200]>
+(200, [], 'https://www.dawsoncollege.qc.ca', 'http://localhost/osau/schools/find/452/dawson-college-westmount-montreal', 'No error. No redirect.')
+
+https://www.dawsoncollege.qc.ca/about-dawson,http://localhost/osau/schools/find/452/dawson-college-westmount-montreal/about,200
+<Response [200]>
+(200, [], 'https://www.dawsoncollege.qc.ca/about-dawson', 'http://localhost/osau/schools/find/452/dawson-college-westmount-montreal/about', 'No error. No redirect.')
+
+https://www.douglascollege.ca,http://localhost/osau/schools/find/445/douglas-college,200
+<Response [200]>
+(200, [], 'https://www.douglascollege.ca', 'http://localhost/osau/schools/find/445/douglas-college', 'No error. No redirect.')
+
+https://www.douglascollege.ca/about-douglas,http://localhost/osau/schools/find/445/douglas-college/about,200
+<Response [200]>
+(200, [], 'https://www.douglascollege.ca/about-douglas', 'http://localhost/osau/schools/find/445/douglas-college/about', 'No error. No redirect.')
+
+https://www.essex.ac.uk,http://localhost/osau/schools/find/751/university-of-essex,200
+<Response [200]>
+(200, [], 'https://www.essex.ac.uk', 'http://localhost/osau/schools/find/751/university-of-essex', 'No error. No redirect.')
+
+https://www.essex.ac.uk/about,http://localhost/osau/schools/find/751/university-of-essex/about,200
+<Response [200]>
+(200, [], 'https://www.essex.ac.uk/about', 'http://localhost/osau/schools/find/751/university-of-essex/about', 'No error. No redirect.')
+
+https://www.laguardia.edu/home/,http://localhost/osau/schools/find/5847/cuny-laguardia-community-college,200
+<Response [200]>
+(200, [], 'https://www.laguardia.edu/home/', 'http://localhost/osau/schools/find/5847/cuny-laguardia-community-college', 'No error. No redirect.')
+
+https://www.lawsocietysa.asn.au,http://localhost/osau/schools/find/1076/law-society-of-south-australia,200
+<Response [200]>
+(200, [], 'https://www.lawsocietysa.asn.au', 'http://localhost/osau/schools/find/1076/law-society-of-south-australia', 'No error. No redirect.')
+
+https://www.lawsocietysa.asn.au/LSSA/About/LSSA/About/About_the_Law_Society.aspx?hkey=7fc3e915-3d1d-414a-9294-14a6ab5076be,http://localhost/osau/schools/find/1076/law-society-of-south-australia/about,200
+<Response [200]>
+(200, [], 'https://www.lawsocietysa.asn.au/LSSA/About/LSSA/About/About_the_Law_Society.aspx?hkey=7fc3e915-3d1d-414a-9294-14a6ab5076be', 'http://localhost/osau/schools/find/1076/law-society-of-south-australia/about', 'No error. No redirect.')
+
+https://www.mtc.edu,http://localhost/osau/schools/find/5852/marion-technical-college,200
+<Response [200]>
+(200, [], 'https://www.mtc.edu', 'http://localhost/osau/schools/find/5852/marion-technical-college', 'No error. No redirect.')
+
+https://www.nesl.edu,http://localhost/osau/schools/find/5478/new-england-school-of-law-boston,200
+<Response [200]>
+(200, [], 'https://www.nesl.edu', 'http://localhost/osau/schools/find/5478/new-england-school-of-law-boston', 'No error. No redirect.')
+
+https://www.norquest.ca,http://localhost/osau/schools/find/484/norquest-college,200
+<Response [200]>
+(200, [<Response [301]>], 'https://www.norquest.ca', 'http://localhost/osau/schools/find/484/norquest-college', 'No error. Redirect to https://www.norquest.ca/home.aspx')
+
+https://www.norquest.ca/about-us.aspx,http://localhost/osau/schools/find/484/norquest-college/about,200
+<Response [200]>
+(200, [], 'https://www.norquest.ca/about-us.aspx', 'http://localhost/osau/schools/find/484/norquest-college/about', 'No error. No redirect.')
+
+https://www.nv.edu/,http://localhost/osau/schools/find/6607/naugatuck-valley-community-college,200
+<Response [200]>
+(200, [], 'https://www.nv.edu/', 'http://localhost/osau/schools/find/6607/naugatuck-valley-community-college', 'No error. No redirect.')
+
+https://www.nv.edu/About-NVCC,http://localhost/osau/schools/find/6607/naugatuck-valley-community-college/about,200
+<Response [200]>
+(200, [], 'https://www.nv.edu/About-NVCC', 'http://localhost/osau/schools/find/6607/naugatuck-valley-community-college/about', 'No error. No redirect.')
+
+https://www.piedmontu.edu/mission-and-vision,http://localhost/osau/schools/find/6760/piedmont-international-university-piedmont-baptist-college-and-graduate-school/about,200
+<Response [200]>
+(200, [], 'https://www.piedmontu.edu/mission-and-vision', 'http://localhost/osau/schools/find/6760/piedmont-international-university-piedmont-baptist-college-and-graduate-school/about', 'No error. No redirect.')
+
+https://www.presidio.edu,http://localhost/osau/schools/find/6948/presidio-graduate-school,200
+<Response [200]>
+(200, [], 'https://www.presidio.edu', 'http://localhost/osau/schools/find/6948/presidio-graduate-school', 'No error. No redirect.')
+
+https://www.skylinecollege.edu,http://localhost/osau/schools/find/6132/skyline-college,200
+<Response [200]>
+(200, [], 'https://www.skylinecollege.edu', 'http://localhost/osau/schools/find/6132/skyline-college', 'No error. No redirect.')
+
+https://www.twoa.ac.nz,http://localhost/osau/schools/find/29/te-wānanga-o-aotearoa,200
+<Response [200]>
+(200, [], 'https://www.twoa.ac.nz', 'http://localhost/osau/schools/find/29/te-wānanga-o-aotearoa', 'No error. No redirect.')
+
+https://www.uml.edu,http://localhost/osau/schools/find/4446/university-of-massachusetts-lowell,200
+<Response [200]>
+(200, [], 'https://www.uml.edu', 'http://localhost/osau/schools/find/4446/university-of-massachusetts-lowell', 'No error. No redirect.')
+
+https://www.uml.edu/About/,http://localhost/osau/schools/find/4446/university-of-massachusetts-lowell/about,200
+<Response [200]>
+(200, [], 'https://www.uml.edu/About/', 'http://localhost/osau/schools/find/4446/university-of-massachusetts-lowell/about', 'No error. No redirect.')
+
+https://www.wmpenn.edu/get-to-know-wpu/mission-history/,http://localhost/osau/schools/find/6264/william-penn-university/about,200
+<Response [200]>
+(200, [], 'https://www.wmpenn.edu/get-to-know-wpu/mission-history/', 'http://localhost/osau/schools/find/6264/william-penn-university/about', 'No error. No redirect.')
+
+https://www.york.cuny.edu,http://localhost/osau/schools/find/4857/cuny-york-college,200
+<Response [200]>
+(200, [], 'https://www.york.cuny.edu', 'http://localhost/osau/schools/find/4857/cuny-york-college', 'No error. No redirect.')
+

@@ -1,0 +1,700 @@
+http://ase.ntu.edu.sg/undergraduate-programme/bachelor-science-environmental-earth-systems-science,http://localhost/osau/schools/find/55/nanyang-technological-university/courses/course_rating/427,500
+<Response [500]>
+(500, [], ['http://ase.ntu.edu.sg/undergraduate-programme/bachelor-science-environmental-earth-systems-science', 'http://localhost/osau/schools/find/55/nanyang-technological-university/courses/course_rating/427', '500'], 'Error')
+
+http://ase.ntu.edu.sg/undergraduate-programme/double-major-environmental-earth-system-science-and-public-policy#.W1VduMap2m0,http://localhost/osau/schools/find/55/nanyang-technological-university/courses/course_rating/428,500
+<Response [500]>
+(500, [], ['http://ase.ntu.edu.sg/undergraduate-programme/double-major-environmental-earth-system-science-and-public-policy#.W1VduMap2m0', 'http://localhost/osau/schools/find/55/nanyang-technological-university/courses/course_rating/428', '500'], 'Error')
+
+http://awc.edu/welcome-to-awc/who-we-are,http://localhost/osau/schools/find/7351/allegheny-wesleyan-college/about,404
+<Response [404]>
+(404, [], ['http://awc.edu/welcome-to-awc/who-we-are', 'http://localhost/osau/schools/find/7351/allegheny-wesleyan-college/about', '0'], 'Error')
+
+http://awi.ac.nz/about-us/,http://localhost/osau/schools/find/47/awi-international-education-group/about,504
+<Response [504]>
+(504, [], ['http://awi.ac.nz/about-us/', 'http://localhost/osau/schools/find/47/awi-international-education-group/about', '504'], 'Error')
+
+http://cfcc.edu/about/,http://localhost/osau/schools/find/5887/cape-fear-community-college/about,502
+<Response [502]>
+(502, [], ['http://cfcc.edu/about/', 'http://localhost/osau/schools/find/5887/cape-fear-community-college/about', '0'], 'Error')
+
+http://cfcc.edu/about/,http://localhost/osau/schools/find/5887/cape-fear-community-college/about,502
+<Response [502]>
+(502, [], ['http://cfcc.edu/about/', 'http://localhost/osau/schools/find/5887/cape-fear-community-college/about', '404'], 'Error')
+
+http://egcc.edu/,http://localhost/osau/schools/find/6955/eastern-gateway-community-college,0
+0
+(0, [], ['http://egcc.edu/', 'http://localhost/osau/schools/find/6955/eastern-gateway-community-college', '0'], ConnectionError(MaxRetryError("HTTPConnectionPool(host='egcc.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e4ad048>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://geog.hku.hk/postgrad/matpp/05a.html,http://localhost/osau/schools/find/217/university-of-hong-kong/courses/course_rating/62,403
+<Response [403]>
+(403, [], ['http://geog.hku.hk/postgrad/matpp/05a.html', 'http://localhost/osau/schools/find/217/university-of-hong-kong/courses/course_rating/62', '403'], 'Error')
+
+http://hamiltontechcollege.edu,http://localhost/osau/schools/find/7392/hamilton-technical-college/reviews,403
+<Response [403]>
+(403, [], ['http://hamiltontechcollege.edu', 'http://localhost/osau/schools/find/7392/hamilton-technical-college/reviews', '0'], 'Error')
+
+http://kilian.edu,http://localhost/osau/schools/find/7274/kilian-community-college/reviews,0
+0
+(0, [], ['http://kilian.edu', 'http://localhost/osau/schools/find/7274/kilian-community-college/reviews', '0'], ConnectionError(MaxRetryError("HTTPConnectionPool(host='kilian.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e4ad9b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://kti.edu,http://localhost/osau/schools/find/7379/keystone-technical-institute/reviews,0
+0
+(0, [], ['http://kti.edu', 'http://localhost/osau/schools/find/7379/keystone-technical-institute/reviews', '0'], ConnectionError(MaxRetryError("HTTPConnectionPool(host='kti.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e4ad550>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://laney.edu/wp/,http://localhost/osau/schools/find/6338/laney-college/reviews,404
+<Response [404]>
+(404, [<Response [301]>], ['http://laney.edu/wp/', 'http://localhost/osau/schools/find/6338/laney-college/reviews', '0'], 'Error')
+
+http://laney.edu/wp/,http://localhost/osau/schools/find/6338/laney-college/reviews,404
+<Response [404]>
+(404, [<Response [301]>], ['http://laney.edu/wp/', 'http://localhost/osau/schools/find/6338/laney-college/reviews', '404'], 'Error')
+
+http://prairiestate.edu/,http://localhost/osau/schools/find/6316/prairie-state-college,504
+<Response [504]>
+(504, [], ['http://prairiestate.edu/', 'http://localhost/osau/schools/find/6316/prairie-state-college', '504'], 'Error')
+
+http://ranken.edu,http://localhost/osau/schools/find/6819/ranken-technical-college,503
+<Response [503]>
+(503, [], ['http://ranken.edu', 'http://localhost/osau/schools/find/6819/ranken-technical-college', '503'], 'Error')
+
+http://researchcollege.edu,http://localhost/osau/schools/find/7142/research-college-of-nursing/reviews,504
+<Response [504]>
+(504, [], ['http://researchcollege.edu', 'http://localhost/osau/schools/find/7142/research-college-of-nursing/reviews', '504'], 'Error')
+
+http://teoleary.com/teaching-hku/huma7001-introduction-to-thesis-writing-critical-humanities/,http://localhost/osau/schools/find/217/university-of-hong-kong/courses/course_rating/91,404
+<Response [404]>
+(404, [<Response [301]>], ['http://teoleary.com/teaching-hku/huma7001-introduction-to-thesis-writing-critical-humanities/', 'http://localhost/osau/schools/find/217/university-of-hong-kong/courses/course_rating/91', '404'], 'Error')
+
+http://tinyurl.com/src-sutdstaff2,http://localhost/osau/experience/explore/9/the-many-hostels-of-singapore-university-of-technology-and-design,0
+0
+(0, [], ['http://tinyurl.com/src-sutdstaff2', 'http://localhost/osau/experience/explore/9/the-many-hostels-of-singapore-university-of-technology-and-design', '0'], ConnectionError(MaxRetryError("HTTPConnectionPool(host='sutdcentral.sutd.edu.sg', port=80): Max retries exceeded with url: /Departments/HR/Department%20Document%20Library/Forms/AllItems.aspx?RootFolder=%2FDepartments%2FHR%2FDepartment%20Document%20Library%2FSports%20and%20Recreation%20Centre&FolderCTID=0x0120009F7158EFA6C91A4E954701DD74F89C5A&View=%7BE3B76F2B-CBB6-46AF-A610-AF6AA6237C9A%7D (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e4bd748>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://tinyurl.com/src-sutdstudent,http://localhost/osau/experience/explore/9/the-many-hostels-of-singapore-university-of-technology-and-design,0
+0
+(0, [], ['http://tinyurl.com/src-sutdstudent', 'http://localhost/osau/experience/explore/9/the-many-hostels-of-singapore-university-of-technology-and-design', '0'], ConnectionError(MaxRetryError("HTTPConnectionPool(host='sutdcentral.sutd.edu.sg', port=80): Max retries exceeded with url: /housing/Office%20of%20Housing/Forms/AllItems.aspx?RootFolder=%2Fhousing%2FOffice%20of%20Housing%2FSports%20and%20Recreation%20Centre&FolderCTID=0x0120005EA5A776A03FA54BAAC375526724D6B8&View=%7B710018BB-AE7B-4FFE-B07D-1E6EECEB7409%7D (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e4d6710>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://tncc.edu,http://localhost/osau/schools/find/5884/thomas-nelson-community-college,0
+0
+(0, [], ['http://tncc.edu', 'http://localhost/osau/schools/find/5884/thomas-nelson-community-college', '0'], SSLError(MaxRetryError('HTTPSConnectionPool(host=\'tncc.edu\', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError("bad handshake: SysCallError(60, \'ETIMEDOUT\')")))')))
+
+http://web.hku.hk/%7Ejudoclub,http://localhost/osau/schools/find/217/university-of-hong-kong/societies-and-clubs?page=45,404
+<Response [404]>
+(404, [], ['http://web.hku.hk/%7Ejudoclub', 'http://localhost/osau/schools/find/217/university-of-hong-kong/societies-and-clubs?page=45', '404'], 'Error')
+
+http://www.aipm.gov.au/about-the-aipm/,http://localhost/osau/schools/find/1115/australian-institute-of-police-management/about,404
+<Response [404]>
+(404, [<Response [301]>], ['http://www.aipm.gov.au/about-the-aipm/', 'http://localhost/osau/schools/find/1115/australian-institute-of-police-management/about', '404'], 'Error')
+
+http://www.angelina.edu/,http://localhost/osau/schools/find/6663/angelina-college,504
+<Response [504]>
+(504, [], ['http://www.angelina.edu/', 'http://localhost/osau/schools/find/6663/angelina-college', '504'], 'Error')
+
+http://www.arch.nus.edu.sg/programme/architecture/ba-arch/aki_handbk_1819.pdf,http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/573,404
+<Response [404]>
+(404, [<Response [301]>], ['http://www.arch.nus.edu.sg/programme/architecture/ba-arch/aki_handbk_1819.pdf', 'http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/573', '404'], 'Error')
+
+http://www.arch.nus.edu.sg/programme/architecture/ba-arch/con1718.pdf,http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/574,404
+<Response [404]>
+(404, [<Response [301]>], ['http://www.arch.nus.edu.sg/programme/architecture/ba-arch/con1718.pdf', 'http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/574', '404'], 'Error')
+
+http://www.arch.nus.edu.sg/programme/architecture/m-arch/m-arch-info.pdf,http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/575,404
+<Response [404]>
+(404, [<Response [301]>], ['http://www.arch.nus.edu.sg/programme/architecture/m-arch/m-arch-info.pdf', 'http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/575', '404'], 'Error')
+
+http://www.arch.nus.edu.sg/programme/architecture/ma-arch.html#,http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/578,404
+<Response [404]>
+(404, [<Response [301]>], ['http://www.arch.nus.edu.sg/programme/architecture/ma-arch.html#', 'http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/578', '404'], 'Error')
+
+http://www.arch.nus.edu.sg/programme/architecture/march-dts.pdf,http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/577,404
+<Response [404]>
+(404, [<Response [301]>], ['http://www.arch.nus.edu.sg/programme/architecture/march-dts.pdf', 'http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/577', '404'], 'Error')
+
+http://www.arch.nus.edu.sg/programme/architecture/march-ud.pdf,http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/576,404
+<Response [404]>
+(404, [<Response [301]>], ['http://www.arch.nus.edu.sg/programme/architecture/march-ud.pdf', 'http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/576', '404'], 'Error')
+
+http://www.arch.nus.edu.sg/programme/architecture/phd-arch.html,http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/579,404
+<Response [404]>
+(404, [<Response [301]>], ['http://www.arch.nus.edu.sg/programme/architecture/phd-arch.html', 'http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/579', '404'], 'Error')
+
+http://www.arch.nus.edu.sg/programme/landscape-architecture/about-mla.html,http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/581,404
+<Response [404]>
+(404, [<Response [301]>], ['http://www.arch.nus.edu.sg/programme/landscape-architecture/about-mla.html', 'http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/581', '404'], 'Error')
+
+http://www.arch.nus.edu.sg/programme/urban-design/2-year-part-time.html,http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/580,404
+<Response [404]>
+(404, [<Response [301]>], ['http://www.arch.nus.edu.sg/programme/urban-design/2-year-part-time.html', 'http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/580', '404'], 'Error')
+
+http://www.athenstech.edu/,http://localhost/osau/schools/find/6329/athens-technical-college,504
+<Response [504]>
+(504, [], ['http://www.athenstech.edu/', 'http://localhost/osau/schools/find/6329/athens-technical-college', '0'], 'Error')
+
+http://www.athenstech.edu/,http://localhost/osau/schools/find/6329/athens-technical-college,504
+<Response [504]>
+(504, [], ['http://www.athenstech.edu/', 'http://localhost/osau/schools/find/6329/athens-technical-college', '504'], 'Error')
+
+http://www.awi.ac.nz,http://localhost/osau/schools/find/47/awi-international-education-group,504
+<Response [504]>
+(504, [], ['http://www.awi.ac.nz', 'http://localhost/osau/schools/find/47/awi-international-education-group', '504'], 'Error')
+
+http://www.baycollege.edu/About-Bay.aspx,http://localhost/osau/schools/find/6754/bay-college/about,404
+<Response [404]>
+(404, [<Response [302]>], ['http://www.baycollege.edu/About-Bay.aspx', 'http://localhost/osau/schools/find/6754/bay-college/about', '404'], 'Error')
+
+http://www.bishopg.ac.uk/about/visionmission/,http://localhost/osau/schools/find/868/bishop-grosseteste-university/about,404
+<Response [404]>
+(404, [<Response [301]>], ['http://www.bishopg.ac.uk/about/visionmission/', 'http://localhost/osau/schools/find/868/bishop-grosseteste-university/about', '404'], 'Error')
+
+http://www.btc.edu/,http://localhost/osau/schools/find/6349/bellingham-technical-college,502
+<Response [502]>
+(502, [], ['http://www.btc.edu/', 'http://localhost/osau/schools/find/6349/bellingham-technical-college', '0'], 'Error')
+
+http://www.btc.edu/,http://localhost/osau/schools/find/6349/bellingham-technical-college,502
+<Response [502]>
+(502, [], ['http://www.btc.edu/', 'http://localhost/osau/schools/find/6349/bellingham-technical-college', '502'], 'Error')
+
+http://www.carlowcollege.ie/About-the-College/Welcome,http://localhost/osau/schools/find/7534/saint-patricks-carlow-college/about,404
+<Response [404]>
+(404, [<Response [301]>], ['http://www.carlowcollege.ie/About-the-College/Welcome', 'http://localhost/osau/schools/find/7534/saint-patricks-carlow-college/about', '0'], 'Error')
+
+http://www.cegepoutaouais.qc.ca,http://localhost/osau/schools/find/575/cégep-de-loutaouais,403
+<Response [403]>
+(403, [], ['http://www.cegepoutaouais.qc.ca', 'http://localhost/osau/schools/find/575/cégep-de-loutaouais', '0'], 'Error')
+
+http://www.cegepoutaouais.qc.ca,http://localhost/osau/schools/find/575/cégep-de-loutaouais,403
+<Response [403]>
+(403, [], ['http://www.cegepoutaouais.qc.ca', 'http://localhost/osau/schools/find/575/cégep-de-loutaouais', '403'], 'Error')
+
+http://www.centralgatech.edu/,http://localhost/osau/schools/find/6484/central-georgia-technical-college,504
+<Response [504]>
+(504, [], ['http://www.centralgatech.edu/', 'http://localhost/osau/schools/find/6484/central-georgia-technical-college', '504'], 'Error')
+
+http://www.coastalpines.edu,http://localhost/osau/schools/find/7314/costal-pines-technical-college-altamaha-okefenokee/reviews,504
+<Response [504]>
+(504, [], ['http://www.coastalpines.edu', 'http://localhost/osau/schools/find/7314/costal-pines-technical-college-altamaha-okefenokee/reviews', '0'], 'Error')
+
+http://www.cochranschoolofnursing.us,http://localhost/osau/schools/find/7277/cochran-school-of-nursing/reviews,403
+<Response [403]>
+(403, [], ['http://www.cochranschoolofnursing.us', 'http://localhost/osau/schools/find/7277/cochran-school-of-nursing/reviews', '0'], 'Error')
+
+http://www.cochranschoolofnursing.us/AboutUs.aspx,http://localhost/osau/schools/find/7277/cochran-school-of-nursing/about,403
+<Response [403]>
+(403, [], ['http://www.cochranschoolofnursing.us/AboutUs.aspx', 'http://localhost/osau/schools/find/7277/cochran-school-of-nursing/about', '0'], 'Error')
+
+http://www.denmarktech.edu/mission-statement/,http://localhost/osau/schools/find/7116/denmark-technical-college/about,404
+<Response [404]>
+(404, [], ['http://www.denmarktech.edu/mission-statement/', 'http://localhost/osau/schools/find/7116/denmark-technical-college/about', '0'], 'Error')
+
+http://www.designcollege.com.au,http://localhost/osau/schools/find/1138/design-college-australia/reviews,0
+0
+(0, [], ['http://www.designcollege.com.au', 'http://localhost/osau/schools/find/1138/design-college-australia/reviews', '0'], ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.designcollege.com.au', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e4ad438>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.eslccc.com/about.html,http://localhost/osau/schools/find/7488/east-st-louis-community-college-center/reviews,404
+<Response [404]>
+(404, [], ['http://www.eslccc.com/about.html', 'http://localhost/osau/schools/find/7488/east-st-louis-community-college-center/reviews', '404'], 'Error')
+
+http://www.fas.nus.edu.sg/chs/eng/grad/degree_programmes_MA_double.html,http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/402,404
+<Response [404]>
+(404, [], ['http://www.fas.nus.edu.sg/chs/eng/grad/degree_programmes_MA_double.html', 'http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/402', '404'], 'Error')
+
+http://www.faulknerstate.edu/,http://localhost/osau/schools/find/6831/faulkner-state-community-college/reviews,0
+0
+(0, [], ['http://www.faulknerstate.edu/', 'http://localhost/osau/schools/find/6831/faulkner-state-community-college/reviews', '0'], ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.faulknerstate.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e4ad898>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.fletcher.edu,http://localhost/osau/schools/find/7310/fletcher-technical-community-college,504
+<Response [504]>
+(504, [], ['http://www.fletcher.edu', 'http://localhost/osau/schools/find/7310/fletcher-technical-community-college', '0'], 'Error')
+
+http://www.fullcoll.edu,http://localhost/osau/schools/find/5711/fullerton-college,504
+<Response [504]>
+(504, [], ['http://www.fullcoll.edu', 'http://localhost/osau/schools/find/5711/fullerton-college', '0'], 'Error')
+
+http://www.gallipoliscareercollege.edu,http://localhost/osau/schools/find/7454/gallipolis-career-college/reviews,0
+0
+(0, [], ['http://www.gallipoliscareercollege.edu', 'http://localhost/osau/schools/find/7454/gallipolis-career-college/reviews', '0'], ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.gallipoliscareercollege.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e4ad208>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.ggc.edu/about-ggc/GGC,http://localhost/osau/schools/find/7360/gwinnett-college/about,404
+<Response [404]>
+(404, [], ['http://www.ggc.edu/about-ggc/GGC', 'http://localhost/osau/schools/find/7360/gwinnett-college/about', '0'], 'Error')
+
+http://www.gibbsmelville.edu,http://localhost/osau/schools/find/7450/sanford-brown-institute-katharine-gibbs-school-melville/reviews,0
+0
+(0, [], ['http://www.gibbsmelville.edu', 'http://localhost/osau/schools/find/7450/sanford-brown-institute-katharine-gibbs-school-melville/reviews', '0'], ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.gibbsmelville.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e48d6a0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.gibbsny.edu/Home,http://localhost/osau/schools/find/7486/katharine-gibbs-school-new-york-city/reviews,500
+<Response [500]>
+(500, [], ['http://www.gibbsny.edu/Home', 'http://localhost/osau/schools/find/7486/katharine-gibbs-school-new-york-city/reviews', '500'], 'Error')
+
+http://www.gordonstate.edu/,http://localhost/osau/schools/find/5836/gordon-state-college-wenham,504
+<Response [504]>
+(504, [], ['http://www.gordonstate.edu/', 'http://localhost/osau/schools/find/5836/gordon-state-college-wenham', '0'], 'Error')
+
+http://www.gordonstate.edu/,http://localhost/osau/schools/find/5836/gordon-state-college-wenham,504
+<Response [504]>
+(504, [], ['http://www.gordonstate.edu/', 'http://localhost/osau/schools/find/5836/gordon-state-college-wenham', '504'], 'Error')
+
+http://www.gradsch.hku.hk/gradsch/current-students/coursework-information/coursework-enrolment/general-coursework-requirement#,http://localhost/osau/schools/find/217/university-of-hong-kong/courses/course_rating/90,404
+<Response [404]>
+(404, [<Response [302]>], ['http://www.gradsch.hku.hk/gradsch/current-students/coursework-information/coursework-enrolment/general-coursework-requirement#', 'http://localhost/osau/schools/find/217/university-of-hong-kong/courses/course_rating/90', '404'], 'Error')
+
+http://www.hkido.cuhk.edu.hk/Programmes/MScinEndocrinology,DiabetesandMetabolism/OverviewandObjectives.aspx,404
+<Response [404]>
+(404, [], ['http://www.hkido.cuhk.edu.hk/Programmes/MScinEndocrinology', 'DiabetesandMetabolism/OverviewandObjectives.aspx', '404'], 'Error')
+
+http://www.hnc.edu.sg,http://localhost/osau/schools/find/148/huada-nanyang-college/reviews,500
+<Response [500]>
+(500, [], ['http://www.hnc.edu.sg', 'http://localhost/osau/schools/find/148/huada-nanyang-college/reviews', '500'], 'Error')
+
+http://www.holmescc.edu/,http://localhost/osau/schools/find/6967/holmes-community-college,504
+<Response [504]>
+(504, [], ['http://www.holmescc.edu/', 'http://localhost/osau/schools/find/6967/holmes-community-college', '0'], 'Error')
+
+http://www.isa-cuhk.com,http://localhost/osau/schools/find/218/chinese-university-of-hong-kong/societies-and-clubs,403
+<Response [403]>
+(403, [], ['http://www.isa-cuhk.com', 'http://localhost/osau/schools/find/218/chinese-university-of-hong-kong/societies-and-clubs', '403'], 'Error')
+
+http://www.jones.edu/,http://localhost/osau/schools/find/6554/jones-college/reviews,504
+<Response [504]>
+(504, [], ['http://www.jones.edu/', 'http://localhost/osau/schools/find/6554/jones-college/reviews', '0'], 'Error')
+
+http://www.kellogg.edu,http://localhost/osau/schools/find/5660/kellogg-community-college,403
+<Response [403]>
+(403, [], ['http://www.kellogg.edu', 'http://localhost/osau/schools/find/5660/kellogg-community-college', '0'], 'Error')
+
+http://www.laniertech.edu/,http://localhost/osau/schools/find/6671/lanier-technical-college,504
+<Response [504]>
+(504, [], ['http://www.laniertech.edu/', 'http://localhost/osau/schools/find/6671/lanier-technical-college', '504'], 'Error')
+
+http://www.laredo.edu/cms/index.aspx,http://localhost/osau/schools/find/6684/laredo-community-college,504
+<Response [504]>
+(504, [], ['http://www.laredo.edu/cms/index.aspx', 'http://localhost/osau/schools/find/6684/laredo-community-college', '0'], 'Error')
+
+http://www.laredo.edu/cms/mission.aspx,http://localhost/osau/schools/find/6684/laredo-community-college/about,504
+<Response [504]>
+(504, [], ['http://www.laredo.edu/cms/mission.aspx', 'http://localhost/osau/schools/find/6684/laredo-community-college/about', '0'], 'Error')
+
+http://www.law.hku.hk/postgrad/,http://localhost/osau/schools/find/217/university-of-hong-kong/courses/course_rating/204,404
+<Response [404]>
+(404, [<Response [302]>, <Response [301]>], ['http://www.law.hku.hk/postgrad/', 'http://localhost/osau/schools/find/217/university-of-hong-kong/courses/course_rating/204', '404'], 'Error')
+
+http://www.linguisinternational.ac.nz,http://localhost/osau/schools/find/49/linguis-international-institute,503
+<Response [503]>
+(503, [], ['http://www.linguisinternational.ac.nz', 'http://localhost/osau/schools/find/49/linguis-international-institute', '503'], 'Error')
+
+http://www.linguisinternational.ac.nz/about-us.html,http://localhost/osau/schools/find/49/linguis-international-institute/about,503
+<Response [503]>
+(503, [], ['http://www.linguisinternational.ac.nz/about-us.html', 'http://localhost/osau/schools/find/49/linguis-international-institute/about', '503'], 'Error')
+
+http://www.mchenry.edu,http://localhost/osau/schools/find/5843/mchenry-county-college,0
+0
+(0, [], ['http://www.mchenry.edu', 'http://localhost/osau/schools/find/5843/mchenry-county-college', '0'], ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.mchenry.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e48da90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.mcintoshcollege.edu/Home,http://localhost/osau/schools/find/7443/mcintosh-college/reviews,500
+<Response [500]>
+(500, [], ['http://www.mcintoshcollege.edu/Home', 'http://localhost/osau/schools/find/7443/mcintosh-college/reviews', '0'], 'Error')
+
+http://www.mclennan.edu,http://localhost/osau/schools/find/6229/mclennan-community-college/reviews,504
+<Response [504]>
+(504, [], ['http://www.mclennan.edu', 'http://localhost/osau/schools/find/6229/mclennan-community-college/reviews', '504'], 'Error')
+
+http://www.mcnallysmith.edu/,http://localhost/osau/schools/find/6376/mcnally-smith-college-of-music/reviews,0
+0
+(0, [], ['http://www.mcnallysmith.edu/', 'http://localhost/osau/schools/find/6376/mcnally-smith-college-of-music/reviews', '0'], ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.mcnallysmith.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e4adf60>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.mji.edu,http://localhost/osau/schools/find/7268/michigan-jewish-institute,0
+0
+(0, [], ['http://www.mji.edu', 'http://localhost/osau/schools/find/7268/michigan-jewish-institute', '0'], ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.mji.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e4ad978>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.mohave.edu/,http://localhost/osau/schools/find/6411/mohave-community-college/reviews,504
+<Response [504]>
+(504, [], ['http://www.mohave.edu/', 'http://localhost/osau/schools/find/6411/mohave-community-college/reviews', '504'], 'Error')
+
+http://www.morainepark.edu/,http://localhost/osau/schools/find/6375/moraine-park-technical-college/reviews,504
+<Response [504]>
+(504, [], ['http://www.morainepark.edu/', 'http://localhost/osau/schools/find/6375/moraine-park-technical-college/reviews', '504'], 'Error')
+
+http://www.napavalley.edu/AboutNVC/Planning/Pages/NapaValleyCollegeMission,ValuesandSLOs.aspx,404
+<Response [404]>
+(404, [], ['http://www.napavalley.edu/AboutNVC/Planning/Pages/NapaValleyCollegeMission', 'ValuesandSLOs.aspx', '0'], 'Error')
+
+http://www.ncat.edu,http://localhost/osau/schools/find/4814/north-carolina-agricultural-technical-state-university,504
+<Response [504]>
+(504, [], ['http://www.ncat.edu', 'http://localhost/osau/schools/find/4814/north-carolina-agricultural-technical-state-university', '0'], 'Error')
+
+http://www.nmcc.edu/,http://localhost/osau/schools/find/6842/northern-maine-community-college/reviews,0
+0
+(0, [], ['http://www.nmcc.edu/', 'http://localhost/osau/schools/find/6842/northern-maine-community-college/reviews', '0'], ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.nmcc.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e4ad128>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.oases.edu.au,http://localhost/osau/schools/find/1137/oases-graduate-school,0
+0
+(0, [], ['http://www.oases.edu.au', 'http://localhost/osau/schools/find/1137/oases-graduate-school', '0'], ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.oases.edu.au', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e4ad1d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.occc.edu,http://localhost/osau/schools/find/5953/oklahoma-city-community-college,504
+<Response [504]>
+(504, [], ['http://www.occc.edu', 'http://localhost/osau/schools/find/5953/oklahoma-city-community-college', '0'], 'Error')
+
+http://www.occc.edu,http://localhost/osau/schools/find/5953/oklahoma-city-community-college,504
+<Response [504]>
+(504, [], ['http://www.occc.edu', 'http://localhost/osau/schools/find/5953/oklahoma-city-community-college', '504'], 'Error')
+
+http://www.ogeecheetech.edu/,http://localhost/osau/schools/find/6911/ogeechee-technical-college,504
+<Response [504]>
+(504, [], ['http://www.ogeecheetech.edu/', 'http://localhost/osau/schools/find/6911/ogeechee-technical-college', '504'], 'Error')
+
+http://www.ourschoolandus.com,http://localhost/osau/about/tos,401
+<Response [401]>
+(401, [], ['http://www.ourschoolandus.com', 'http://localhost/osau/about/tos', '401'], 'Error')
+
+http://www.paloverde.edu,http://localhost/osau/schools/find/7068/palo-verde-college,504
+<Response [504]>
+(504, [], ['http://www.paloverde.edu', 'http://localhost/osau/schools/find/7068/palo-verde-college', '0'], 'Error')
+
+http://www.pharmacy.cuhk.edu.hk/1/education/tpg/pmq/,http://localhost/osau/schools/find/218/chinese-university-of-hong-kong/courses/course_rating/1497,404
+<Response [404]>
+(404, [], ['http://www.pharmacy.cuhk.edu.hk/1/education/tpg/pmq/', 'http://localhost/osau/schools/find/218/chinese-university-of-hong-kong/courses/course_rating/1497', '404'], 'Error')
+
+http://www.pine.edu/about/mission,-vision,404
+<Response [404]>
+(404, [], ['http://www.pine.edu/about/mission', '-vision', '404'], 'Error')
+
+http://www.proskills.edu,http://localhost/osau/schools/find/7429/professional-skills-institute,403
+<Response [403]>
+(403, [], ['http://www.proskills.edu', 'http://localhost/osau/schools/find/7429/professional-skills-institute', '0'], 'Error')
+
+http://www.retailacademy.com.sg,http://localhost/osau/schools/find/212/the-retail-academy-of-singapore/reviews,0
+0
+(0, [], ['http://www.retailacademy.com.sg', 'http://localhost/osau/schools/find/212/the-retail-academy-of-singapore/reviews', '0'], ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.retailacademy.com.sg', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e4ad5f8>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.ridgewater.edu/Pages/default.aspx,http://localhost/osau/schools/find/6453/ridgewater-college,404
+<Response [404]>
+(404, [], ['http://www.ridgewater.edu/Pages/default.aspx', 'http://localhost/osau/schools/find/6453/ridgewater-college', '404'], 'Error')
+
+http://www.saa.edu,http://localhost/osau/schools/find/6576/saa-college-school-of-advertising-art-inc,503
+<Response [503]>
+(503, [], ['http://www.saa.edu', 'http://localhost/osau/schools/find/6576/saa-college-school-of-advertising-art-inc', '0'], 'Error')
+
+http://www.scf.edu,http://localhost/osau/schools/find/5954/state-college-of-florida-manateesarasota,504
+<Response [504]>
+(504, [], ['http://www.scf.edu', 'http://localhost/osau/schools/find/5954/state-college-of-florida-manateesarasota', '0'], 'Error')
+
+http://www.scf.edu,http://localhost/osau/schools/find/5954/state-college-of-florida-manateesarasota,504
+<Response [504]>
+(504, [], ['http://www.scf.edu', 'http://localhost/osau/schools/find/5954/state-college-of-florida-manateesarasota', '504'], 'Error')
+
+http://www.sdcity.edu,http://localhost/osau/schools/find/6085/san-diego-city-college/reviews,0
+0
+(0, [], ['http://www.sdcity.edu', 'http://localhost/osau/schools/find/6085/san-diego-city-college/reviews', '0'], SSLError(MaxRetryError('HTTPSConnectionPool(host=\'www.sdcity.edu\', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError("bad handshake: SysCallError(-1, \'Unexpected EOF\')")))')))
+
+http://www.shannoncollege.com/about/,http://localhost/osau/schools/find/7528/shannon-college-of-hotel-management/about,404
+<Response [404]>
+(404, [<Response [301]>], ['http://www.shannoncollege.com/about/', 'http://localhost/osau/schools/find/7528/shannon-college-of-hotel-management/about', '404'], 'Error')
+
+http://www.southhills.edu,http://localhost/osau/schools/find/7208/south-hills-school-of-business-and-technology,504
+<Response [504]>
+(504, [], ['http://www.southhills.edu', 'http://localhost/osau/schools/find/7208/south-hills-school-of-business-and-technology', '504'], 'Error')
+
+http://www.southhills.edu/about/,http://localhost/osau/schools/find/7208/south-hills-school-of-business-and-technology/about,504
+<Response [504]>
+(504, [], ['http://www.southhills.edu/about/', 'http://localhost/osau/schools/find/7208/south-hills-school-of-business-and-technology/about', '504'], 'Error')
+
+http://www.stat.nus.edu.sg/opencms/prospectivestudents/ps_gradphd.html#top,http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/774,404
+<Response [404]>
+(404, [<Response [302]>], ['http://www.stat.nus.edu.sg/opencms/prospectivestudents/ps_gradphd.html#top', 'http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/774', '404'], 'Error')
+
+http://www.stellenboschacademy.co.za/our-story.html,http://localhost/osau/schools/find/291/stellenbosch-academy-of-design-and-photography/about,404
+<Response [404]>
+(404, [<Response [301]>], ['http://www.stellenboschacademy.co.za/our-story.html', 'http://localhost/osau/schools/find/291/stellenbosch-academy-of-design-and-photography/about', '0'], 'Error')
+
+http://www.tcicollege.edu,http://localhost/osau/schools/find/7182/tci-college-of-technology/reviews,0
+0
+(0, [], ['http://www.tcicollege.edu', 'http://localhost/osau/schools/find/7182/tci-college-of-technology/reviews', '0'], ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.tcicollege.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e4ad978>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www.ubtech.edu,http://localhost/osau/schools/find/7411/uintah-basin-applied-technology-college,504
+<Response [504]>
+(504, [], ['http://www.ubtech.edu', 'http://localhost/osau/schools/find/7411/uintah-basin-applied-technology-college', '0'], 'Error')
+
+http://www.westgatech.edu,http://localhost/osau/schools/find/6496/west-georgia-technical-college/reviews,504
+<Response [504]>
+(504, [], ['http://www.westgatech.edu', 'http://localhost/osau/schools/find/6496/west-georgia-technical-college/reviews', '504'], 'Error')
+
+http://www.wvbc.edu,http://localhost/osau/schools/find/7410/west-virginia-business-college/reviews,0
+0
+(0, [], ['http://www.wvbc.edu', 'http://localhost/osau/schools/find/7410/west-virginia-business-college/reviews', '0'], ConnectionError(MaxRetryError("HTTPConnectionPool(host='www.wvbc.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e4ade10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+http://www0.hku.hk/dance/,http://localhost/osau/schools/find/217/university-of-hong-kong/societies-and-clubs?page=20,0
+0
+(0, [], ['http://www0.hku.hk/dance/', 'http://localhost/osau/schools/find/217/university-of-hong-kong/societies-and-clubs?page=20', '0'], ConnectionError(MaxRetryError("HTTPConnectionPool(host='www0.hku.hk', port=80): Max retries exceeded with url: /dance/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e4ad400>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")))
+
+https://ase.ntu.edu.sg/programmes/phd/doctor-philosophy-phd,http://localhost/osau/schools/find/55/nanyang-technological-university/courses/course_rating/441,500
+<Response [500]>
+(500, [], ['https://ase.ntu.edu.sg/programmes/phd/doctor-philosophy-phd', 'http://localhost/osau/schools/find/55/nanyang-technological-university/courses/course_rating/441', '500'], 'Error')
+
+https://csb.edu,http://localhost/osau/schools/find/7341/consolidated-school-of-business,503
+<Response [503]>
+(503, [], ['https://csb.edu', 'http://localhost/osau/schools/find/7341/consolidated-school-of-business', '0'], 'Error')
+
+https://en.wikipedia.org/wiki/Assumption_University_(Windsor,_Ontario),404
+<Response [404]>
+(404, [], ['https://en.wikipedia.org/wiki/Assumption_University_(Windsor', '_Ontario)', '0'], 'Error')
+
+https://en.wikipedia.org/wiki/Australian_Film,_Television_and_Radio_School#Teaching_staff,404
+<Response [404]>
+(404, [], ['https://en.wikipedia.org/wiki/Australian_Film', '_Television_and_Radio_School#Teaching_staff', '404'], 'Error')
+
+https://en.wikipedia.org/wiki/Campus_of_The_Citadel,_The_Military_College_of_South_Carolina,404
+<Response [404]>
+(404, [], ['https://en.wikipedia.org/wiki/Campus_of_The_Citadel', '_The_Military_College_of_South_Carolina', '404'], 'Error')
+
+https://en.wikipedia.org/wiki/Concordia_College_(Moorhead,_Minnesota),404
+<Response [404]>
+(404, [], ['https://en.wikipedia.org/wiki/Concordia_College_(Moorhead', '_Minnesota)', '0'], 'Error')
+
+https://en.wikipedia.org/wiki/Concordia_University_(Saint_Paul,_Minnesota),404
+<Response [404]>
+(404, [], ['https://en.wikipedia.org/wiki/Concordia_University_(Saint_Paul', '_Minnesota)', '0'], 'Error')
+
+https://en.wikipedia.org/wiki/D%C3%BAn_Laoghaire_Institute_of_Art,_Design_and_Technology,404
+<Response [404]>
+(404, [], ['https://en.wikipedia.org/wiki/D%C3%BAn_Laoghaire_Institute_of_Art', '_Design_and_Technology', '0'], 'Error')
+
+https://en.wikipedia.org/wiki/D%C3%BAn_Laoghaire_Institute_of_Art,_Design_and_Technology,404
+<Response [404]>
+(404, [], ['https://en.wikipedia.org/wiki/D%C3%BAn_Laoghaire_Institute_of_Art', '_Design_and_Technology', '404'], 'Error')
+
+https://en.wikipedia.org/wiki/International_Business_College_(Fort_Wayne,_Indiana),404
+<Response [404]>
+(404, [], ['https://en.wikipedia.org/wiki/International_Business_College_(Fort_Wayne', '_Indiana)', '0'], 'Error')
+
+https://en.wikipedia.org/wiki/International_College_of_Management,_Sydney,404
+<Response [404]>
+(404, [], ['https://en.wikipedia.org/wiki/International_College_of_Management', '_Sydney', '0'], 'Error')
+
+https://en.wikipedia.org/wiki/International_College_of_Management,_Sydney,404
+<Response [404]>
+(404, [], ['https://en.wikipedia.org/wiki/International_College_of_Management', '_Sydney', '404'], 'Error')
+
+https://en.wikipedia.org/wiki/Jefferson_Community_College_(Watertown,_New_York),404
+<Response [404]>
+(404, [], ['https://en.wikipedia.org/wiki/Jefferson_Community_College_(Watertown', '_New_York)', '0'], 'Error')
+
+https://en.wikipedia.org/wiki/Jefferson_Community_College_(Watertown,_New_York),404
+<Response [404]>
+(404, [], ['https://en.wikipedia.org/wiki/Jefferson_Community_College_(Watertown', '_New_York)', '404'], 'Error')
+
+https://en.wikipedia.org/wiki/St._Augustine%27s_University_(Raleigh,_North_Carolina),404
+<Response [404]>
+(404, [], ['https://en.wikipedia.org/wiki/St._Augustine%27s_University_(Raleigh', '_North_Carolina)', '0'], 'Error')
+
+https://en.wikipedia.org/wiki/St._Augustine%27s_University_(Raleigh,_North_Carolina),404
+<Response [404]>
+(404, [], ['https://en.wikipedia.org/wiki/St._Augustine%27s_University_(Raleigh', '_North_Carolina)', '404'], 'Error')
+
+https://en.wikipedia.org/wiki/St._Joseph%27s_College_(Brooklyn/Patchogue,_New_York),404
+<Response [404]>
+(404, [], ['https://en.wikipedia.org/wiki/St._Joseph%27s_College_(Brooklyn/Patchogue', '_New_York)', '0'], 'Error')
+
+https://en.wikipedia.org/wiki/St._Nicholas_Montessori_College,_Ireland,404
+<Response [404]>
+(404, [], ['https://en.wikipedia.org/wiki/St._Nicholas_Montessori_College', '_Ireland', '404'], 'Error')
+
+https://en.wikipedia.org/wiki/St._Paul%27s_School_(Concord,_New_Hampshire),404
+<Response [404]>
+(404, [], ['https://en.wikipedia.org/wiki/St._Paul%27s_School_(Concord', '_New_Hampshire)', '0'], 'Error')
+
+https://en.wikipedia.org/wiki/St._Paul%27s_School_(Concord,_New_Hampshire),404
+<Response [404]>
+(404, [], ['https://en.wikipedia.org/wiki/St._Paul%27s_School_(Concord', '_New_Hampshire)', '404'], 'Error')
+
+https://en.wikipedia.org/wiki/State_College_of_Florida,_Manatee%E2%80%93Sarasota,404
+<Response [404]>
+(404, [], ['https://en.wikipedia.org/wiki/State_College_of_Florida', '_Manatee%E2%80%93Sarasota', '0'], 'Error')
+
+https://en.wikipedia.org/wiki/State_College_of_Florida,_Manatee%E2%80%93Sarasota,404
+<Response [404]>
+(404, [], ['https://en.wikipedia.org/wiki/State_College_of_Florida', '_Manatee%E2%80%93Sarasota', '404'], 'Error')
+
+https://hku.hk/cchkusu,http://localhost/osau/schools/find/217/university-of-hong-kong/societies-and-clubs?page=20,0
+0
+(0, [], ['https://hku.hk/cchkusu', 'http://localhost/osau/schools/find/217/university-of-hong-kong/societies-and-clubs?page=20', '0'], SSLError(MaxRetryError('HTTPSConnectionPool(host=\'www.facebook.com\', port=443): Max retries exceeded with url: /hkusucc/ (Caused by SSLError(SSLError("bad handshake: SysCallError(60, \'ETIMEDOUT\')")))')))
+
+https://lehighvalley.edu,http://localhost/osau/schools/find/7474/lehigh-valley-college/reviews,500
+<Response [500]>
+(500, [<Response [301]>, <Response [301]>], ['https://lehighvalley.edu', 'http://localhost/osau/schools/find/7474/lehigh-valley-college/reviews', '500'], 'Error')
+
+https://northgatech.edu/,http://localhost/osau/schools/find/6908/north-georgia-technical-college,0
+0
+(0, [], ['https://northgatech.edu/', 'http://localhost/osau/schools/find/6908/north-georgia-technical-college', '0'], ConnectionError(MaxRetryError("HTTPSConnectionPool(host='northgatech.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10e4bd390>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://ourschoolandus.com/schools/find/4544/california-state-university-sacramento-sacramento-state/manage?mtab=resources,http://localhost/osau/schools/find/4544/california-state-university-sacramento-sacramento-state/about,401
+<Response [401]>
+(401, [], ['https://ourschoolandus.com/schools/find/4544/california-state-university-sacramento-sacramento-state/manage?mtab=resources', 'http://localhost/osau/schools/find/4544/california-state-university-sacramento-sacramento-state/about', '0'], 'Error')
+
+https://ourschoolandus.com/schools/find/772/oxford-brookes-university/about,http://localhost/osau/schools/find/772/oxford-brookes-university/about,401
+<Response [401]>
+(401, [], ['https://ourschoolandus.com/schools/find/772/oxford-brookes-university/about', 'http://localhost/osau/schools/find/772/oxford-brookes-university/about', '401'], 'Error')
+
+https://socsc.smu.edu.sg/programmes/fast-track-msc-psychology/overview,http://localhost/osau/schools/find/56/singapore-management-university/courses/course_rating/873,404
+<Response [404]>
+(404, [], ['https://socsc.smu.edu.sg/programmes/fast-track-msc-psychology/overview', 'http://localhost/osau/schools/find/56/singapore-management-university/courses/course_rating/873', '404'], 'Error')
+
+https://surry.edu,http://localhost/osau/schools/find/6766/surry-community-college,0
+0
+(0, [], ['https://surry.edu', 'http://localhost/osau/schools/find/6766/surry-community-college', '0'], ConnectionError(MaxRetryError("HTTPSConnectionPool(host='surry.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10e48d320>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://sw.edu,http://localhost/osau/schools/find/6768/southwest-virginia-community-college,503
+<Response [503]>
+(503, [], ['https://sw.edu', 'http://localhost/osau/schools/find/6768/southwest-virginia-community-college', '0'], 'Error')
+
+https://sw.edu/about/,http://localhost/osau/schools/find/6768/southwest-virginia-community-college/about,503
+<Response [503]>
+(503, [], ['https://sw.edu/about/', 'http://localhost/osau/schools/find/6768/southwest-virginia-community-college/about', '0'], 'Error')
+
+https://www-rp-edu-sg.cwp.sg/ace/course-summary/Detail/diploma-in-applied-science-(environmental-services-and-management),http://localhost/osau/schools/find/70/republic-polytechnic/courses/course_rating/1974,403
+<Response [403]>
+(403, [], ['https://www-rp-edu-sg.cwp.sg/ace/course-summary/Detail/diploma-in-applied-science-(environmental-services-and-management)', 'http://localhost/osau/schools/find/70/republic-polytechnic/courses/course_rating/1974', '0'], 'Error')
+
+https://www.alamancecc.edu/,http://localhost/osau/schools/find/6664/alamance-community-college,0
+0
+(0, [], ['https://www.alamancecc.edu/', 'http://localhost/osau/schools/find/6664/alamance-community-college', '0'], ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.alamancecc.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10e4d6ba8>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://www.albanytech.edu/,http://localhost/osau/schools/find/6799/albany-technical-college,0
+0
+(0, [], ['https://www.albanytech.edu/', 'http://localhost/osau/schools/find/6799/albany-technical-college', '0'], ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.albanytech.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10e583198>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://www.auc.edu/ics/,http://localhost/osau/schools/find/7022/atlantic-union-college/reviews,404
+<Response [404]>
+(404, [<Response [301]>], ['https://www.auc.edu/ics/', 'http://localhost/osau/schools/find/7022/atlantic-union-college/reviews', '404'], 'Error')
+
+https://www.beds.ac.uk/about-us/our-university/strategic-plan,-vision,404
+<Response [404]>
+(404, [], ['https://www.beds.ac.uk/about-us/our-university/strategic-plan', '-vision', '404'], 'Error')
+
+https://www.cbshouston.edu,http://localhost/osau/schools/find/7039/college-of-biblical-studies-houston,0
+0
+(0, [], ['https://www.cbshouston.edu', 'http://localhost/osau/schools/find/7039/college-of-biblical-studies-houston', '0'], SSLError(MaxRetryError('HTTPSConnectionPool(host=\'www.cbshouston.edu\', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError("bad handshake: Error([(\'SSL routines\', \'ssl3_read_bytes\', \'sslv3 alert handshake failure\')])")))')))
+
+https://www.cegepgarneau.ca,http://localhost/osau/schools/find/566/collège-françois-xavier-garneau,0
+0
+(0, [], ['https://www.cegepgarneau.ca', 'http://localhost/osau/schools/find/566/collège-françois-xavier-garneau', '0'], ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.cegepgarneau.ca', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10e4bd6a0>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://www.clinton.edu,http://localhost/osau/schools/find/5751/clinton-community-college,0
+0
+(0, [], ['https://www.clinton.edu', 'http://localhost/osau/schools/find/5751/clinton-community-college', '0'], SSLError(MaxRetryError('HTTPSConnectionPool(host=\'www.clinton.edu\', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError("bad handshake: SysCallError(-1, \'Unexpected EOF\')")))')))
+
+https://www.clinton.edu/CampusInfo/,http://localhost/osau/schools/find/5751/clinton-community-college/about,0
+0
+(0, [], ['https://www.clinton.edu/CampusInfo/', 'http://localhost/osau/schools/find/5751/clinton-community-college/about', '0'], SSLError(MaxRetryError('HTTPSConnectionPool(host=\'www.clinton.edu\', port=443): Max retries exceeded with url: /CampusInfo/ (Caused by SSLError(SSLError("bad handshake: SysCallError(-1, \'Unexpected EOF\')")))')))
+
+https://www.coleman.edu/about/about.php,http://localhost/osau/schools/find/6689/coleman-university/about,404
+<Response [404]>
+(404, [<Response [301]>], ['https://www.coleman.edu/about/about.php', 'http://localhost/osau/schools/find/6689/coleman-university/about', '0'], 'Error')
+
+https://www.davistech.edu/,http://localhost/osau/schools/find/6966/davis-technical-college,0
+0
+(0, [], ['https://www.davistech.edu/', 'http://localhost/osau/schools/find/6966/davis-technical-college', '0'], ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.davistech.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10e4d6b70>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://www.eit.ac.nz/wp-content/uploads/2010/10/EIT-Prospectus-2018-0218-LR-fv.pdf,http://localhost/osau/schools/find/11/eastern-institute-of-technology/about,404
+<Response [404]>
+(404, [], ['https://www.eit.ac.nz/wp-content/uploads/2010/10/EIT-Prospectus-2018-0218-LR-fv.pdf', 'http://localhost/osau/schools/find/11/eastern-institute-of-technology/about', '0'], 'Error')
+
+https://www.eit.ac.nz/wp-content/uploads/2010/10/EIT-Prospectus-2018-0218-LR-fv.pdf,http://localhost/osau/schools/find/11/eastern-institute-of-technology/about,404
+<Response [404]>
+(404, [], ['https://www.eit.ac.nz/wp-content/uploads/2010/10/EIT-Prospectus-2018-0218-LR-fv.pdf', 'http://localhost/osau/schools/find/11/eastern-institute-of-technology/about', '404'], 'Error')
+
+https://www.esgvrop.org,http://localhost/osau/schools/find/7298/east-san-gabriel-valley-regional-occupational-program-technical-center,403
+<Response [403]>
+(403, [], ['https://www.esgvrop.org', 'http://localhost/osau/schools/find/7298/east-san-gabriel-valley-regional-occupational-program-technical-center', '0'], 'Error')
+
+https://www.flcc.edu,http://localhost/osau/schools/find/6141/finger-lakes-community-college,0
+0
+(0, [], ['https://www.flcc.edu', 'http://localhost/osau/schools/find/6141/finger-lakes-community-college', '0'], ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.flcc.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10e4d66a0>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://www.fortis.edu/,http://localhost/osau/schools/find/6279/fortis-colleges,403
+<Response [403]>
+(403, [], ['https://www.fortis.edu/', 'http://localhost/osau/schools/find/6279/fortis-colleges', '0'], 'Error')
+
+https://www.fortis.edu/,http://localhost/osau/schools/find/6279/fortis-colleges,403
+<Response [403]>
+(403, [], ['https://www.fortis.edu/', 'http://localhost/osau/schools/find/6279/fortis-colleges', '403'], 'Error')
+
+https://www.globaluniversity.edu,http://localhost/osau/schools/find/7389/global-university,0
+0
+(0, [], ['https://www.globaluniversity.edu', 'http://localhost/osau/schools/find/7389/global-university', '0'], SSLError(MaxRetryError('HTTPSConnectionPool(host=\'www.globaluniversity.edu\', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError("bad handshake: SysCallError(-1, \'Unexpected EOF\')")))')))
+
+https://www.globaluniversity.edu/about_index.cfm,http://localhost/osau/schools/find/7389/global-university/about,0
+0
+(0, [], ['https://www.globaluniversity.edu/about_index.cfm', 'http://localhost/osau/schools/find/7389/global-university/about', '0'], SSLError(MaxRetryError('HTTPSConnectionPool(host=\'www.globaluniversity.edu\', port=443): Max retries exceeded with url: /about_index.cfm (Caused by SSLError(SSLError("bad handshake: SysCallError(-1, \'Unexpected EOF\')")))')))
+
+https://www.hood.edu/about-hood.html,http://localhost/osau/schools/find/5181/hood-college/about,404
+<Response [404]>
+(404, [], ['https://www.hood.edu/about-hood.html', 'http://localhost/osau/schools/find/5181/hood-college/about', '0'], 'Error')
+
+https://www.jwcc.edu/,http://localhost/osau/schools/find/6685/john-wood-community-college,0
+0
+(0, [], ['https://www.jwcc.edu/', 'http://localhost/osau/schools/find/6685/john-wood-community-college', '0'], ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.jwcc.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10e4bd978>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://www.manhattantech.edu,http://localhost/osau/schools/find/7179/manhattan-area-technical-college,0
+0
+(0, [], ['https://www.manhattantech.edu', 'http://localhost/osau/schools/find/7179/manhattan-area-technical-college', '0'], ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.manhattantech.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10e4d6f98>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://www.martincc.edu/discover,http://localhost/osau/schools/find/7251/martin-community-college/about,404
+<Response [404]>
+(404, [], ['https://www.martincc.edu/discover', 'http://localhost/osau/schools/find/7251/martin-community-college/about', '0'], 'Error')
+
+https://www.rcleehallhku.com,http://localhost/osau/schools/find/217/university-of-hong-kong/societies-and-clubs?page=60,404
+<Response [404]>
+(404, [], ['https://www.rcleehallhku.com', 'http://localhost/osau/schools/find/217/university-of-hong-kong/societies-and-clubs?page=60', '404'], 'Error')
+
+https://www.rwcmd.ac.uk,http://localhost/osau/schools/find/886/royal-welsh-college-of-music-drama,0
+0
+(0, [], ['https://www.rwcmd.ac.uk', 'http://localhost/osau/schools/find/886/royal-welsh-college-of-music-drama', '0'], SSLError(MaxRetryError('HTTPSConnectionPool(host=\'www.rwcmd.ac.uk\', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError("bad handshake: SysCallError(-1, \'Unexpected EOF\')")))')))
+
+https://www.sctech.edu,http://localhost/osau/schools/find/7000/southern-crescent-technical-college-flint-river-technical-college,0
+0
+(0, [], ['https://www.sctech.edu', 'http://localhost/osau/schools/find/7000/southern-crescent-technical-college-flint-river-technical-college', '0'], ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.sctech.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10e583240>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://www.tompkinscortland.edu/college-info/about-tompkins-cortland,http://localhost/osau/schools/find/6186/tompkins-cortland-community-college/about,404
+<Response [404]>
+(404, [], ['https://www.tompkinscortland.edu/college-info/about-tompkins-cortland', 'http://localhost/osau/schools/find/6186/tompkins-cortland-community-college/about', '0'], 'Error')
+
+https://www.tompkinscortland.edu/college-info/about-tompkins-cortland,http://localhost/osau/schools/find/6186/tompkins-cortland-community-college/about,404
+<Response [404]>
+(404, [], ['https://www.tompkinscortland.edu/college-info/about-tompkins-cortland', 'http://localhost/osau/schools/find/6186/tompkins-cortland-community-college/about', '404'], 'Error')
+
+https://www.ucumberlands.edu/about/about-us,http://localhost/osau/schools/find/5959/university-of-the-cumberlands/about,404
+<Response [404]>
+(404, [], ['https://www.ucumberlands.edu/about/about-us', 'http://localhost/osau/schools/find/5959/university-of-the-cumberlands/about', '0'], 'Error')
+
+https://www.ucumberlands.edu/about/about-us,http://localhost/osau/schools/find/5959/university-of-the-cumberlands/about,404
+<Response [404]>
+(404, [], ['https://www.ucumberlands.edu/about/about-us', 'http://localhost/osau/schools/find/5959/university-of-the-cumberlands/about', '404'], 'Error')
+
+https://www.uhsm.nhs.uk/about/research/manchester-academic-health-science-centre-mahsc/,http://localhost/osau/schools/find/839/manchester-academic-health-science-centre/about,0
+0
+(0, [], ['https://www.uhsm.nhs.uk/about/research/manchester-academic-health-science-centre-mahsc/', 'http://localhost/osau/schools/find/839/manchester-academic-health-science-centre/about', '0'], ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.uhsm.nhs.uk', port=443): Max retries exceeded with url: /about/research/manchester-academic-health-science-centre-mahsc/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10e4d6eb8>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://www.unca.edu,http://localhost/osau/schools/find/4817/university-of-north-carolina-asheville,0
+0
+(0, [], ['https://www.unca.edu', 'http://localhost/osau/schools/find/4817/university-of-north-carolina-asheville', '0'], ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.unca.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10e4bdf60>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://www.uncsa.edu,http://localhost/osau/schools/find/5878/university-of-north-carolina-school-of-the-arts,0
+0
+(0, [], ['https://www.uncsa.edu', 'http://localhost/osau/schools/find/5878/university-of-north-carolina-school-of-the-arts', '0'], ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.uncsa.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10e4ad9e8>: Failed to establish a new connection: [Errno 60] Operation timed out'))")))
+
+https://www.uncw.edu/aboutuncw/,http://localhost/osau/schools/find/4526/university-of-north-carolina-wilmington/about,404
+<Response [404]>
+(404, [], ['https://www.uncw.edu/aboutuncw/', 'http://localhost/osau/schools/find/4526/university-of-north-carolina-wilmington/about', '404'], 'Error')
+
+https://www.waubonsee.edu,http://localhost/osau/schools/find/6134/waubonsee-community-college/reviews,403
+<Response [403]>
+(403, [], ['https://www.waubonsee.edu', 'http://localhost/osau/schools/find/6134/waubonsee-community-college/reviews', '403'], 'Error')
+
+https://www.wju.edu,http://localhost/osau/schools/find/5062/wheeling-jesuit-university,0
+0
+(0, [], ['https://www.wju.edu', 'http://localhost/osau/schools/find/5062/wheeling-jesuit-university', '0'], SSLError(MaxRetryError('HTTPSConnectionPool(host=\'www.wju.edu\', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError("bad handshake: SysCallError(-1, \'Unexpected EOF\')")))')))
+
+https://www.ystmusic.nus.edu.sg/certificate-programme/,http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/730,404
+<Response [404]>
+(404, [<Response [301]>, <Response [301]>], ['https://www.ystmusic.nus.edu.sg/certificate-programme/', 'http://localhost/osau/schools/find/54/national-university-of-singapore/courses/course_rating/730', '404'], 'Error')
+
