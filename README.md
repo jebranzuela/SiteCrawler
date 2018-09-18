@@ -220,4 +220,8 @@ This is done mainly to save time. Getting the header uses less data than getting
 
 ## Suggestions and Improvements
 
-1. Some sites still responds with an error code when accessed using python requests probably protection from web crawling. I've already added more fields in the header of the request and lessen incorrect links that are working when accessed using a web browser.
+1. Use a desktop computer when running this script. Macbook sleeps when left unattended and stops all processes and needs to be plugged in at all times. Also, running multiple programs can slow down the script.
+
+2. If you do use a Macbook, install Caffeine to prevent it from sleeping. Check the option `Prevent computer from sleeping automatically when the display is off`.
+
+3. Some sites still responds with an error code when accessed using python requests probably protection from web crawling. I've already added more fields in the header of the request and lessen incorrect links that are working when accessed using a web browser.
