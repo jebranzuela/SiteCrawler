@@ -87,75 +87,75 @@ Method for checking if string contains a substring in the list `SHARER`. Reason 
 Method for crawling the website. It uses the python module `requests` to fetch the HTML content of the site. Then, the method parses the content using `BeautifulSoup` identifying elements with an `href` tag.
 
 ```python
-		r = requests.get(url)
-		html = r.content
+r = requests.get(url)
+html = r.content
 
-		file = open("output.txt", 'a')
-		file.write("Parsing: " + url + "\n")
-		file.write("No. of OSAU links: " + str(len(osau_urls)) + "\n")
-		file.write("No. of External links: " + str(len(ext_urls)) + "\n")
-		file.close()
+file = open("output.txt", 'a')
+file.write("Parsing: " + url + "\n")
+file.write("No. of OSAU links: " + str(len(osau_urls)) + "\n")
+file.write("No. of External links: " + str(len(ext_urls)) + "\n")
+file.close()
 
-		soup = BeautifulSoup(html, 'html.parser')
-		links = soup.find_all('a')
-		urls = [link.get('href') for link in links if link.get('href') and (link.get('href')[0:4]=='http' or link.get('href')[0:5]=='https')]
+soup = BeautifulSoup(html, 'html.parser')
+links = soup.find_all('a')
+urls = [link.get('href') for link in links if link.get('href') and (link.get('href')[0:4]=='http' or link.get('href')[0:5]=='https')]
 ```
 
 After getting the links from the site, the script sorts the link if it is an internal link or an external links.
 
 ```python
-		osau_temp = []
-		ext_temp = []
-		for link in urls:
-			if link[0:21] == "http://localhost/osau" and skipLinks(link):
-				osau_temp.append(link)
+osau_temp = []
+ext_temp = []
+for link in urls:
+	if link[0:21] == "http://localhost/osau" and skipLinks(link):
+		osau_temp.append(link)
 
-			elif skipLinks(link):
-				if link not in list(ext_urls.keys()) and notShare(link):
-					ext_urls[link] = url
+	elif skipLinks(link):
+		if link not in list(ext_urls.keys()) and notShare(link):
+			ext_urls[link] = url
 ```
 
 To avoid duplicates, we check if the links we got is already in the list of links we have.
 
 ```python
-		in_osau = set(osau_urls)
-		in_temp = set(osau_temp)
-		diff = in_temp - in_osau
-		osau_urls = osau_urls + list(diff)
+in_osau = set(osau_urls)
+in_temp = set(osau_temp)
+diff = in_temp - in_osau
+osau_urls = osau_urls + list(diff)
 ```
 
 Then, we pass the new links in the method for crawling.
 
 ```python		
-		for url in diff:
-			scrapeSite(url)
+for url in diff:
+	scrapeSite(url)
 ```
 
 Lastly, after crawling the site, we write the data we got in a file for future use.
 
 ```python
-		file = open("sites.txt", "w")
-		for link in osau_urls:
-			file.writelines("%s\n" % link)
+file = open("sites.txt", "w")
+for link in osau_urls:
+	file.writelines("%s\n" % link)
 
-		file.write("==========EXTERNAL LINKS==========\n")
+file.write("==========EXTERNAL LINKS==========\n")
 
-		for link in ext_urls:
-			file.writelines("%s,%s\n" % (link,ext_urls[link]))
+for link in ext_urls:
+	file.writelines("%s,%s\n" % (link,ext_urls[link]))
 
-		file.write("==========ERROR==========\n")
+file.write("==========ERROR==========\n")
 
-		for link in error_urls:
-			file.writelines("%s\n" % link)
+for link in error_urls:
+	file.writelines("%s\n" % link)
 
-		file.close()
+file.close()
 
-		file = open("external.csv", "w")
+file = open("external.csv", "w")
 
-		for link in ext_urls:
-			file.writelines("%s,%s\n" % (link,ext_urls[link]))
+for link in ext_urls:
+	file.writelines("%s,%s\n" % (link,ext_urls[link]))
 
-		file.close()
+file.close()
 ```
 
 ### `getheader.py`
