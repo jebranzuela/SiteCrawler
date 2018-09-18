@@ -199,15 +199,15 @@ SKIP  = ['http://localhost/osau/questions', 'http://localhost/osau/search/school
 
 These links are generated when viewing a question and searching for a school. Getting all of the links generated with these strings will take up a  __LOT__ of memory. Doing the math:
 
-		There are 57 Locations, 2 Rankings, 5 School Type, 8 School Category and 258 School Specialization. 
-		To find all possible links that can be generated:
+	There are 57 Locations, 2 Rankings, 5 School Type, 8 School Category and 258 School Specialization. 
+	To find all possible links that can be generated:
 
-			57*2**5*8*258 = 3,764,736 links
+		57*2**5*8*258 = 3,764,736 links
 
-		But `school?loc=United+States&type=Private` is different from `school?type=Private&loc=United+States`, 
-		so we need to multiply the number of possible ways to arrange the search terms which leads to:
+	But `school?loc=United+States&type=Private` is different from `school?type=Private&loc=United+States`, 
+	so we need to multiply the number of possible ways to arrange the search terms which leads to:
 
-			3764736*5! = 451,768,320 links
+		3764736*5! = 451,768,320 links
 
 So it is imposibble to include all search term links when crawling the site.
 
